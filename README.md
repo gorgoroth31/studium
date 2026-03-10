@@ -17,5 +17,5 @@ Anstelle des Tools 'skim' verwende ich zathura, das mit `sudo pacman -S zathura 
 #### Keybinds in normal mode
 
 - \ll (compile)
-- \lv (preview pdf file)
+- \lv (preview pdf file, funktioniert aber irgendwie nicht so wie es soll -> bei \ll wird das dokument einfach geupdated, vorausgesetzt, das Dokument wurde abgespeichert)
 - \le (jump to first error)
