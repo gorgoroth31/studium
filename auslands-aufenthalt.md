@@ -2,4 +2,4 @@
 - ums Praxissemester drum drum
 - Über Erasmus+ kann gefördert werden
 - Nach Norwegen, Schweden, Finnland?
-
+- Wird bei Jobsuche sehr stark berücksichtigt!
