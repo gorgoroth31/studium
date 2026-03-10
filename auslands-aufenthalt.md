@@ -1,0 +1,5 @@
+- Rechtzeitig anfangen/planen
+- ums Praxissemester drum drum
+- Über Erasmus+ kann gefördert werden
+- Nach Norwegen, Schweden, Finnland?
+
