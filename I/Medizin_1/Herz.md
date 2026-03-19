@@ -7,9 +7,9 @@
 - Besteht aus rechter (**dexter**) und linker (**sinister**) Seite, jeweils mit Vorhof (**atrium**) und Herzkammer (**ventriculus**)
 - Die linke Seite ist etwas kräftiger als die rechte Seite, da rechte Seite nur zur Lunge pumpen muss, die linke in den ganzen Körper
 - Über die Vorhöfe kommt Blut in die Herzkammern rein, das über **-Mitral** (links) und **Trikuspidalklappe** in den Kammern gehalten wird
-- blut strömt aus herz raus und wird von **Aorten-** (links) und **Pulmonalklappe** (rechts) in den adern gehalten
-- herzklappen stellen die strömungsrichtung sicher
-- herzkammern sind für den druckaufbau da
+- Blut strömt aus Herz raus und wird von **Aorten-** (links) und **Pulmonalklappe** (rechts) in den Adern gehalten
+- Herzklappen stellen die Strömungsrichtung sicher
+- Herzkammern sind für den Diruckaufbau da
 
 ## Weg des Blutes
 
@@ -30,5 +30,5 @@
 
 - Entspannung des Herzmuskels (2. Herzton)
 - Schließung der **Aorten-** und **Pulmonalklappe**
-- Öffnung der **Mitral--** und **Trikuspidalklappe**
+- Öffnung der **Mitral-** und **Trikuspidalklappe**
 - Passive Füllung der Herzkammern mit Blut aus den Venen
