@@ -2,7 +2,7 @@
 
 ## Links und zusätzliche Quellen
 
-- [kardiologie-gamm.de](https://kardiologie.gamm.de)
+- [kardiologie-gamm.de](https://kardiologie-gamm.de)
 
 ## Anatomie
 
