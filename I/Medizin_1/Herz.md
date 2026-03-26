@@ -62,3 +62,45 @@ Unterschied Taschen- und Segelklappen:
 - Schließung der **Aorten-** und **Pulmonalklappe**
 - Öffnung der **Mitral-** und **Trikuspidalklappe**
 - Passive Füllung der Herzkammern mit Blut aus den Venen
+
+
+## Diagnostik
+
+### Auskultation
+
+- Über "Kassendreieck" können mit Stethoskop das Herz auskultiert werden
+- Bei normalem Befund (**physiologisch**) sind die beiden Herztöne wie gewohnt zu hören
+- Bei auffälligem Befund (**pathologisch**) sind **Herzgeräusche** zu hören
+- Je nachdem, ob die Geräusche während der Systole oder der Diastole auftreten, können Rückschlüsse auf die betroffene(n) Klappe(n) gezogen werden
+- Zu beachten: Patient sollte ausatmen und die Luft anhalten, da sich Lunge mit Luft vors Herz schiebt
+- Geräusche breiten sich außerdem in Blut aus, wodurch die betroffene Klappe lokalisiert werden kann
+
+### Technische Diagnostik
+
+- **Elektrokardiographie** (EKG): Zeichen der Linksherzhypertrophie (Herz kämpft gegen verklebte Aortenklappe an und wird somit kräftiger und wächst nach innen)
+- Belastungs-EKG: Riskant, da Patient bereits vulnerabel und das Herz in Ruhelage bereits belastet ist und nicht ausgereizt werden soll
+- Röntgen: Erst im Spätstadium sichtbare Veränderung, da Herzmuskel nach innen wächst 
+
+#### Ultraschall
+- **Echokardiographie**
+- Aussendung von Ultraschallwellen (im niedrigen MHz-Bereich):
+  - niedrige Frequenz: Hohe Eindringtiefe, aber niedrige Auflösung
+  - hohe Frequenz: Niedrige Eindringtiefe, aber hohe Auflösung
+- Sobald USW auf Gewebe treffen, wird wird ein Teil reflektiert; aus diesem Echo kann ein Bild in Graustufen erstellt werden
+- Gel wird auf Haut aufgetragen um ein Luftpolster zwischen Schallkopf und Haut zu vermeiden
+
+| Vorteile   | Nachteile    |
+|--------------- | --------------- |
+| Minimal invasiv   | Kompromiss zwischen Auflösung und Eindringtiefe   |
+| Keine Strahlenbelastung   | Komplizierte Dokumentation (Mitschrift kann fehlerhaft sein, da Arzt etwas möglicherweise nicht erkennt; 20 min Video-Material sind langwierig zu durchsuchen)   |
+| Preiswert, dadurch überall verfügbar   | Nachträgliche Behandlung (z.B. durch Erfahreneren) schwierig |
+| Individuell duch Untersucher steuerbar   | Probleme bei adipösen Patienten |
+| Livebild, Darstellung von Bewegungen (z.B. der Herzklappen) | Störung durch Luft/Kalk, daher schlecht geeignet für die Untersuchung von Gehirn, Knochen, Lunge |
+| Kombination mit Doppleruntersuchung: Darstellung von Blutströmen | |
+| Guter Weichteilkontrast, daher gut geeignet zur Untersuchung von: Bauchorganen, Schilddrüse, Gefäßen, Herz (jedoch Rippen und Lunge als Hindernis) | |
+
+#### Echokardiographie
+
+### Erkrankungen an den Klappen
+- **Insuffizienz**: Klappe schließt nicht richtig und Blut läuft zurück
+- **Stenose**: Klappe ist verklebt und geht nicht richtig auf

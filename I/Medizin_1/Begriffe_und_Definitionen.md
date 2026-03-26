@@ -60,3 +60,11 @@ Diese körperliche Untersuchung kann in Form von 4 verschiedenen Maßnahmen stat
 - **Palpation**: Abtasten
 - **Perkussion**: Abklopfen
 - **Auskultation**: Horchen (mit Stethoskop)
+
+Unterscheidung von sinvollen und nicht sinnvollen Maßnahmen für die Diagnostik:
+- **Indizert**: sinvoll zu machen
+- **Kontraindiziert**: nicht sinnvoll zu machen oder gar verboten, da belastend für Patienten etc.
+
+### Befund
+- **Physiologisch**: Normalbefund
+- **Pathologisch**: Auffälliger Befund
