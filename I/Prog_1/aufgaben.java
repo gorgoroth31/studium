@@ -1,7 +1,10 @@
+import java.util.Scanner;
+import java.util.Random;
+
 public class Aufgaben {
 
   public static void main(String[] args) {
-    aufgabe8();
+    aufgabe11();
   }
 
   public static void aufgabe1() {
@@ -127,5 +130,87 @@ public class Aufgaben {
 
     System.out.print("||");
 
+  }
+
+  static void aufgabe9() {
+    // messwerte einlesen
+    System.out.print("Eingabe Zahl q: ");
+    Scanner reader = new Scanner(System.in);
+
+    int q = reader.nextInt();
+    
+    int[] array = new int[q];
+
+    for (int i = 0; i < q; i++) {
+      System.out.print("Messwert " + (i + 1) + " eingeben: ");
+      array[i] = reader.nextInt();
+    }
+
+    System.out.print("Messwerte: ");
+
+    int sum = 0;
+
+    for (int i = 0; i < array.length; i++) {
+      System.out.print(array[i] + " ");
+      sum += array[i];
+    }
+
+    System.out.println("Durchschnitt: " + (sum / q));
+  }
+
+  static void aufgabe10() {
+    // 8x8 array
+    
+    int size = 8;
+
+    int[][] array = new int[size][size];
+
+    Scanner reader = new Scanner(System.in);
+
+    while(true) {
+      System.out.print("X: ");
+      int x = reader.nextInt();
+      System.out.print("Y: ");
+      int y = reader.nextInt();
+      System.out.print("Wert:");
+      int w = reader.nextInt();
+
+      array[x][y] = w;
+      
+      for(int i = 0; i < size; i++) {
+        for(int j = 0; j < size; j++) {
+          System.out.print(array[i][j] + " ");
+        }
+        System.out.println();
+      }
+    }
+  }
+
+  static void aufgabe11() {
+    Random rand = new Random();
+    int zahl = rand.nextInt(1000);
+
+    zahl++;
+
+    Scanner reader = new Scanner(System.in);
+
+    int counter = 0;
+
+    while(true) {
+      counter++;
+      System.out.print("Rate mal: ");
+      int input = reader.nextInt();
+      
+
+      if (input > zahl) {
+        System.out.println("Die gesuchte Zahl ist kleiner");
+      } else if (input < zahl) {
+        System.out.println("Die gesuchte Zahl ist größer");
+      } else {
+        System.out.println("Glückwunsch! Du hast die gesuchte Zahl gefunden!");
+        System.out.println("Anzahl der Versuche: " + counter);
+        break;
+      }
+    }
   }
 }
