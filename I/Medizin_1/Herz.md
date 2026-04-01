@@ -63,6 +63,16 @@ Unterschied Taschen- und Segelklappen:
 - Öffnung der **Mitral-** und **Trikuspidalklappe**
 - Passive Füllung der Herzkammern mit Blut aus den Venen
 
+### Normale Erregungsausbreitung im Herzen
+
+Dass das Herz sich zusammenziehen und entspannen kann, wird ein elektrischer Impuls am **Sinusknoten** gegeben. Diese elektrische Erregung breitet sich daraufhin im Herz aus, und die einzelnen "Unterimpulse" sind am EKG sichtbar:
+- P: Ausbreitung der Erregung in den Vorhöfen => Vorhöfe ziehen sich zusammen und treiben Blut in die Herzkammern
+- PQ-Strecke: Verzögerung am AV-Knoten (Atrioventrikularknoten; Nervenknoten zw. Vorhof und Kammer) für gezielte und verzögerte Weiterleitung => Zeit für Kammerfüllung 
+- Q: Überleitung d. Erregung auf Kammern
+- RS: Ausbreitung d. Erregung in den Kammern => Beginn Systole, da Kammerkontraktion
+- T: Erregungsrückbildung der Kammern => Beginn Diastole
+
+Nach einem EKG kann anhand der Kurve ausgewertet werden, ob die Impulse korrekt weitergeleitet werden und je nach Point of Failure ist zu erkennen, wann der Impuls nicht weiterkommt
 
 ## Diagnostik
 
@@ -77,9 +87,25 @@ Unterschied Taschen- und Segelklappen:
 
 ### Technische Diagnostik
 
-- **Elektrokardiographie** (EKG): Zeichen der Linksherzhypertrophie (Herz kämpft gegen verklebte Aortenklappe an und wird somit kräftiger und wächst nach innen)
 - Belastungs-EKG: Riskant, da Patient bereits vulnerabel und das Herz in Ruhelage bereits belastet ist und nicht ausgereizt werden soll
 - Röntgen: Erst im Spätstadium sichtbare Veränderung, da Herzmuskel nach innen wächst 
+
+#### Elektrokardiographie (EKG)
+
+Die Pumpfunktion des Herzen geht vom einer elektrischen Erregung aus, die vom **Sinusknoten** über das Herz ausgebreitet wird. Diese elektrischen **Potentialänderungen** kann man durch EKG-Elektroden an der Körperoberfläche abgreifen und relativ zur Zeitachse aufzeichnen.
+
+Hierbei wird jedoch nur die Erregungsleitung im Herz aufgezeichnet und NICHT die tatsächliche Pumpleistung
+
+Einsatzmöglichkeiten:
+- Diagnostik von Herzrhytmusstörungen
+- Diagnostik von Störungen der Erregungsausbreitung, z.B. bei:
+  - Herzinfarkt (da Zellen absterben und Erregung nicht weiterleiten)
+  - Elektrolytstörungen
+- Diagnostik mancher Herzmuskelerkrankungen, insbesondere Hypertrophie
+=> Zeichen der Linksherzhypertrophie (Herz kämpft gegen verklebte Aortenklappe an und wird somit kräftiger und wächst nach innen)
+- Diagnostik der Lungenembolie (Warum? ist zu erörtern)
+
+// TODO: erkennbare Anomalien
 
 #### Ultraschall
 - **Echokardiographie**
@@ -88,6 +114,8 @@ Unterschied Taschen- und Segelklappen:
   - hohe Frequenz: Niedrige Eindringtiefe, aber hohe Auflösung
 - Sobald USW auf Gewebe treffen, wird wird ein Teil reflektiert; aus diesem Echo kann ein Bild in Graustufen erstellt werden
 - Gel wird auf Haut aufgetragen um ein Luftpolster zwischen Schallkopf und Haut zu vermeiden
+
+
 
 | Vorteile   | Nachteile    |
 |--------------- | --------------- |
@@ -104,3 +132,7 @@ Unterschied Taschen- und Segelklappen:
 ### Erkrankungen an den Klappen
 - **Insuffizienz**: Klappe schließt nicht richtig und Blut läuft zurück
 - **Stenose**: Klappe ist verklebt und geht nicht richtig auf
+
+## AV-Block
+
+
