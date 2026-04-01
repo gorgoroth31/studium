@@ -92,7 +92,7 @@ Nach einem EKG kann anhand der Kurve ausgewertet werden, ob die Impulse korrekt 
 
 #### Elektrokardiographie (EKG)
 
-Die Pumpfunktion des Herzen geht vom einer elektrischen Erregung aus, die vom **Sinusknoten** über das Herz ausgebreitet wird. Diese elektrischen **Potentialänderungen** kann man durch EKG-Elektroden an der Körperoberfläche abgreifen und relativ zur Zeitachse aufzeichnen.
+Die Pumpfunktion des Herzen geht von einer elektrischen Erregung aus, die vom **Sinusknoten** initiiert wird und anschließend über das Herz ausgebreitet wird. Diese elektrischen **Potentialänderungen** kann man durch EKG-Elektroden an der Körperoberfläche abgreifen und relativ zur Zeitachse aufzeichnen.
 
 Hierbei wird jedoch nur die Erregungsleitung im Herz aufgezeichnet und NICHT die tatsächliche Pumpleistung
 
@@ -103,9 +103,8 @@ Einsatzmöglichkeiten:
   - Elektrolytstörungen
 - Diagnostik mancher Herzmuskelerkrankungen, insbesondere Hypertrophie
 => Zeichen der Linksherzhypertrophie (Herz kämpft gegen verklebte Aortenklappe an und wird somit kräftiger und wächst nach innen)
-- Diagnostik der Lungenembolie (Warum? ist zu erörtern)
+- Diagnostik der Lungenembolie (Warum? TODO)
 
-// TODO: erkennbare Anomalien
 
 #### Ultraschall
 - **Echokardiographie**
@@ -114,7 +113,6 @@ Einsatzmöglichkeiten:
   - hohe Frequenz: Niedrige Eindringtiefe, aber hohe Auflösung
 - Sobald USW auf Gewebe treffen, wird wird ein Teil reflektiert; aus diesem Echo kann ein Bild in Graustufen erstellt werden
 - Gel wird auf Haut aufgetragen um ein Luftpolster zwischen Schallkopf und Haut zu vermeiden
-
 
 
 | Vorteile   | Nachteile    |
@@ -133,6 +131,38 @@ Einsatzmöglichkeiten:
 - **Insuffizienz**: Klappe schließt nicht richtig und Blut läuft zurück
 - **Stenose**: Klappe ist verklebt und geht nicht richtig auf
 
+## Koronare Herzkrankheit
+
+Chronische Erkrankung des Herzens, die zu Verengung der **Koronararterien** (Arterien, die das Herz umgeben und mit Blut versorgen) führt und zu Minderdurchblutung führt.
+=> AV-Block kann daraus folgen
+
 ## AV-Block
 
+[DocCheck Flexikon - AV-Block](https://flexikon.doccheck.com/de/AV-Block)
 
+Herzrhytmusstörung, die durch Leitungsstörungen zwischen den Atrien und Ventrikeln entstehen
+
+Diagnostik:
+- Übelkeit, Schwindel, Dyspnoe
+- Niedrigerer Puls
+- mögliche Vorerkrankung des Herzen oder KHK
+
+### Was ist das Problem?
+
+Bei EKG-Befund zeigt die P-Welle an, dass die Vorhöfe erregt werden und sich optimalerweise zusammenziehen sollten. Nach kurzer Verzögerung sollte die Erregung am AV-Knoten an die Kammern gegeben werden, was aber nicht immer zuverlässig passiert
+
+Je nach Ausprägung (Verzögerung oder komplette Blockierung des Erregers) kann dies zu einer **Reduktion der Herzfrequenz** führen, sodass die Pumpleistung des Herzen abfällt 
+
+### Therapie
+
+Bei "harmloseren" Ausprägung keine Therapie, bzw. nur Absetzen/ Dosisreduktion von Medikamenten nötig, die Arrhythmien auslösen können. Bei schwereren Ausprägungen Schrittmacher und/oder Therapie der zugrunde liegenden KHK.
+
+#### Herzschrittmacher
+
+Elektrische Aktivität in Vorhof und Kammer wird gemessen und ausbleibende Impulse werden erkannt (z.B. Fehlen d. QRS-Komplexes), woraufhin eine Impuls erzeugt wird
+
+Muss nicht zwangsweise von Hezrchirurg eingesetzt werden; OP kann auch in Kardiologie erfolgen
+
+Aggregat wird subkutan oder unterhalb der Brustmuskulatur eingesetzt. Sonden werden durch Vene vorgeschoben und im rechten Vorhof/Kammer verankert (Vene wird benutzt, da weniger Druck als in Arterie)
+
+Letalitätsrisiko praktisch 0

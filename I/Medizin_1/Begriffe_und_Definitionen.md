@@ -68,3 +68,5 @@ Unterscheidung von sinvollen und nicht sinnvollen Maßnahmen für die Diagnostik
 ### Befund
 - **Physiologisch**: Normalbefund
 - **Pathologisch**: Auffälliger Befund
+- **Kursorisch unauffällig**: Auf den ersten Blick, oberflächlich unauffällig; wurde aber nicht näher untersucht
+
