@@ -109,4 +109,91 @@ Zur Standardisierung von Informationen werden Codes verwendet. Diese bieten die 
 - **zusammengesetzter** Code: Kennzeichen
 - **Ikonischer** Code: Wegweiser, Symbole, Stopzeichen
 
+### Schema
+
+Merkmale vieler Gegenstände des gleichen Typs sind zu dokumentieren und bilden in der Gesamtheit das **Dokumentations-Schema**. Dieses Schema muss
+- **für jeden Gegenstand**
+- **einheitlich**
+- so **vollständig** wie möglich
+- **wahrheitsentsprechend**
+angewandt werden
+
+### Qualitätsmerkmale
+
+Metriken, anhand derer die Qualität der Dok. objektiv gemessen werden kann
+
+| Begriff | Definition | Negativ-Beispiel |
+| --------------- | --------------- | --------------- |
+| **Vollzähligkeit** | Anteil der dokumentierten **Gegenstände** bezogen auf alle dokumentierbaren Gegenstände | Es wurden nur 80/100 Autos dokumentiert |
+| **Vollständigkeit** | Anteil der dokumentierten **Merkmale** bezogen auf alle dokumentierbaren Merkmale | Es wurden alle Autos dokumentiert, aber nur die vorderen Reifen |
+| **Korrektheit** | Anteil der **korrekt dokumentierten Merkmale (Gegenstände)** bezogen auf alle Merkmale (Gegenstände) | Nach dem 80ten Auto wird Profiltiefe nach Augenmaß geschätzt |
+
+### Plausibilitätsprüfung
+
+Um zu überprüfen, ob Merkmale eines Gegenstandes korrekt erfasst wurden, können mehrere Validierungen durchgeführt werden:
+
+| Begriff | Definition | Beispiel |
+| --------------- | --------------- | --------------- |
+| **Existenzprüfung** | Wurde ein Merkmal erfasst? | Pflichtfelder in Web-Form |
+| **Formatprüfung** | Entspricht ein erfasstes Merkmal einem bestimmten Format? | Längenprüfung, z.B. PLZ; Syntaxprüfung, z.B. E-Mail, Datum |
+| **Inhaltsprüfung** | Ist das erfasste Merkmal inhaltlich plausibel? | Bereichsprüfung: Blutdruck (800/600 nicht plausibel) |
+| **Abhängigkeitsprüfung** | Ist das erfasste Merkmal im Kontext zu anderen erfassten Merkmalen plausibel? | Merkmal "Schwangerschaft" ist abhängig von Geschlecht |
+| **Doppelte/ nicht einheitliche Datenerfassung** | Wurde ein Merkmal unterschiedlich erfasst? | |
+| **Prüfziffern** | IBAN: 2 Stellen nach Ländercode, die aus Berechnung der BLZ und des Ländercodes berechnet werden | |
+
+### Dokumentation als Prozess
+
+Dokumentation ist ein Prozess, der
+- zu einem bestimmten Zeitpunkt
+- an einem bestimmten Ort
+- durch eine bestimmte Person
+- durch bestimmte Mittel
+stattfindet
+
+W-Fragen: Wer, wo, wann, womit
+
+### Daten und Metadaten
+
+Daten betreffen **Eigenschaften der zu dokumentierenden Gegenstände**
+
+Metadaten geben Auskunft über die dokumentierten Daten:
+- Zeitpunkt der Datenerfassung
+- Autor der Daten
+- Besitzer der Daten
+- Zeitpunkt, Autor der Modifikation
+
+Metadaten sind Informationen, die nicht primär für den Nutzer des Gegenstands von Interesse sind und repräsentieren "Hintergrundinformationen"
+
+Sie ergeben sich aus dem Dokumenationskontext, also wann wurde die Dok. von wem erstellt und werden aus den Eigenschaften des Gegenstands abgeleitet
+
+Unterscheidung zwischen **Eigenschaften eines Gegenstands** und **Metadaten** ist von der Art und Nutzung der Dokumentation abhängig:
+=> Arzt interessiert sich für Inhalt der Patientenakte, Datenbankadmin interessiert sich für die Metadaten, wie die PA automatisch verarbeitet werden soll
+
+### Rechte und Pflichten
+
+Recht / Pflicht zu schreiben / editieren / lesen von:
+- einzelnen Items
+- Datengruppen (Arzt darf nur Abschnitt A editieren, Assistenz nur Abschnitt B)
+- Dokument als Ganzes (OP-Aufsicht darf Dokument nur lesen, muss aber unterschreiben)
+
+- Recht / Pflich zu sortieren / verlagern / vernichten / löschen
+
+- Besitzer der Dokumentation
+
+### Ordnungsprinzipien
+
+| Art der Ordnung | Ordnungskriterium | Beispiel |
+| --------------- | --------------- | --------------- |
+| Materiell | Äußeres Erscheinigsbuld | Buch vs CD |
+| Formal | Formale Elemente | Verfasser, ISBN-Nummer, Erscheinungsjahr |
+| Inhaltlich | Inhaltliche Elemente | Schlagwörter, Genre |
+| Funktional | Funktion | Ob Buch ausleihbar ist oder nicht |
+
+#### Kaskadierung von Ordnungskriterien
+
+Manchmal reicht ein einziges Kriterium zur Ordnung nicht aus, dann kann eine **Kaskade von Ordnungskriterien** angewendet werden. Nach der Reihenfolge der Kriterien wird der Gegenstand genau geordnet:
+- Zuerst nach Materiell: Buch
+- Dann Inhalt: Reiseführer
+- Dann Land/Stadt: Meppen Süd
+Umgekehrte Reihenfolge macht keinen Sinn!
 
