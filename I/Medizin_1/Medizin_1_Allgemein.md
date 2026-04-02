@@ -51,7 +51,31 @@ E.g Der Bauchnabel ist medial gelegen, der Ellbogen auf ähnlicher Höhe aber la
 - posterior: weiter hinten
 - anterior: weiter vorne
 
-## Krankheitenerkennung
+## Vitalzeichen
+
+Können durch Kontrollmonitore überwacht und aufgezeichnet werden und bestehen aus:
+- Artieller Blutdruck
+- Pulsfrequenz
+- Atemfrequenz
+- Körpertemperatur
+
+## Diagnostisches Vorgehen
+
+Um Krankheiten zu erkennen, schildert der Patient seine selbst wahrgenommenen **Symptome** in der **Anamnese**. Der Arzt untersucht den Patienten körperlich und notiert die festgestellten  Merkmale im **Befund** und kann aus diesem Befund eine (Verdachts-)**Diagnose** erstellen. 
+
+Dieses Vorgehen ist nach dem Modell der Stufendiagnostik
+
+Unterscheidung von sinvollen und nicht sinnvollen Maßnahmen für die Diagnostik:
+- **Indizert**: sinvoll zu machen
+- **Kontraindiziert**: nicht sinnvoll zu machen oder gar verboten, da belastend für Patienten etc.
+
+### Anamnese
+
+- **Eigenanamnese**: Patient wird über Symptome befragt
+- **Fremdanamnese**: Angehörige, Freunde werden über Symptome des Patienten befragt
+- **Vorbefunde**
+
+### Körperliche Untersuchung
 
 Um Krankheiten zu erkennen, schildert der Patient seine selbst wahrgenommenen **Symptome** in der **Anamnese**. Der Arzt untersucht den Patienten körperlich und notiert die festgestellten  Merkmale im **Befund** und kann aus diesem Befund eine (Verdachts-)**Diagnose** erstellen.
 Diese körperliche Untersuchung kann in Form von 4 verschiedenen Maßnahmen stattfinden:
@@ -60,10 +84,13 @@ Diese körperliche Untersuchung kann in Form von 4 verschiedenen Maßnahmen stat
 - **Palpation**: Abtasten
 - **Perkussion**: Abklopfen
 - **Auskultation**: Horchen (mit Stethoskop)
+- **Vitalzeichen** messen
 
-Unterscheidung von sinvollen und nicht sinnvollen Maßnahmen für die Diagnostik:
-- **Indizert**: sinvoll zu machen
-- **Kontraindiziert**: nicht sinnvoll zu machen oder gar verboten, da belastend für Patienten etc.
+### Technische Untersuchungen
+
+- Labordiagnostik: Blut, Urin, Stuhl etc.
+- Funktionstest
+- Bildgebende Verfahren: Echokardiographie, CT, MRT
 
 ### Befund
 - **Physiologisch**: Normalbefund

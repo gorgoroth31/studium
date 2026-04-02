@@ -106,13 +106,18 @@ Einsatzmöglichkeiten:
 - Diagnostik der Lungenembolie (Warum? TODO)
 
 
-#### Ultraschall
-- **Echokardiographie**
+#### Echokardiographie (Ultraschall)
 - Aussendung von Ultraschallwellen (im niedrigen MHz-Bereich):
   - niedrige Frequenz: Hohe Eindringtiefe, aber niedrige Auflösung
   - hohe Frequenz: Niedrige Eindringtiefe, aber hohe Auflösung
 - Sobald USW auf Gewebe treffen, wird wird ein Teil reflektiert; aus diesem Echo kann ein Bild in Graustufen erstellt werden
 - Gel wird auf Haut aufgetragen um ein Luftpolster zwischen Schallkopf und Haut zu vermeiden
+- wird verwendet um zu untersuchen:
+  - Wanddicke
+  - Klappenfunktion
+  - Blutfluss (Dopplereffekt)
+  - Druckgradienten
+- kann **transthorakal** (minimal invasiv) oder **transösophageal** (sehr invasiv -> zweite Wahl) angewandt werden
 
 
 | Vorteile   | Nachteile    |
@@ -125,11 +130,67 @@ Einsatzmöglichkeiten:
 | Kombination mit Doppleruntersuchung: Darstellung von Blutströmen | |
 | Guter Weichteilkontrast, daher gut geeignet zur Untersuchung von: Bauchorganen, Schilddrüse, Gefäßen, Herz (jedoch Rippen und Lunge als Hindernis) | |
 
-#### Echokardiographie
+
+
 
 ### Erkrankungen an den Klappen
-- **Insuffizienz**: Klappe schließt nicht richtig und Blut läuft zurück
-- **Stenose**: Klappe ist verklebt und geht nicht richtig auf
+- **Insuffizienz**: Klappe schließt nicht richtig und Blut läuft zurück; Undichtigkeit
+- **Stenose**: Klappe ist verengt und geht nicht richtig auf, wodurch Blut schlechter durchkommt; Verengung
+
+## Aortenstenose
+
+Aortenklappe ist verklebt und geht nicht richtig auf
+
+### Diagnostik
+
+Auskultation: Herzgeräusche; erster Herzton ist kein Bumm, sondern eher langgezogenes Knirschen. Langgezogen deshalb, weil das Blut länger braucht um aus dem Herzen gedrückt zu werden
+Echokardiographie mit Dopplereffekt: Blut wird langsamer als im Standardfall ausgetrieben
+Linksherzkatheter: sehr invasiv und wird nur verwendet wenn Herzecho nicht möglich; teuer; Letalität 1:1000
+
+### Therapie
+
+Ersatz der Aortenklappe:
+- Bei Patienten mit Beschwerden (ggf. unter Belastung) und schwerer Stenose
+- auch in hohem Lebensalter
+
+Aufdehnung der Aortenklappe nur in Ausnahmefällen:
+- Junge Patienten (angeborene Herzfehler)
+- Risiko der Klappeninsuffizienz
+
+Medikamentiöse Behandlung kaum möglich, ggf. durch:
+- Behandlung eines Bluthochdrucks
+- Senkung der Blutfette
+
+
+| Bioprothese   | Mechanische Prothese    |
+|--------------- | --------------- |
+| Vom Schwein oder Kalb   | Künstliches Material   |
+| Leise   | Geräuschentwicklung   |
+| Kürzere Haltbarkeit  | Lange Haltbarkeit   |
+| Keine lebenslange Blutverdünnung   | Lebenslange Blutverdünnung erforderlich, damit Klappe nicht durch Blutgerinnsel verklebt => Risiko von Nebenwirkungen!  |
+| Wird eher bei älteren Personen eingesetzt | Wird häufig bei jungen Personen eingesetzt |
+
+### Operationstechnik
+
+#### OP am offenen Herzen
+
+- Einsatz der Herz-Lungen-Maschine
+- OP-Sterblichkeit bei noch ausreichender Pumpfunktion 2-4%
+
+#### Minimalinvasive OP (nur Bioprothese)
+
+- Zugang über die Leiste (wie Herzkatheter) oder Herzspitze
+- Alternative bei schwerkranken Patienten
+- Sterblichkeitsrate nach 1 Jahr gleich niedrig wie konventionelle OP
+
+### Prognose der Krankheit
+
+- Gute Prognose bei Beschwerdefreiheit (plötzlicher Herztod < 1% pro Jahr)
+- Durchschnittliche Lebenserwartung:
+  - bei Atemnot/Brustschmerzen: 4-5 Jahre
+  - bei Ohnmachtsanfällen: 2-3 Jahre
+  - bei Zeichen der Pumpschwäche: 1-2 Jahre
+- Überlebensrate liegt nach OP bei 80-90% über 5 Jahre
 
 ## Koronare Herzkrankheit
 
