@@ -234,6 +234,82 @@ Datenaufbereitung durch **Parser**:
 - Wörter ohne inhaltliche Relevanz entfernen
 - Links extrahieren und an Frontier übergeben
 
-Suchergebnisse kommen zustande durch:
-- Keywords (Club & Disco)
+#### Faktoren der Relevanzbestimmung
+
+TL; DR: Wo Schlüßelwörter in welcher Frequenz auf der Seite vorkommen; Wo sich der Nutzer befindet und wie sieine Search History aussieht
+
+- **Position** der Suchwörter in:
+  Titel, Überschriften, Hyperlinks, Fließtext (--> field weighting)
+- **Häufigkeit** des Vorkommens der Suchwörter im **Dokument** (term frequency):
+  => Je häufiger ein bestimmtes Wort, desto relevanter ist das Wort im Dokument
+- Vorkommen der Suchwörter in **Meta-Daten** des Dokuments
+- Vorkommen der Suchwörter in URL
+- Anklick-Häufigkeit
+- Standort und Surfverhalten
+- **Vorkommen** der Suchwörter in speziellen **Wörterbüchern** / **Enzyklopädien**
+- **Abstand der Suchwörter** voneinander im Text
+- Rank-Verfahren:
+  - Page-Rank: Seite ist wichtiger, wenn viele andere Seiten auf diese verweisen
+  - Trust-Rank: Links von **vertrauenswürdigen** Anbietern (Uni, Regierung ...)
+
+#### Meta-Suchmaschinen
+
+- **Parallele Suche**: gleichzeitige Aktivierung verschiedener Suchmaschinen
+- **Ergebnis-Mischung**: Zusammenführung und Vereinheitlichung der Ergebnisse
+- **Dubletten-Eliminierung**: mehrfach gefundene Ergebnisse werden erkannt und eliminiert
+- **Kapselung**: einzelne Suchmaschinen werden unter einheitlichem Frontend versteckt (Search Engine Hiding)
+- **Vollständige Suche**: so lange in einzelnen Trefferlisten suchen, bis diese keine Treffer mehr liefern
+- **Ergebnissortierung**: Gruppenbieldiung, um die Ergebnisse übersichtlicher zu machen
+
+Beispiele:
+- JustBooks: Suche nach Büchern
+- Idealo: Suche nach den besten Angeboten für ein bestimmtes Produkt
+- Portal für Zwangsversteigerungen
+
+#### Was Suchmaschinen nicht finden
+
+- neu erstellte Webseiten (keine Verweise, noch unentdeckte Verweise, nicht angemeldet ...)
+- Frisch geänderte Webseiten (noch nicht im Aktualisierungszyklus erkannt)
+- geschützte Webseiten (Intranet, durch Passwort geschützt)
+- Webseiten mit dynamischem Inhalt/Routing (z.B. SPAs; Deutsche Bahn)
+
+#### Erweiterte Suche
+
+Möglichkeit des "Finetunings" der Suchparameter:
+- Ausblenden bestimmter Begriffe
+- Sprachen
+- Land
+- Dokumenttyp
+- Erscheinungsdatum
+- Erscheinungsposition der Begriffe
+
+#### Semantische Suche
+
+Semantische Suche bedeutet, dass Wöter anhand ihrer Bedeutung geordnet werden. Nutzer bekommt anhand seiner Suchanfrage Ergebnisse, die dem Themenfeld des Suchbegriffs entsprechen
+
+Problem: wann ist die Semantische Suche **zu breit gefächert**? Irgendwann bekommt der Nutzer Vortschläge, die nur entfernt zu Suche passen und das ist nicht so dufte
+
+### Generative Engine Optimization
+
+Strategien, um Inhalt möglichst leicht für AI-Agents zugänglich zu machen, sodass diese den Inhalt oft zitieren und die Marke auch dazunennen
+
+Nutzer sehen häufiger eine einzige KI-generierte Antwort, statt einer Liste von Links
+
+#### Ziele
+
+- Sichtbarkeit in KI-Antworten erhöhen (Quellennennung)
+- Vertrauenswürdigkeit signalisieren (E-A-T: Expertise, Authority, Trustworthiness)
+- Inhalte so strukturieren, dass sie leicht extrahier- und zitierbar sind
+- Markenführung **trotz** Zero-Click Antworten sichern (Brand-Mentions)
+
+#### Nutzen
+
+- Mehr Reichweite über verschiedene KI-Interfaces
+- Reduktion von Halluzinationsrisiken durch klare, überprüfbare Fakten
+
+#### Best Practices
+
+- Struktur (Klare Hierarchie, FAQ-Bereich)
+- kurze zitierfähige Absätze; Zusammenfassung (TL;DR am Anfang)
+- Technische Auffindbarkeit (Cral- und Indexierbarkeit; Zugriff für KI-Crawler sicherstellen)
 
