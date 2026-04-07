@@ -197,3 +197,43 @@ Manchmal reicht ein einziges Kriterium zur Ordnung nicht aus, dann kann eine **K
 - Dann Land/Stadt: Meppen Süd
 Umgekehrte Reihenfolge macht keinen Sinn!
 
+
+## Suchmaschinen
+
+Suchmaschinenoptimierung (**SEO**) vs Generative Engine Optimization (**GEO**)
+
+Grundproblem, das durch Suchmaschinen gelöst wird:
+- "Man kann nicht genau wissen, was man nicht weiß, bzw. was man sucht"
+
+### Internet-Suchmaschinen
+
+Komponenten:
+- **Crawler**: identifiziert Web-Seiten
+- **Datenbank**: speichert Web-Dokumente und Indexverweise
+- **Indexierungsprogramm**: liefert Indexe über Keywords, Phrasen, Snippets
+- **Retrieval Engine**: bildet Suchanfragen auf Web-Dokumente ab
+- **Oberfläche**: zur Suche und Ergebnisdarstellung
+
+Generelle Probleme:
+- **zu viele Hits**
+- **zu wenig Relevanz**
+- **kaum Kontrolle über den Suchprozess** und das Suchergebnis
+- **Black Box Verhalten** von proprietären Suchmaschinen
+
+Komponenten eines Web-Crawlers:
+- **Frontier**: speichert alle URLs, die noch untersucht werden sollen
+- **Seed**: übergibt Start-URL an Frontier
+- **Downloader**: erhält URL von Frontier und lädt Webseite herunter und übergibt diese an Repository und Parser
+- **Parser**: scannt Webseiten auf verlinkte URLs und übergibt diese an Frontier
+- **Repository**: speichert URLs zur Indexierung
+
+Datenaufbereitung durch **Parser**:
+- Umwandeln in einheitliches Format, Boilerplate entfernen (v.a. Code)
+- Schlagwörter extrahieren, Satzzeichen raus
+- Zusammenführung lexikalisch verwandter Terme (Grafik, Graphik; Singular-Plural)
+- Wörter ohne inhaltliche Relevanz entfernen
+- Links extrahieren und an Frontier übergeben
+
+Suchergebnisse kommen zustande durch:
+- Keywords (Club & Disco)
+
