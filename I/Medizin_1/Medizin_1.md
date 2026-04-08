@@ -313,13 +313,13 @@ Je nach Ausprägung (Verzögerung oder komplette Blockierung des Erregers) kann 
 
 Bei "harmloseren" Ausprägungen meist keine Therapie nötig, ggf. Absetzen/Dosisreduktion der Medikamente
 
-#### Der Ursache
+#### ... der Ursache
 
 Therapie der zugrundeliegenden KHK 
 
 Absetzen/Dosisreduktion von Medikamenten, da Arrhythmien auslösen können
 
-#### Der Symptome - Herzschrittmacher
+#### ... der Symptome - Herzschrittmacher
 
 Elektrische Aktivität in Vorhof und Kammer wird gemessen und ausbleibende Impulse werden erkannt (z.B. Fehlen d. QRS-Komplexes), woraufhin eine Impuls erzeugt wird
 
@@ -329,3 +329,59 @@ Aggregat wird subkutan oder unterhalb der Brustmuskulatur eingesetzt. Sonden wer
 
 Letalitätsrisiko praktisch 0
 
+# Arterielle Hypertonie
+
+## Blutdruck
+
+| Column1 | Systolisch | Diastolisch |
+| --------------- | --------------- | --------------- |
+| Definition | RR, der während der Systole (Auswurfphase) im Gefäßsystem herrscht | RR, der während der Diastole (Entspannungsphase) im Gefäßsystem herrscht |
+| Optimalwert | < 120 mmHg | < 80 mmHg |
+| Normal - Hochnormal | 120-139 mmHg | 80-89 mmHg |
+| Hypertonie | > 140 mmHg | > 90 mmHg |
+
+## Beschwerden
+
+- Oft symptomlos
+- ggf. Kopfschmerzen, v.a. morgens => Besserung bei Hochlagerung des Kopfes
+- Schwindel, Ohrensausen
+- Herzklopfen, Herzschmerzen
+- Nasenbluten
+- Belastungsdyspnoe
+
+## Wandaufbau von Blutgefäßen
+
+ Bestehen im Wesentlichen aus drei Schichten, den **tunicae interna/media/externa**
+
+### Arterien
+
+Von innen nach außen:
+Tunica interna:
+- Endothel
+- Basalmembran
+- Lamina elastica interna (Membran aus elastischen Fasern; ermöglicht Konstriktion und Dilatation)
+Tunica media:
+- glatter Muskel (dicker als in Vene, Durchflußbegrenzung nur hier nötig)
+- Lamina elastica externa (ut supra)
+
+### Venen
+
+Ähnlich wie Arterie, jedoch ohne Laminae elasticae und der glatte Muskel ist viel dünner
+
+Durchmesser wesentlich höher; außerdem Klappen als Rückschlagventile, sodass Blut nicht zurückfließt, wenn es ohne Druck gegen die Schwerkraft Richtung Herz fließt
+
+## Blutverteilung
+
+Verschiedene Organe benötigen im Standardfall unterschiedlich viel Blut um zu funktionieren
+
+Je nach Bedarf wird das Blut umverteilt und manche Organe werden stärker oder weniger stark durchblutet, z.B. durch:
+
+| Aktivität | Organe mit stärkerer Durchblutung | Organe mit weniger starker Durchblutung |
+| --------------- | --------------- | --------------- |
+| Arbeit, Sport | Muskeln, Herz | Ausscheidung, Verdauung |
+| Entspannung, Schlaf | Verdauung, Ausscheidung | Muskeln |
+
+Größte Variabilität: Skelettmuskel
+Kaum Variabilität, zumindest nicht nach unten: Gehirn und Herz (kann nicht unter Standardaktiviät funktionieren)
+
+## Vegetatives Nervensystem
