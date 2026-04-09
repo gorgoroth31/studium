@@ -393,6 +393,27 @@ Tunica media:
 
 Durchmesser wesentlich höher; außerdem Klappen als Rückschlagventile, sodass Blut nicht zurückfließt, wenn es ohne Druck gegen die Schwerkraft Richtung Herz fließt.
 
+## Blutdruckkurven und Strömungsgeschwindigkeiten
+
+Hier ist schematisch der Weg eines einzelnen Blutkörperchens auf dem Weg durch den Körper beginnend mit dem li. Vorhof und wann welche Messgrößen herrschen:
+
+<img style="display: block; margin-right: auto; width: 50%; margin-left: auto;" title="Blutdruckdiagramm" src="./Blutdruck_Diagramm.jpg" />
+
+- Große Arterien:
+  - geringer Durchschnitt
+  - hoher Druck (Körperkreislauf)
+  - schneller Fluß
+  - Blut muss, no matter what, in die Organe!
+- Kapillaren
+  - hoher Durchschnitt
+  - niedriger Druck
+  - langsamer Fluß
+  - Zeit für Stoffaustausch!
+- Venen
+  - hoher Durchschnitt
+  - niedriger Druck (keine Pumpe!)
+  - relativ langsamer Fluß
+
 ## Blutverteilung
 
 Verschiedene Organe benötigen im Standardfall unterschiedlich viel Blut um zu funktionieren
@@ -456,5 +477,46 @@ Evolutionärer Hintergrund:
 => Senkung der Herzfrequenz und Schlagkraft
 => Nebenwirkungen: Asthmaanfälle, Erektionsstörungen
 - Bluthochdruck: α-Blocker (v.a. in Blutdruckkrisen)
+
+## Blutdruckmessung nach Riva-Rocci
+
+Das Blut drückt mit einem gewissen Druck vom Herzen in die Arterien und Richtung da wo es gebraucht wird. Der RR wird gemessen, indem mit einem höheren Druck die Arterien "abgeschnürt" werden. Danach wird langsam der Druck abgelassen und der Druck, bei dem das Einstromgeräusch als erstes zu vernehmen ist, ist der systolische Blutdruckwert. Das Geräusch, bei dem das Einströmgeräusch verwindet, ist der diastolische Blutdruckwert
+
+In Kurzform:
+- Kompression der Arterien
+- langsame Drucksenkung
+- Erkennen des Einstromgeräusches:
+  - Erstes Auftreten: Systolischer Blutdruckwert
+  - Verschwinden/markant leiser und dumpfer: Diastolischer Blutdruckwert
+
+Zu Beachten:
+- Messpunkt auf Herzhöhe (üblich am Arm über Ellbogen)
+- Messung in Ruhe, ggf. Liegen/Sitzen/Stehen 
+- Mindestens einmal beidseitig messen 
+- Nicht an einem Arm messen, an dem:
+  - ein Gefäßzugang liegt
+  - ein Dialyse-Shunt vorhanden ist
+  - auf dessen Seite z.B. eine Brustkrebs-OP war
+- Korrekte Manschettenbreite ca. 1/2 Armumfang
+  - zu breit: falsch niedrige Werte
+  - zu schmal: falsch hohe Werte 
+- Ohne Stethoskop:
+  - Palpatorische Messung, wann der Radialpuls wieder erfühlbar ist
+  - Nur systolischer Druck messbar
+
+## Kurz- mittelfristige Blutdruckregulation
+
+Der Körper kann den globalen Blutdruck sehr schnell durch Ausschüttung einiger Substanzen steuern:
+
+Vasokonstriktion:
+- Vasopressin (ADH)
+- Angiotensin II
+- Sympathikus, Adrenalin (Haut, Darm, Niere)
+
+Vasodilatation:
+- Entzündungsmediatoren
+- Sympathikus, Adrenalin (Gehirn, Herz, Muskeln)
+
+### Kurzfristige Blutdruckregulation: Vegetatives Nervensystem
 
 
