@@ -333,12 +333,16 @@ Letalitätsrisiko praktisch 0
 
 ## Blutdruck
 
-| Column1 | Systolisch | Diastolisch |
+Abkürzung RR, nach Riva-Rocci
+
+|  | Systolisch | Diastolisch |
 | --------------- | --------------- | --------------- |
 | Definition | RR, der während der Systole (Auswurfphase) im Gefäßsystem herrscht | RR, der während der Diastole (Entspannungsphase) im Gefäßsystem herrscht |
 | Optimalwert | < 120 mmHg | < 80 mmHg |
 | Normal - Hochnormal | 120-139 mmHg | 80-89 mmHg |
 | Hypertonie | > 140 mmHg | > 90 mmHg |
+
+Der Blutdruck ergibt sich aus dem **Herzzeitvolumen * Widerstand**, d.h. eine Änderung des Volumens des Blutes, des Widerstands, oder der Durchfußgeschwindigkeit wirkt sich direkt auf den Blutdruck aus
 
 ## Beschwerden
 
@@ -349,14 +353,16 @@ Letalitätsrisiko praktisch 0
 - Nasenbluten
 - Belastungsdyspnoe
 
-## Wandaufbau von Blutgefäßen
+## Blutgefäße
 
  Bestehen im Wesentlichen aus drei Schichten, den **tunicae interna/media/externa**
 
 ### Arterien
 
+#### Aufbau
+
 Von innen nach außen:
-Tunica interna:
+Tunica interna
 - Endothel
 - Basalmembran
 - Lamina elastica interna (Membran aus elastischen Fasern; ermöglicht Konstriktion und Dilatation)
@@ -364,11 +370,28 @@ Tunica media:
 - glatter Muskel (dicker als in Vene, Durchflußbegrenzung nur hier nötig)
 - Lamina elastica externa (ut supra)
 
+#### Typen 
+
+- Aorta und große Schlagadern
+  - Elastischer Type
+  - Windkesselfunktion (dehnt sich bei Systole langsam mit aus und zieht sich in der Diastole passiv wieder zusammen)
+  - => Transport Blut in Organe
+- Mittlere und kleine Schlagadern
+  - Muskulärer Typ
+  - => Steuerung des Widerstands
+- Arteriolen
+  - zunehmend dünnere Gefäße
+- Kapillaren
+  - nur noch Innenschicht
+  - => Gas- und Stoffaustausch
+
 ### Venen
+
+#### Aufbau
 
 Ähnlich wie Arterie, jedoch ohne Laminae elasticae und der glatte Muskel ist viel dünner
 
-Durchmesser wesentlich höher; außerdem Klappen als Rückschlagventile, sodass Blut nicht zurückfließt, wenn es ohne Druck gegen die Schwerkraft Richtung Herz fließt
+Durchmesser wesentlich höher; außerdem Klappen als Rückschlagventile, sodass Blut nicht zurückfließt, wenn es ohne Druck gegen die Schwerkraft Richtung Herz fließt.
 
 ## Blutverteilung
 
@@ -376,7 +399,7 @@ Verschiedene Organe benötigen im Standardfall unterschiedlich viel Blut um zu f
 
 Je nach Bedarf wird das Blut umverteilt und manche Organe werden stärker oder weniger stark durchblutet, z.B. durch:
 
-| Aktivität | Organe mit stärkerer Durchblutung | Organe mit weniger starker Durchblutung |
+| Aktivität | Organe mit stärkerer Durchblutung | Organe mit geringerer Durchblutung |
 | --------------- | --------------- | --------------- |
 | Arbeit, Sport | Muskeln, Herz | Ausscheidung, Verdauung |
 | Entspannung, Schlaf | Verdauung, Ausscheidung | Muskeln |
@@ -384,4 +407,54 @@ Je nach Bedarf wird das Blut umverteilt und manche Organe werden stärker oder w
 Größte Variabilität: Skelettmuskel
 Kaum Variabilität, zumindest nicht nach unten: Gehirn und Herz (kann nicht unter Standardaktiviät funktionieren)
 
+Stärkere Durchblutung wird erreicht durch **Gefäßerweiterung** (Dilatation)
+
+Geringere Durchblutung wird erreicht durch **Gefäßverengung** (Konstriktion)
+
 ## Vegetatives Nervensystem
+
+Selbstregelndes Nervensystem, das die Selbsterhaltung des Körpers aufrechterhält und Funktion der Organe gewährleistet
+
+Evolutionärer Hintergrund:
+- Flucht-/Kampfreaktion => **Sympathikus**
+- Nahrungsverwertung, Entspannung => **Parasympathikus**
+- Beide existieren als Gegenspieler, haben meist gegenläufige Effekte am selben Organ
+- Blut wird daraufhin umverteilt (ut supra)
+
+### Sympathikus
+
+- Ursprung größtenteils im Rückenmark der Brustwirbelsäule
+- Signalübertragung durch **Adrenalin** (Stresshormon)
+- wird aktiviert, wenn Körper in einer Hochbelastungssituation gelangt
+
+### Parasympathikus
+
+- Ursprung größtenteils im Hirnstamm
+- Signalübertragung durch **Acetylcholin**
+
+### α-Rezeptoren
+
+- Stimulation glatter Muskelzellen
+=> **Gefäßkonstriktion** (Verengung)
+- Vorkommen v.a. Darm-, Hautgefäße
+
+### β-Rezeptoren
+
+- Entspannung glatter Muskelzellen
+=> **Gefäßdilatation** (Erweiterung)
+- Vorkommen v.a. Muskelgefäße, Herzkranzgefäße, kleine Bronchien
+- Steigerung der Herzfrequenz, Schlagkraft, Atemleistung
+- Steigerung des Abbaus von Energiespeichern (Leber, Muskel, Fettgewebe)
+
+### Medikamentöse Nutzung der Adrenorezeptoren
+
+- Nasenspray: α-Mimetika (Tut so, als wäre es Adrenalin, das an α-Rezeptoren andocken kann)
+=> Verengung der Nasenchleimhautgefäße
+- Asthmatherapie: β-Mimetika
+=> Entspannung der Bronchiolen
+- Bluthochdruck: β-Blocker
+=> Senkung der Herzfrequenz und Schlagkraft
+=> Nebenwirkungen: Asthmaanfälle, Erektionsstörungen
+- Bluthochdruck: α-Blocker (v.a. in Blutdruckkrisen)
+
+
