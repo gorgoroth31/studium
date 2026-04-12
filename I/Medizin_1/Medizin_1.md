@@ -519,4 +519,94 @@ Vasodilatation:
 
 ### Kurzfristige Blutdruckregulation: Vegetatives Nervensystem
 
+Sensoren messen an der Halsschlagader, ob ein Druckabfall oder Druckanstieg erfolgt und aktiviert somit je nachdem den Sympathikus oder Parasympathikus
+
+- Bei Druckabfall: Aktivierung des Sympathikus und Hemmung des Parasympathikus => Steigerung der Herzfrequenz, Gefäßmuskulatur zieht sich zusammen
+- Bei Druckanstieg: Aktivierung des Parasympathikus und Hemmung des Sympathikus => Senkung der Herzfrequenz, Gefäßmuskulatur dehnt sich aus
+
+### Mittelfristige Blutdruckregulation: RAAS
+
+Sensoren in der Niere messen, ob Druckanstieg oder Druckabfall erfolgt:
+
+- Bei Druckanstieg: Natrium wird aus dem Blut ausgeschieden; Natrium zieht Wasser mit raus, wodurch das Plasmavolumen gesenkt wir und der Blutdruck sinkt 
+- Bei Druckabfall: Natriumausscheidung aus dem Blut wird gehemmt; Plasmavolumen wird wieder größer, wodurch der Blutdruck wieder steigt 
+
+## Folgen der Hypertonie
+
+### Auf das Herz
+
+#### Koronare Herzkrankheit
+
+Gefäße werden enger und das Blut kommt nicht mehr an, wodurch der Herzmuskel nicht genügend mit Sauerstoff versorgt wird
+
+#### Linksherzhypertrophie
+
+Dauerbelastung des linken Herzen durch überhöhten Druck, wodurch das linke Herz **konzentrisch** (nach innen) wächst
+
+Herzgröße bleibt an sich normal, aber Effizienz der Pumpe nimmt mit steigender Größe ab, wodurch sich Herz noch schneller verschlechtert
+
+=> Herzinsuffizienz: Pumpversagen
+
+### Auf das Gehirn
+
+- Schädigung der hirnversorgenden Gefäße
+- Minderdurchblutung, => Schwindel, Ohnmacht, Hirninfarkt
+- Platzen eines Blutgefäßes
+
+### Auf die Nieren
+
+Bluthochdruck wirkt folgendermaßen auf die Nieren ein:
+
+- Nierengefäße werden durch den Druck geschädigt
+- Nieren werden schlechter durchblutet
+
+Daraufhin ergeben sich zwei Teufelskreis, die beide zu einer Verchlimmerung der Hypertonie führen:
+
+1. Niere misst "Druckabfall", der nur lokal existiert
+  - Reninproduktion wird gesteigert
+  - Angiotensin/Aldosteron wird aktiviert
+2. Nierenfunktion verschlechtert sich
+  - Urinausscheidung wird reduziert
+  - Plasmavolumen steigert sich
+
+
+
+## Maßnahmen zur Blutdrucksenkung
+
+Ziel: Senkung des kardiovaskulären Risikos
+
+### Nicht-Medikamentiös
+
+- Gewichtsreduktion
+- Nikotinabstinenz
+- Alkoholabstinenz
+- Salzarme Diät
+- Ausdauersport
+- Reduktion von Risikofaktoren (Blutzucker, Blutfette)
+
+### Medikamentiös 
+
+Senkung des Blutvolumens: Diuretika (Steigerung der Urinausscheidung)
+
+Senkung der Herzfrequenz: Betablocker
+
+Senkung des Gefäßwiderstands, Drosselung der Natriumresorption:
+- Angiotensin-Convertin-Enzyme-Hemmer
+- Angiotensin-II-Rezeptorblocker
+
+=> Diese beiden blockieren Umwandlung von Angiotensin-I in AT-II
+
+- Kalzium-Antagonisten
+
+### Sekundäre Hypertonie
+
+Therapie kommt auf Ursache der Hypertonie an:
+
+| Ursache   | Therapie    |
+|--------------- | --------------- |
+| Nierenarterienstenose   | Arterie wird aufgedehnt   |
+| Schwangerschaft   | im Extremfall verfrühte Entbindung   |
+| Medikamentiös, Doping   | Absetzung der Substanzen   |
+
+
 
