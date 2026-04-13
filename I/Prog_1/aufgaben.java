@@ -1,10 +1,11 @@
 import java.util.Scanner;
+import java.util.Arrays;
 import java.util.Random;
 
-public class Aufgaben {
+public class aufgaben {
 
   public static void main(String[] args) {
-    aufgabe11();
+    aufgabe13();
   }
 
   public static void aufgabe1() {
@@ -34,7 +35,7 @@ public class Aufgaben {
       System.out.print("*");
       i++;
     }
-    
+
     System.out.println();
 
     int zahl = 420;
@@ -45,7 +46,7 @@ public class Aufgaben {
       if (zahl % j == 0) {
         System.out.print(j + " ");
       }
-      
+
       j++;
     }
   }
@@ -56,7 +57,7 @@ public class Aufgaben {
     double ende = 110;
 
     for (double d = anfang; d <= ende; d++) {
-      double celsius = (d - 32.0)*(5.0/9.0);
+      double celsius = (d - 32.0) * (5.0 / 9.0);
 
       System.out.println(d + "\t| " + celsius);
     }
@@ -87,10 +88,10 @@ public class Aufgaben {
   }
 
   static void aufgabe7() {
-    
+
     for (int i = 1; i <= 10; i++) {
       for (int j = 1; j <= 10; j++) {
-        System.out.print(i*j + "\t");
+        System.out.print(i * j + "\t");
       }
       System.out.println();
     }
@@ -105,7 +106,7 @@ public class Aufgaben {
     for (int i = 1; i <= hoehe; i++) {
       int breite = (i * 2) - 1;
 
-      int margin = (max_breite - breite)/2;
+      int margin = (max_breite - breite) / 2;
 
       for (int j = 0; j < margin; j++) {
         System.out.print(" ");
@@ -138,7 +139,7 @@ public class Aufgaben {
     Scanner reader = new Scanner(System.in);
 
     int q = reader.nextInt();
-    
+
     int[] array = new int[q];
 
     for (int i = 0; i < q; i++) {
@@ -160,14 +161,14 @@ public class Aufgaben {
 
   static void aufgabe10() {
     // 8x8 array
-    
+
     int size = 8;
 
     int[][] array = new int[size][size];
 
     Scanner reader = new Scanner(System.in);
 
-    while(true) {
+    while (true) {
       System.out.print("X: ");
       int x = reader.nextInt();
       System.out.print("Y: ");
@@ -176,9 +177,9 @@ public class Aufgaben {
       int w = reader.nextInt();
 
       array[x][y] = w;
-      
-      for(int i = 0; i < size; i++) {
-        for(int j = 0; j < size; j++) {
+
+      for (int i = 0; i < size; i++) {
+        for (int j = 0; j < size; j++) {
           System.out.print(array[i][j] + " ");
         }
         System.out.println();
@@ -187,6 +188,7 @@ public class Aufgaben {
   }
 
   static void aufgabe11() {
+    // zahlenraten
     Random rand = new Random();
     int zahl = rand.nextInt(1000);
 
@@ -196,11 +198,10 @@ public class Aufgaben {
 
     int counter = 0;
 
-    while(true) {
+    while (true) {
       counter++;
       System.out.print("Rate mal: ");
       int input = reader.nextInt();
-      
 
       if (input > zahl) {
         System.out.println("Die gesuchte Zahl ist kleiner");
@@ -212,5 +213,56 @@ public class Aufgaben {
         break;
       }
     }
+  }
+
+  static void aufgabe12() {
+    // funktion
+    Scanner reader = new Scanner(System.in);
+
+    System.out.print("Startwert: ");
+    int x1 = reader.nextInt();
+
+    System.out.print("Endwert: ");
+    int x2 = reader.nextInt();
+
+    System.out.print("Schrittweite n: ");
+    int n = reader.nextInt();
+
+    int minBetrag = 1000000000;
+    int minBetragX = 0;
+
+    for (int i = x1; i <= x2; i = i + n) {
+      int computed = (i * i * i) - 2 * (i * i) + 5 * i;
+      System.out.println(i + "\t|\t" + computed);
+
+      if (Math.abs(computed) < minBetrag) {
+        minBetrag = computed;
+        minBetragX = i;
+      }
+    }
+
+    System.out.println("Minimumbetrag: f(" + minBetragX + ") = " + minBetrag);
+
+    reader.close();
+  }
+
+  static void aufgabe13() {
+    // sortieren (schwer) 6c
+    int[] array = { 12, 11, 2, 55, 32, 1, 33, 37 };
+
+    for (int i = 0; i < array.length - 1; i++) {
+      int maxIndex = i;
+      for (int j = i + 1; j < array.length; j++) {
+        if (array[j] > array[maxIndex]) {
+          maxIndex = j;
+        }
+      }
+
+      int currentVal = array[i];
+      int currentMax = array[maxIndex];
+      array[i] = currentMax;
+      array[maxIndex] = currentVal;
+    }
+    System.out.println(Arrays.toString(array));
   }
 }
