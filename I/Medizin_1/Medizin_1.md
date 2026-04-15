@@ -287,6 +287,10 @@ Medikamentiöse Behandlung kaum möglich, ggf. durch:
   - bei Zeichen der Pumpschwäche: 1-2 Jahre
 - Überlebensrate liegt nach OP bei 80-90% über 5 Jahre
 
+## Sonstiges Wissenswertes über das Herz 
+
+- Zu viel Kalium im Blut kann zum Herzstillstand führen 
+
 ## Koronare Herzkrankheit
 
 Chronische Erkrankung des Herzens, die zu Verengung der **Koronararterien** (Arterien, die das Herz umgeben und mit Blut versorgen) führt und zu Minderdurchblutung führt.
@@ -569,8 +573,6 @@ Daraufhin ergeben sich zwei Teufelskreis, die beide zu einer Verchlimmerung der 
   - Urinausscheidung wird reduziert
   - Plasmavolumen steigert sich
 
-
-
 ## Maßnahmen zur Blutdrucksenkung
 
 Ziel: Senkung des kardiovaskulären Risikos
@@ -760,3 +762,165 @@ Alles was hilft, dass Krankheit nicht schlimmer wird
   - feuchte Gangrän bei bakterieller Infektion mit hoher Letalität
   - Amputation erforderlich
 - in Organen: Organversagen
+
+# Blut
+
+## Funktionen des Blutes
+
+### 1. Blutgastransport
+
+- O2 von Lunge ins Gewebe 
+- CO2 aus Gewebe in Lunge 
+
+### 2. Nährstofftransport
+
+- Aufnahme von Kohlenhydraten, Aminosäuren, Vitaminen, etc. aus dem Darm 
+- Transport in die Gewebe 
+- Transport der Abbauprodukte zu Niere/Leber 
+
+### 3. Wärmeaustausch
+
+- Transport der Abwärme innerer Organe an die Hautoberfläche
+- Regulierung der Wärmeabgabe mit Hilfe der Blutgefäße 
+
+### 4. Abwehrfunktion
+
+- Transport der Abwehrzellen des Immunsystems zum Ort einer Infektion 
+- Transport von Antikörpern
+- Transport von Antigenen zu den Abwehrzellen
+
+### 5. Hormontransport
+
+- Signalübermittlung von Hormondrüsen zu den jeweiligen Zielorganen
+
+### 6. Wasserversorgung 
+
+- Transport von Wasser zu den Körperzellen
+
+### 7. Reparaturfunktion
+
+- Transport von Thrombozyten und Gerinnungsfaktoren ins Gewebe, z.B. bei Verletzungen oder Infektionen 
+
+### 8. Ionentransport
+
+- Transport von Elektrolyten (Salzen), insbesondere Natrium-, Kalium-, Kalzium-, Chlorid-, und Magnesiumionen
+
+## Aufgaben der Blutkörperchen 
+
+### Erythrozyten (rote Blutkörperchen)
+
+- O2- und CO2-Transport
+- Sauerstoffbindung durch eisenhaltiges Hämoglobin
+- bikonkave Form 
+- Entstehung im Knochenmark
+- Lebensdauer: ca. 100 - 120 Tage 
+- kein Zellkern vorhanden 
+
+### Leukozyten (weiße Blutkörperchen)
+
+- Abwehr von Krankheitserregern
+
+### Thrombozyten (Blutplättchen)
+
+- Wundverschluss durch Blutgerinnung 
+
+## Sauerstoffbindungskurve
+
+Todo: Bild aus Skript einfügen und Recherche betreiben warum wieso weshalb
+
+## Kohlenmonoxid
+
+- CO entsteht beo unvollständiger Verbrennung (zu wenig O2 -> CO statt CO2)
+- farbloses, geruchloses Gas -> **äußerst unscheinbar**
+- CO bindet **350mal stärker** an Hämoglobin als O2 
+- Verdrängung des Sauerstoffs 
+- Folgen: Bewusstseinstrübungen, Ohnmacht, Tod 
+- Therapie: Überdruckbeamtung mit reinem O2
+  -> Versuch der Verdrängung des CO vom Hb 
+- Vorbeugung durch CO-Melder 
+
+## Sauerstoffbindungskurve des Hämoglobins
+
+Artikel Gesundheitsjournal: https://www.gesundheitsjournal.de/2145/sauerstoffbindungskurve
+
+<img style="display: block; margin-right: auto; width: 65%; margin-left: auto;" title="Blutdruckdiagramm" src="./Sauerstoffbindung.jpg" />
+
+## Bluteiweiße
+
+### Albumine (ca. 60%)
+
+- Transport von hydrophoben Substanzen:
+  - Fette, Hormone, einige Vitamine 
+  - Spurenelement, Mineralstoffe
+  - einige Medikamente 
+
+### Globuline (ca. 40%)
+
+- Transportfunktionen ähnlich wie Albumin 
+- Enzyme 
+- Plasmatischer Teil der Blutgerinnung 
+- Abwehrfunktion (Antikörper = "Immunglobuline")
+
+## Blutgruppen - AB0-System
+
+Charakterisierung der Blutgruppen anhand der vorhandenen Antikörper im Blutplasma und Antigenen auf den Blutkörperchen:
+- Antigen: immer das, wie die Blutgruppe heißt
+- Antikörper: die nicht auf den Erys vorhandenen Antigene
+
+| Blutgruppe | Antigen auf Ery | Antikörper im Plasma |
+| --------------- | --------------- | --------------- |
+| A | A | Anti-B |
+| B | B | Anti-A |
+| AB | A, B | keine |
+| 0 | - | Anti-A und Anti-B |
+
+### Blutgruppenkompatibilität
+
+#### Ery-Transfusion 
+
+Empfänger kann nur Blut enthalten, das nicht das Antigen enthält, wofür er Antikörper hat
+
+| Empfänger   | Spender    |
+|--------------- | --------------- |
+| A   | A oder 0   |
+| B   | B oder 0   |
+| AB   | A, B, AB, 0   |
+| 0   | 0  |
+
+- Universalempfänger: AB
+- Universalspender: 0
+
+#### Plasmatransfusion 
+
+Patient kann nur Blut enthalten, das nicht die Antikörper enthält, wofür der Patient die Antigene hat
+
+| Empfänger   | Spender    |
+|--------------- | --------------- |
+| A   | A oder AB   |
+| B   | B oder AB   |
+| AB   | AB   |
+| 0   | A, B, AB, 0   |
+
+- Universalempfänger: 0 
+- Universalspender: AB
+
+## Rhesus-System
+
+- Proteine auf Erythroztenmembran
+- keine Antikörper bei Rhesus-negativen Menschen 
+- Bildung von Antikörpern bei Kontakt mit Rhesus-positivem Blut 
+- Rh. pos. ca. 85%, Rh. neg. ca. 15%
+
+### Konsequenz
+
+- Rh. pos. Blut an Rh. pos. Empfänger ist OK 
+- Rh. neg. Blut an Rh. neg. Empfänger auch OK, aber 
+  -> davon gibts weniger Blut, daher nur Gabe von Rh. pos. an Rh. neg. Empfänger nur im absoluten Notfall
+    - Antikörper stoßen dann erneute Gabe von Rh. pos. Blut ab und es kommt zu allergischer Reaktion 
+
+#### Problem bei Schwangerschaft 
+
+- Sollte die Mutter Rh. neg. Blut haben und der Fötus Rh. pos. Blut und Blut vom Fötus in der Kreislauf der Mutter gelangt (Entbindung o.ä.), bildet die Mutter Antikörper
+- Bei erster Schwangerschaft kein Problem, die Mutter hat halt die Antikörper dann (**Sensibilisierung der Mutter**) und das Kind ist ja draußen 
+- Bei erneuter Schwangerschaft mit Rh. pos. Fötus, können diese Antikörper in den Kreislauf des Kindes eintreten und die Erythrozyten des Fötus zerstören
+- **Rhesusfaktor-Prophylaxe**: verhindert Bildung der Antikörper bei der Mutter, sodass keine Gefahr mehr besteht
