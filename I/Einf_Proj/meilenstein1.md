@@ -19,7 +19,7 @@ URL: https://www.med.upenn.edu/cbti/assets/user-content/documents/Karolinska%20S
 Quelle: A. Shahid et al. (eds.), STOP, THAT and One Hundred Other Sleep Scales,
 DOI 10.1007/978-1-4419-9893-4_47, © Springer Science+Business Media, LLC 2012
 
-Die KSS stellt eine Zahl im Bereich von 1 - 9 dar, um die Tagesschläfrigkeit zu beurteilen, wobei 1 sehr wach und 9 sehr schläfrig darstellt. KSS stellt hierbei eine weitere Skala dar, um die Schlafqualität der Proband:innen zu beurteilen. Diese Zahl wird während des Tages ermittelt. 
+Mit der KSS können Personen im Bereich von 1 - 9 ihe Tagesschläfrigkeit beurteilen, wobei 1 "sehr wach" und 9 "sehr schläfrig" bedeutet. KSS stellt hierbei eine weitere Skala dar, um mögliche Rückschlüsse auf die Schlafqualität der Proband:innen in Form der Tagesschläfrigkeit zu erhalten. Dieser Score könnte täglich um die selbe Uhrzeit ermittelt werden, neben den Morgen- und Abendprotokollen (s. unten).
 
 ### Sonstige, nicht passende
 
@@ -43,4 +43,4 @@ Unter anderem in diesem Paper werden weitere Skalen vorgestellt, die jedoch, abs
 
  URL: http://dgsm-archiv.not-only-pixel.de/downloads/fachinformationen/frageboegen/protokol.pdf
 
- Ut supra, jedoch wesentlich ausführlicher, als die Kurzversion. Wir bevorzugen die Kurzversion, da sie zum Einen leichter zum Auswerten und Ausfüllen ist und zum Anderen die wesentlichen Punkte trotzdem abdeckt ohne dass unrelevante Punkte abgefragt werden.
+ Ut supra, jedoch wesentlich ausführlicher, als die Kurzversion. Wir bevorzugen die Kurzversion, da sie zum Einen leichter zum Auswerten und Ausfüllen ist und zum Anderen die wesentlichen Punkte trotzdem abdeckt.
