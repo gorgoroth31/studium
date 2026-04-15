@@ -609,4 +609,154 @@ Therapie kommt auf Ursache der Hypertonie an:
 | Medikamentiös, Doping   | Absetzung der Substanzen   |
 
 
+# pAVK / arterieller Gefäßverschluss
 
+periphere arterielle Verschlusskrankheit
+
+## Klinisches Bild 
+
+### Symptome (6xp)
+
+- **Pain**
+- **Pulselessness**
+- **Paralysis**
+- **Pallor** (Blässe)
+- **Paresthesia** (Missempfindung)
+- **Prostration** (Schock)
+
+- abgeschwächte Bein-/Fußpulse
+- pathologischer Knöchel-Arm-Index
+- ggf. Strömungsgeräusch über den Gefäßen, da enger (vgl. RR-Messung)
+- blasse, dünne, kühle Haut durch schlechtere Durchblutung 
+- reduzierte Behaarung
+
+### Notfallversorgung
+
+- Tieflagerung des Beins, sodass Blut durch Schwerkraft ins Bein gelangt
+- Gabe von Blutgerinnungshemmer
+- Gabe isotonischer Flüssigkeit i. v. zur Senkung der Blutviskosität
+
+### Risikofaktoren
+
+- Rauchen
+- Medikamenttherapie nicht wahrgenommen 
+- Bluthochdruck 
+
+## Beschwerdebild
+
+| Stadium   | Klinik    |
+|--------------- | --------------- |
+| I   | Geringe Engstellen, keine Beschwerden. Diagnose ggf. als Zufallsbefund   |
+| IIa   | Schmerzen in Waden, Oberschenkeln u./o. Gesäß unter Belastung, max. schmerzfreie Gehstrecke > 200m   |
+| IIb   | max. schmerzfreie Gehstrecke < 200m   |
+| III   | Schmerzen in Ruhe, v.a. im Liegen (Schwerkraft drückt Blut nicht ins Bein)   |
+| IV | Auftreten sichtbarer Gewebeschädigungn (Nekrosen), "Raucherbein" (*warum Bein und nicht Arm? RR ist am Bein höher -> Gefäße gehen dort schneller kaputt*) |
+
+## Rolle des Cholesterins
+
+- Lebenswichtiges Lipid, da Ausgangssubstanz für:
+  - Zellmembranbestandteile
+  - Hormone, z.B. Cortisol, Östrogen, Testo 
+- Transport im Blut durch Lipoproteine:
+  - LDL: transportiert Cholesterin ins Gewebe
+  -> lass das lieber
+  - HDL: holt Cholesterin aus Gewebe ab 
+  -> hat dich lieb 
+  - Ablagerung von Cholesterin bei LDL-Überproduktion
+
+Xanthelasmen: Gelbliche Einlagerungen an den Augen 
+
+## Ursache: Arteriosklerose
+
+- "Verhärtung der Arterien": durch lokale Ablagerung von Lipiden, Kollagen und Kalk
+-> Arterien werden stabiler gegen hohen Druck, ABER: Windkessel geht verloren 
+- zunehmende Einengung des Gefäßquerschnitts
+- Schädigung der Gefäßinnenwand, dadurch: 
+  - Risiko der lokalen Bildung von Blutgerinnseln 
+  - Hängenbleiben von anderswo gebildeten Gerinnseln
+
+### Schädigungsprozess der Gefäßwände 
+
+Ausgangslage: Intaktes Endothel (Gefäßinnenschicht)
+
+Frühe Läsionen - "Fatty Streaks":
+- zw. Endothel und Muskulator akkumuliert LDL 
+- Gefäß hat leichten Huggel, nicht gefährlich
+- reversibel
+
+Fortgeschrittene Läsionen - Plaque:
+- Huggel ist gut erkennbar, gelblich. Wird als **Lipidplaque** bezeichnet
+- Druck auf einzelne Gefäßschichten nimmt zu, einzelne reißen bereits
+
+Komplizierte Läsionen - Ulzera, Thrombosen:
+- Weiterbildung zur **atherosklerotischen Plaque**
+- **Thrombusbildung** nach Schädigung des Endothel
+
+## Diagnostik
+
+### Klinisch 
+
+s. Symptome 
+
+#### Knöchel-Arm-Index
+
+- Es wird der Blutdruck auf beiden Seiten jeweils an Arm und Beinen gemessen und jeweils der syst. RR des Knöchels mit dem syst. RR des Arms dividiert
+- im Liegen 
+- normal Index: 0,9 - 1,2
+
+### Technisch
+
+**Farbkodierte Dopplersonographie**:
+- Darstellung der Blutströme 
+- Gefäßquerschnitt, Engstellen 
+- nicht invasiv 
+- geeignet für Aorta, Aortenäste, Becken- und große Beinarterien
+
+**Digitale Subtraktions-Angiographie (DSA)**:
+- Verabreichung von Kontrastmittel, das einfach so im Blut schwimmt 
+- Röntgendarstellung von Arterien mit und ohne Kontrast
+- Differenzbild wird genommen -> nur Arterien bleiben übrig, der Rest gleicht sich aus und wird zu grauem Hintergrund  
+- Risiko von Kontrastmittel-Nebenwirkungen (Allergie, Nierenversagen ...)
+
+## Therapie der pAVK
+
+
+### Primärprävention
+
+Alles was hilft, das Erkrankung nicht auftritt
+
+- Rauchstopp
+- Gesunde Ernährung (wenig Fette/Zucker)
+- Regelmäßige Bewegung 
+- Stressreduktion
+- Kontrolle von Risikofaktoren 
+
+### Sekundärprävention
+
+Alles was hilft, dass Krankheit nicht schlimmer wird
+
+- Stadium I:
+  - Risikofaktoren eliminieren/senken
+  - Gabe von ASS als Prophylaxe für Gefäßverschluss
+- Stadium II:
+  - zusätzliches Gehtraining über die Schmerzgrenze hinweg zur Verbesserung der schmerzfreien Gehstrecke durch Ausbildung von Kollateralkreisläufen
+  -> Unterentwickelte Umgehungsstraßen werden aufgebaut, da Anforderung besteht und der Körper mit Ausbau reagiert 
+- Stadium IIb:
+  - medikamentöse Therapie zur Durchblutungssteigerung nur, wenn Gehtraining nicht möglich 
+  - keine Chirurgische Intervention bis hierhin!
+- Stadium III/IV:
+  - kein Gehtraining mehr möglich, da bereits in Ruhe Beschwerden auftreten
+  - Auflösung von frischen Thromben
+  - Aufdehnung von Engstellen 
+  - chrirugische Ausschälung
+  - Bypass-OP (Einsetzen einer Umgehungsstraße)
+  - Amputation
+
+## Komplikation: Nekrose 
+
+- Absterben von nicht mehr durchblutetem Gewebe -> Infarkt 
+- an den Extremitäten: **Gangrän** ("Raucherbein")
+  - trockene Gangrän mit lederartiger Eintrocknung
+  - feuchte Gangrän bei bakterieller Infektion mit hoher Letalität
+  - Amputation erforderlich
+- in Organen: Organversagen
