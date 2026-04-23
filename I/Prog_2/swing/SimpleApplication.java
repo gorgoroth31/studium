@@ -4,7 +4,7 @@ public class SimpleApplication {
   private Frame frame = null;
 
   public SimpleApplication() {
-    frame = new SimpleFrame();
+    frame = new BorderFrame();
 
     frame.validate();
     frame.setVisible(true);

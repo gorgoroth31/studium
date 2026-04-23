@@ -20,18 +20,18 @@ public class KomponentsFrame extends Frame {
   }
 
   private void init() {
-    this.setLayout(new FlowLayout());
+    this.setLayout(new BorderLayout());
     this.setSize(300, 200);
     this.setTitle("Komponents App");
 
-    this.add(label);
-    this.add(button);
-    this.add(checkbox);
+    this.add(label, BorderLayout.NORTH);
+    this.add(button, BorderLayout.NORTH);
+    this.add(checkbox, BorderLayout.CENTER);
 
-    this.add(groupLabel);
-    this.add(box1);
-    this.add(box2);
-    this.add(box3);
+    this.add(groupLabel, BorderLayout.SOUTH);
+    this.add(box1, BorderLayout.SOUTH);
+    this.add(box2, BorderLayout.SOUTH);
+    this.add(box3, BorderLayout.SOUTH);
   }
 
   protected void processWindowEvent(WindowEvent e) {
