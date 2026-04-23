@@ -97,6 +97,11 @@ Diese körperliche Untersuchung kann in Form von 4 verschiedenen Maßnahmen stat
 - **Pathologisch**: Auffälliger Befund
 - **Kursorisch unauffällig**: Auf den ersten Blick, oberflächlich unauffällig; wurde aber nicht näher untersucht
 
+## Sonstiges 
+
+- Klinik: Kurzform für "klinisches Bild"; Gesamtheit der Symptome, das Beschwerdebild eines Pat.
+- Pathogenese: Entstehung einer Krankheit
+
 # Herz
 
 ## Links und zusätzliche Quellen
@@ -290,11 +295,6 @@ Medikamentiöse Behandlung kaum möglich, ggf. durch:
 ## Sonstiges Wissenswertes über das Herz 
 
 - Zu viel Kalium im Blut kann zum Herzstillstand führen 
-
-## Koronare Herzkrankheit
-
-Chronische Erkrankung des Herzens, die zu Verengung der **Koronararterien** (Arterien, die das Herz umgeben und mit Blut versorgen) führt und zu Minderdurchblutung führt.
-=> AV-Block kann daraus folgen
 
 ## AV-Block
 
@@ -924,3 +924,90 @@ Patient kann nur Blut enthalten, das nicht die Antikörper enthält, wofür der 
 - Bei erster Schwangerschaft kein Problem, die Mutter hat halt die Antikörper dann (**Sensibilisierung der Mutter**) und das Kind ist ja draußen 
 - Bei erneuter Schwangerschaft mit Rh. pos. Fötus, können diese Antikörper in den Kreislauf des Kindes eintreten und die Erythrozyten des Fötus zerstören
 - **Rhesusfaktor-Prophylaxe**: verhindert Bildung der Antikörper bei der Mutter, sodass keine Gefahr mehr besteht
+
+# Angina pectoris
+
+## Funktion der Herzkranzgefäße
+
+Die Koronararterien spalten sich zunächst in die rechte und linke Koronararterie auf, die jeweils ihren Teil des Herzens mit Blut versorgen. Weitergehend verzweigen diese sich jedoch in **Endarterien**. Der Unterschied zu **Kollateralkreisläufen** befindet sich darin, dass die einzelnen Äste nicht untereinander verbunden sind, also keine **Kollateralen** bestehen.
+-> keine redundante Versorgung, wodurch bei Verschluss kein Blut in betroffenen Bereich kommt
+
+## Koronare Herzkrankheit
+
+Chronische Erkrankung des Herzens, die zu Verengung der **Koronararterien** (Arterien, die das Herz umgeben und mit Blut versorgen) führt und zu Minderdurchblutung führt.
+=> AV-Block kann daraus folgen
+
+### Risikofaktoren
+
+(Ähnlich wie bei pAVK, Schlaganfall etc.)
+
+- Nikotin 
+- Zucker, gesättigte Fette, Cholesterin 
+- wenig Bewegung 
+- bestimmte Medikamente
+
+### Pathogenese 
+
+Wie die Krankheit entsteht 
+
+- Zunehmende Verengung der Herzkranzgefäße 
+- Verlauf vergleichbar mit pAVK-Stadien
+- Bildung einer **Arteriosklerose**
+- dadurch wird das Gewebe des Herzmuskels zunehmend weniger gut mit Blut versorgt 
+
+| Stadium pAVK   | Beschwerden/Symptome    |
+|--------------- | --------------- |
+| I   | Zunächst asymptomatisch   |
+| II   | Beschwerden unter Belastung: **stabile AP**   |
+| III   | Zunehmende Beschwerden, auch in Ruhe: **instabile AP** |
+| IV   | Absterben von Herzmuskelgewebe: **Herzinfarkt**   |
+
+
+### Klinik 
+
+#### Typische Symptome
+
+- diffuser, brennender Schmerz 
+- Lokalisation hinter dem Brustbein, ggf. Ausstrahlung in Arme (li. > re.)
+- Beschwerden unter körperl, emtoionaler Belastung
+- Besserung durch Ruhe oder Nitrogylzeringabe
+
+#### Nicht typische Symptome 
+
+- Atemnot, Herzrasen, Blutdruckabfall
+- Druck-/Engegefühl im Brustkorb 
+
+### Diagnostik 
+
+#### Anamnese 
+
+- Wann sind Beschwerden aufgetreten (-> Belastung!)
+- Risikofaktoren 
+
+#### Körperliche Untersuchung 
+
+- Palpation der peripheren Gefäße 
+  - Hinweise auf pAVK? Dann ist KHK wahrscheinlich!
+- Auskultation des Herzens 
+  - Herzgeräusche, z. B. Aortenstenose?
+- Untersuchung von Lunge und Leber, Suche nach Gefäßstauungen
+  - Hinweise auf Pumpschwäche?
+
+#### Technische Untersuchung
+
+- Laborwerte (Risikofaktoren)
+- Suche nach (indirekten) Hinweisen auf KHK 
+  - Ruhe-EKG (Rhytmusstörungen?)
+  - Echokardiographie (Pumpfunktion etc.?)
+  - Belastungstests, z.B. Belastungs-EKG 
+- Direkter Nachweis von Koronarstenosen
+  - Herzkatheter
+  - Kardio-CT
+
+| Verfahren | Beschreibung | Wann | Vorteile | Nachteile |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| Belastungs-EKG | Klärung, ob Patienten mit mittlerem KHK-Risiko einer invasiven Therapie zugeführt werden müssen | Keine Kontrainidikationen (Aortenstenose!), meist am Anfang | Günstig, nicht invasiv, geringes Risiko, keine Strahlenbelastung | Relativ niedrige Sensitivität, nicht bei allen Pat. einsetzbar |
+| Koronarangiographie | Durchleuchten der Herzkranzgefäße mit Kontrastmittels und eines Linksherzkatheters | sobald invasive Diagnostik erforderlich ist | direkt anschließende Therapiemöglichkeiten (Ballondilatation, Stenteinlage) | Komplikationsrisiko (Letalität zw. 1:1000 und 1:50), mäßige Strahlenbelastung |
+| Cardio-CT | spezielle Form des CT, um Herz detailliert darzustellen | wenn gutes Bild des Herzen gefordert ist; Nachsorge nach Therapie | Nicht-invasiv, schnelle Durcführung | mäßige Stahlenbelastung, teuer, keine anschließende Eingriffsmöglichkeit |
+
+
