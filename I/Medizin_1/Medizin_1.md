@@ -1010,4 +1010,164 @@ Wie die Krankheit entsteht
 | Koronarangiographie | Durchleuchten der Herzkranzgefäße mit Kontrastmittels und eines Linksherzkatheters | sobald invasive Diagnostik erforderlich ist | direkt anschließende Therapiemöglichkeiten (Ballondilatation, Stenteinlage) | Komplikationsrisiko (Letalität zw. 1:1000 und 1:50), mäßige Strahlenbelastung |
 | Cardio-CT | spezielle Form des CT, um Herz detailliert darzustellen | wenn gutes Bild des Herzen gefordert ist; Nachsorge nach Therapie | Nicht-invasiv, schnelle Durcführung | mäßige Stahlenbelastung, teuer, keine anschließende Eingriffsmöglichkeit |
 
+## Prophylaxe
+
+Im Grunde genommen, Ausmerzen der Risikofaktoren, also:
+- Nikotinabstinenz 
+- Gewichtnormalisierung
+- Mediterrane Kost
+- Körperliche Betätigung 
+- Blutdrucknormalisierung
+- Stressbewältigung 
+- Cholesterinsenkung
+
+## Therapiemöglichkeiten 
+
+### stabile AP 
+
+#### Konservativ
+
+- **Acetylsalicylsäure** (ASS, Aspirin) zur Thrombozytenaggregationshemmung
+- Senkung von Blutdruck und Herzfrequenz unter Belastung (z.B. Betablocker) -> Schonung des Herzen 
+- Symptomatische Therapie: Nitrate
+-> z.B **Nitroglycerinspray** (sublingual) bei Bedarf 
+  - Entspannng der Gefäße
+  - Senkung der Belastung des Herzmuskels 
+
+#### Interventionell
+
+- Perkutane transluminare koronare Angioplastie (PTCA) -> über **Herzkatheter**
+  - Ballonkatheterdilataion
+  - Stentimplantation
+- Aortokonare **Bypass-Operation** (immer seltener, da invasiv und nicht invasive Therapien praktischer sind)
+- **Herztransplantation** bei terminaler Herzinsuffizienz
+
+## Myokardinfarkt
+
+### Definition 
+
+- Absterben von Herzmuskelgewebe aufgrund O2-Mangels (**Ischämie**) wg. Durchblutungsstörung
+- Meist verursacht durch Blutgerinnsel in Herzkranzgefäß
+  - Engstelle aufgrund KHK 
+  - Plaques/Verkalkungen der Gefäßinnenwand 
+  - Anlagerungsmöglichkeit für Gerinnsel 
+- Einriss eines "vulnerablen" Plaques 
+- Ablösung des Plaques mit nachfolgender **Embolie** (Verstopfung)
+
+### Pathogenese 
+
+- Tritt auf, wenn instabile AP fortschreitet (plötzlicher Koronararterienverschluss, starke Stenose)
+- Herzkranzgefäß verschließt sich so stark, dass gar kein Blut mehr fließen kann <-> bei instabiler AP kann noch Blut fließen, aber sehr wenig
+- Herzmuskelgewebe droht abzusterben
+
+### Pathophysiologie
+
+- sofortiger Verlust der Kontraktilität des betroffenen Muskelgebiets
+  -> je nachdem eher rechts, links oder beides, daher Herzrhytmusstörungen und/oder Pumpleistung fällt ab 
+- Absterben beginnt von innen heraus etwa 20 Min. nach Verschluss 
+- Ausdehnung nach außen innerhalb weniger Stunden 
+- Die meisten Todefälle treten in der ersten Stunde auf!
+
+### Klinik 
+
+- lang anhaltender, vernichtender Schmerz
+- wie bei AP-Anfall 
+- keine Besserung auf Nitrate 
+- Todesangst 
+- Blässe, Schweißneigung 
+- Erbrechen 
+- Bei Frauen häufiger unspez. Symptome wie Druckgefühl, Bauchschmerzen, Überlkeit, Erbrechen, Atemnot 
+
+#### Stummer Infarkt 
+
+- keine (typischen) Symptme 
+- machen ca. 1/4 der Infarkte aus 
+- werden erst später zufällig (Routine-EKG) festgestellt
+
+#### Mögliche weitere klinische Zeichen 
+
+- Herzrhytmusstörungen durch Minderdurchbleitung des Erregunsleitungssystems 
+- Zeichen der Pumpschwäche 
+  - Stauung der Halsvenen (Rückstau in den großen Kreislauf)
+  - Atemnot, Rasselgeräusche über der Lunge (Rückstau in den Lungenkreislauf)
+- ggf. Herzgeräusche 
+  - Mitralklappeninsuffizienz
+  - Papillarmuskelabriss
+
+### Diagnostisches Vorgehen 
+
+Ausgangslage: **Thoraxschmerz**
+
+Arbeitsdiagnose: **Akutes Koronarsyndrom**
+
+#### Rettungsdienst 
+
+- EKG: ST-Streckenhebung (nach R sinkt EKG nicht auf unter der Normallinie sondern bleibt erhöht)
+  - ggf. Verbreiterung des QRS-Komplexes 
+- wenn EKG-Befund eindeutig ist:
+  - 100% sichere Diagnose: Herzinfarkt -> sofortige Therapie 
+  - **STEMI**: ST-Elevation Myocardial Infarction
+- wenn EKG-Befund nicht eindeutig ist (ST-Hebung fehlt):
+  - **NSTEMI** (Non-STEMI)
+  - Differenzierung zu AP durch Labordiagnostik (abgestorbene Zellen hinterlassen Zellinhalt in Blut)
+
+#### Krankenhaus/Labor 
+
+- Suche nach möglichst spezifischen Stoffen ("Herzenzyme", meist Troponin), die durch abgestorbene Zellen freigesetzt wurden:
+  - wenn Labordiagnostik negativ, dann sind Zellen noch Intakt -> kein Infarkt
+  - Problem: andere Zellarten können gleiche Enzyme enthalten -> kein sicherer Nachweis eines Infarkts 
+  - Problem: Anstieg der Konzentration evt. erst nach längerer Zeit -> zu später Nachweis eines Infarts 
+- wenn Labordiagnostik pos. -> Akuter Myokardinfarkt
+- wenn Labordiagnostik neg. -> Instabile AP 
+
+### Therapiemöglichkeiten 
+
+- Bettruhe, erhöhter Oberkörper
+- Sauerstoffgabe 
+- Schmerzbehandlung -> Schmerzlinderung senkt Sauerstoffbedarf! 
+- Nitroglycerin (Gefäßerweiterung, Entlastung)
+- i.v. Gerinnungshemmer 
+- Betablocker (Senkung des Sauerstoffbedarfs)
+- Behandlung von Hypertonie, Rhytmusstörung etc.
+
+#### Reperfusionstherapie (Wiederdurchblutung)
+
+- wenn möglich: Notfall-PTCA (Herzkatheter mit Aufdehnung)
+- gleiches Vorgehen wie bei AP 
+- Stentimplantation 
+- äußerst invasiv 
+
+#### Lysetherapie 
+
+- nur ca. 50% der Kliniken können PTCA durchführen 
+- Gabe von Enzymen, die Blutgerinnsel auflösen
+- Komplikationen: Risiko von Blutungen (insbesondere Schlaganfall)
+- Kontraindikation: Magengeschwür, frische OP, kürzlicher Schlaganfall
+- kann schon im Notarztwagen gegeben werden (ggf. sinnvoll bei längeren Anfahrtswegen)
+
+## Herzstillstand 
+
+### Symptome 
+
+- Schwächeanfälle
+- Ohnmacht 
+- Schmerzen in der Brust 
+- Schnappatmung oder fehlende Atmung
+
+### Defibrillation
+
+- Indikationen: Kammerflimmern
+- Kontraindikationen:
+  - vorhandener Puls 
+  - Aystolie (fehlende elektrische Erregung - Nulllinie)
+  - Körpertemperatur < 27 °C 
+  - Sichere Todeszeichen 
+
+- Durchbrechen der ungeordneten elektrischen Aktivität durch Stromstoß 
+- elektrische Aktivität wird auf null gesetzt 
+
+### Reanimation 
+
+- Herzdruckmassage um vorhandenen Sauerstoff zu verteilen
+- Atemwege freimachen und beatmen 
 
