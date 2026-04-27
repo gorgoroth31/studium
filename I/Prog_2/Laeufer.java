@@ -1,8 +1,8 @@
 public class Laeufer {
-  private String name;
-  private String startNummer;
-  private double gewicht;
-  private int alter;
+  public String name;
+  public int startNummer;
+  public double gewicht;
+  public int alter;
 
   public void druckeInfo() {
     // 2A
