@@ -313,3 +313,150 @@ Nutzer sehen häufiger eine einzige KI-generierte Antwort, statt einer Liste von
 - kurze zitierfähige Absätze; Zusammenfassung (TL;DR am Anfang)
 - Technische Auffindbarkeit (Cral- und Indexierbarkeit; Zugriff für KI-Crawler sicherstellen)
 
+# Terminologielehre
+
+## Semiotisches Dreieck 
+
+### Bezeichnung, Benennung 
+
+- Zentrale Frage: **Was man sagt**
+- Bezeichnet: **Begriff**
+- Bedeutet: **Gegenstand**
+- Bezeichnung: Repräentation eines Begriffs mit **sprachlichen oder anderen Mitteln**
+- Benennung: Aus einem oder mehreren Wörtern bestehende Bezeichnung
+
+### Begriff 
+
+- Zentrale Frage: **Was man meint**
+- Bezieht sich auf: **Gegenstand**
+- **Denkeinheit**, die aus einer Menge von Gegenständen unter Ermittlung der diesen Gegenständen gemeinsamen Eigenschaften mittels **Abstraktion** gebildet wird
+
+### Gegenstand
+
+- Zentrale Frage: **Was es ist**
+- Beliebiger Ausschnitt aus der **wahrnehmbaren** oder **vorstellbaren** Welt 
+
+## Merkmale 
+
+Ich weiß was Merkmale sind. ich kann zw. essentiellen und inessentiellen Merkmalen unterscheiden 
+
+- Merkmal: Eigenschaft eines Gegenstandes 
+- Merkmalsausprägung: konkrete Eigenschaft dieses Objektes 
+
+### Essentielle Merkmale 
+
+- Ein Gegenstand **muss** dieses Merkmal haben, z.B.:
+  - Fahrrad hat einen Rahmen
+  - Fraktur betrifft eine Knochensubstanz und ist eine Verletzung
+  - Feuerwehrauto ist rot 
+
+- Die Definition eines Gegenstandes gründet sich auf essentiellen Merkmalen 
+- Sind wichtig zur Ordnung von Gegenständen (Eingliederung in Hierarchie)
+
+### Inessentielle Merkmale 
+
+- Ein Gegenstand **kann** dieses Merkmal haben, z.B.:
+  - Fraktur betrifft den li. Unterarm 
+  - Vorhang ist anthrazit
+
+- Ein inessentielles Merkmal dient dazu, Gegenstände desselben Typs zu unterscheiden 
+- Wichtig für Dokumentation von Objekten
+
+## Hierarchie 
+
+Ich kann mono und polyhierarhie erkrären und in darstellungen erkennen. gleichgeordnete begriffe kann ich identifizieren
+
+Generell können Hierarchien immer in einer Baumstruktur angegeben werden 
+
+- **generische** Hierarchie: Kindelemente unterscheiden sich von Elter anhand eines zusätzlichen, differenzierendem Merkmal 
+- **partitive** Hierarchie: Kindelemente sind Teil des Elters, ganz oben ist das Ganze und Kinder sind immer Teil des Ganzen 
+
+### gleichgeordnete Begriffe (sibling)
+
+- Begriffe, die **auf der gleichen hierarchischen Ebene** stehen und einen **gemeinsam übergeordneten Begriff** haben, sind **gleichgeordnet**
+
+### Monohierarchie 
+
+- Jedes Kindelement hat genau einen Elter 
+- Beispiel: Dateisystem
+
+### Polyhierarchie
+
+- Min. ein Kindelement hat mehr als einen Elter 
+- Beispiel: Einordnungen von Krankheiten (bakterielle Pneumonie ist Lungenkrankheit und gleichzeitig Infektionskrankheit)
+
+## Facettenklassifikation
+
+mir ist das konzept einer Facettenklassifikation klar und ich kann einfache beispiele konstruieren 
+
+- **Begriffskomposition** nach frei kombinierbaren Merkmalarten
+
+- Beispiel: Rohr 
+  - Merkmalarten: Material (Stahl, Glas), Inhalt (Wasser, Gas), Funktionen (Abfluß, Überlauf)
+  - Wasserabflußrohr aus Stahl
+  - Gasrohr aus Stahl 
+
+- Facetten müssen so allgemeingültig und eindeutig identifizierbar wie möglich gehalten werden 
+- Jedem Gegenstand muss eine Facette eindeutig zugeordnet werden können (es kann kein Gaswasserrohr geben)
+
+
+## Synonyme und Homonyme
+
+Ich kann syn und hom definieren, Ursachen und beispiele aufzählen und die problematik bei der rechereche darstellen 
+
+### Synonym 
+
+- Mehrere Benennungen beziehen sich auf den gl. Gegenstand, z.B.:
+  - Zuckerkrankheit und Diabetes mellitus beziehen sich beide auf eine Stoffwechselstörung
+
+- Ursachen hierfür sind z.B.:
+  - Umgangssprache vs. Fachsprache (Blinddarm - Appendix, Kochsalz - Natriumchlorid)
+  - Regionale Sprachunterschiede (Brötchen - Semmel, Fasching - Fasnacht)
+  - Fremdsprache (Gasthaus - Restaurant, Klebeband - Tape)
+  - Kurzform vs. vollst. Benennung (Uni - Universität, Erys - Erythrozyten)
+  - Abkürzung vs. vollst. Benennung (THU, LKW)
+
+- Probleme bei der Recherche ergeben sich daraus, wenn beim Indexieren für den gleichen Begriff andere Deskriptoren als bei der Recherche verwendet werden 
+  - z.B. Ich schreibe eine Doku und verwende überall Zuckerkrankheit, bei der Recherche möchte ich wissen, wo ich überall Diabetes mellitus verwendet habe 
+    - -> Unterschiedliche Ergebnisse trotz gleichem Gegenstand/Sachverhalt
+    - Recherche liefert zu wenig relevante Dokumentationseinheiten 
+
+### Homonymie 
+
+- Eine Benennung bezieht sich auf unterschiedliche Gegenstände, z.B.:
+  - Bruch bedeutet zum einen ein Fraktur oder eine Hernie, je nachdem was wie wo 
+  - Ton (Material) - Ton (in der Musik)
+  - arm - Arm 
+  - patient (engl. "geduldig") - Patient 
+
+- Es besteht kein Sinnzusammenhang zw. den bezeichneten Begriffen
+
+- Problem bei der Recherche ergibt sich daraus, wenn Benennungen ohne Textzusammenhang verwendet werden -> Gefahr von Missverständnissen
+  - z.B. ich schreibe eine Doku und will erwähnen, dass ich eine Hernie habe und verwende nur das Wort "Bruch", aber nicht wo der war und was gemacht wurde 
+  - wenn ich nach (Knochen-)Bruch suche, erhalte ich auch die Absätze über die Hernie 
+  - Recherche liefert zu viele und nicht relevante Dokumentationeinheiten
+
+## Thesaurus 
+
+### Bedeutung 
+
+**geordnete Zusammenstellung** von **Begriffen** und **Benennungen zum Indexieren, Speichern und Wiederuaffinden** in einem Dokumentationsgebiet 
+
+### Merkmale 
+
+- Begriffe und Benennungen werden eindeutig aufeinander bezogen 
+  - Synonyme werden möglichst vollständig erfasst 
+  - Homonyme werden korrekt gekennzeichnet
+- Für jeden Begriff wird eine Bezeichnung (Vorzugsbezeichnung, Begriffsnr. oder Notation) festgelegt, die den Begriff eindeutig vertritt 
+- Beziehungen zw. Begriffen werden dargestellt 
+
+### Einschränkungen 
+
+- Thesauren benötigen einen **klar umrissenen Kontext**, da sonst zu viele verschiedene Wörter -> je mehr Wörter, desto exponentiell aufwendiger
+  - z.B. Medizin, Medikamente, Krankheiten 
+
+### Wie sieht ein Thesaurus aus?
+
+- Auflistung von Wörtern
+- Wenn ein Wort angeklickt wird, werden Synonyme, Antonyme und Homonyme aufgezeigt
+

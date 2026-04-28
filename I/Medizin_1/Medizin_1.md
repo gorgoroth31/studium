@@ -1171,3 +1171,26 @@ Arbeitsdiagnose: **Akutes Koronarsyndrom**
 - Herzdruckmassage um vorhandenen Sauerstoff zu verteilen
 - Atemwege freimachen und beatmen 
 
+# Tiefe Beinvenenthrombose
+
+## Symptome 
+
+- Schmerzen im Bein 
+- Schweregefühl
+- Schwellung
+- Überwärmung
+
+### Unterschiede zur pAVK
+
+- bei pAVK stirbt Gewebe ab, da Sauerstoff nicht vorhanden ist -> akut lebensgefährlich/organgefährlich
+- bei TVT staut sich Blut im Bein und kommt nicht mehr nach oben
+
+## Venenklappen & Muskelpumpe
+
+Venenklappen sorgen für eine zum Herzen gerichtete, zentripetale Strömungsrichtung, indem sie den Rückfluss des Blutes verhindern. Die Muskelpumpe unterstützt den Rücktransport des venösen Blutes indem die Muskeln die Venen zusammendrücken und somit das Blut in Richtung des Herzen treibt.
+
+### Funktionen
+
+- Venenklappen verhindern den Rückfluss des Blutes 
+- Sorgen zsm. mit Muskelpumpe für eine zum Herzen gerichtete Strömungsrichtung
+
