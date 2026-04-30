@@ -1192,5 +1192,152 @@ Venenklappen sorgen für eine zum Herzen gerichtete, zentripetale Strömungsrich
 ### Funktionen
 
 - Venenklappen verhindern den Rückfluss des Blutes 
-- Sorgen zsm. mit Muskelpumpe für eine zum Herzen gerichtete Strömungsrichtung
+- VK sorgen zsm. mit Muskelpumpe für eine zum Herzen gerichtete Strömungsrichtung
 
+## Blutstillung
+
+- schnell, aber instabil 
+- Thrombozyten lagern sich am verletzten Endothel an (**Adhäsion**)
+- Thrombozyten lagern sich aneinander an (**Aggregation**)
+- Verstopfung und Verschluss des Gefäßes 
+- Gefäßverengung im verletzten Bereich durch elastische Fasern und durch lokale Freisetzung von z.B. Adrenalin 
+- Hemmung durch **Acetylsalicylsäure** (Aspirin)
+
+## Blutgerinnung
+
+- langsamer, aber stabiler 
+- Ablauf einer kaskadenartigen Reaktion (ein Faktor aktiviert den nächsten)  zahlreicher Gerinnungsproteine im Blut 
+- Bildung eines dichten Filzes aus Eiweißfäden zur Stabilisierung des Thrombus 
+- **Fibrin** lagert sich über aggregierte Thrombozyten und Erys und hält alles zusammen 
+- dieser dichte Filz wird direkt bei Bildung bereits abgebaut -> Nachweis der Thrombusbildung durch Fibrinspaltprodukt **D-Dimere** im Blut
+
+### endogenes System 
+
+- Aktivierung durch Kontakt des Blutes zu verletzter Gefäßoberfläche
+- wird durch **Hämophilie** (Bluterkrankheit) beeinträchtigt
+
+### exogenes System 
+
+- Aktivierung durch bei Gefäßverletzung freigesetzten Phospholipiden
+- benötigt **Vitamin-K**
+
+## Hemmung 
+
+### Blutstillung
+
+- Hemmung der Thrombozytenaggregation durch Acetylsalicylsäure, Clopidogrel
+- blockiert Thrombozytenaggregation schnell und irreversibel (Thrombos bleiben nicht mehr kleben)
+- -> schnell und mittellang wirksam 
+- Verwendung für **dauerhafte Therapie**
+- orale oder parenterale Verabreichung 
+
+### endogenes System 
+
+- Hemmung durch **Heparin**
+- blockiert **vorhandene** Gerinnungsfaktoren -> unterbricht Kaskade direkt 
+- -> schnell und relativ kurz wirksam, daher sehr gut steuerbar 
+- Verwendung für **akute Therapie**
+- parenterale Verabreichung durch Spritzen 
+
+### exogenes System 
+
+- Hemmung durch Cumarine, v.a. **Marcumar** (Vitamin-K-Antagonist)
+- blockiert Synthese **neuer** Gerinnungfaktoren 
+- -> später und länger wirksam, daher schwieriger steuerbar 
+- Verwendung für **dauerhafte Therapie**
+- orale Verabreichung durch Spritzen
+- bei Überdosis muss man warten, bis Leber Ger.faktoren nachgebaut hat 
+
+## Thrombose-Akuttherapie
+
+### bei mittelschwerer, nicht lebensbedrohlicher Thrombose 
+
+- Kompressionsstrümpfe (Unterstützung der Muskelpumpe)
+- Mobilisation (Physio zur Anregung der MP)
+- Antikoagulationstherapie mit Heparin 
+  - Genaue Dosierung (Perfusor mit Heparin)
+  - Verhinderung weiterer Thrombusanlagerung
+  - während körpereigene Thrombolyse den Thrombus langsam abbaut 
+    -> Senkung des Lungenembolierisikos
+
+### bei lebensbedrohendem Thrombus, akut erforderlich
+
+- Medikamentöse Thrombolyse durch aggresive Auflösung 
+- Indikation durch:
+  - schwere Lungenembolie 
+  - frische, große Beckenvenenthrombosen mit masiver Schwellung 
+  - frischen, arteriellen Infarkten 
+- Problem: Relativ hohes Blutungsrisiko (z.B. Hirnblutung)
+- Kontraindikationen:
+  - OP/Blutung aktuell oder in den letzten Wochen 
+  - Schwangerschaft
+  - schwere Hypertonie 
+
+## Labordiagnostik 
+
+- Test der **Blutstillung**: Blutungszeit (normal: 1-4 Min.)
+- Untersuchung des Blutplasmas auf Gerinnungsfaktoren (Zugabe von Citrat zur Gerinnungshemmung)
+- Relevante Werte:
+  - **PTT**:
+    - gibt an, wie lange es dauert, bis Blutgerinnung einsetzt (Normalwert 20 - 40 Sekunden); Heparin-Therapie bedingte Verlängerung auf das zweii- bis dreifache des Ausgangswertes
+    - Test der **endogen aktivierten Gerinnung**
+  - **Quick-Wert**: 
+    - dient der regelmäßigen Therapiekontrolle bei Patienten unt Antikoagulation mit Cumarin-Derivaten
+    - Test der **exogen aktivierten Gerinnung**
+
+## Ursachen/Risikofaktoren einer Venenthrombose 
+
+- **Veränderungen der Gefäßwand**
+  - Arteriosklerose
+  - Gefäßverletzungen 
+- **Veränderungen der Blutzusammensetzung**
+  - Austrocknung -> zähflüssiger, gerinnt leichter 
+  - Fett- und Eiweißstoffwechselstörungen
+  - Hormonelle Veränderungen, z.B. Einsatz der Anti-Baby-Pille
+- **Veränderung der Blutströmung**
+  - Immobilisierung, Langes Stehen/Sitzen/Liegen 
+  - Krampfadern
+
+## Prophylaxe 
+
+- Vermeidung von Risikofaktoren 
+- Bewegung/Mobilisierung 
+- Kompressionsstrümpfe zur Unterstützung des venösen Abflusses 
+- Bei absehbarer Immobilisierung (z.B. OP): Gabe von niedermolekularem Heparin
+- Falls langfristige, ggf. lebenslange Antikoagulation nötig: Gabe von Cumarinen (Achtung vor Vitamin-K!)
+- Zur Prophylaxe arterieller Thrombosen: 
+  - Gabe von Thrombozytenaggregationshemmern (ASS)
+
+## Lungenembolie
+
+### Ursache 
+
+- Verstopfung einer oder mehrerer Lungenarterien (=> sauerstoffarmes Blut, daher nicht direkt ein Infarkt!)
+
+### Pathophysiologie
+
+- Anstieg des Lungengefäßwiederstands
+  -> Rechtsherzbelsatung 
+- Ausfall des betroffenen Lungenareals für die Oxygenierung des Blutes
+
+### Klinik 
+
+- kleinere Embolien bleiben oft unbemerkt, engen über Jahre hinweg aber die Lungengefäße ein 
+- Typische Klinik bei größeren Embolien:
+  - *Plötzlich* einsetzende Thoraxschmerzen, oft *atemabhängig*
+  - Plötzliche Dyspnoe, ggf. Bewusstlosigkeit 
+  - Beklemmungsgefühl, Todesangst 
+- Auftritt oft nach erster Bewegung nach längerer Immobilisation, z.B. morgendliches Aufstehen
+
+### Diagnostik 
+
+#### Basisdiagnostik, Vitalzeichen
+
+- Tachykardie, Tachypnoe, da mehr Widerstand in Lungenarterien 
+- Hypotonie, da Herz mehr schlägt, ist weniger Blut verfügbar, ggf. Schock bis zum Herz-Kreislauf-Stillstand
+- ggf. Zeichen der Beinvenenthrombose als Hinweise auf Ursache
+- Auskultation der Lunge meist unauffälig 
+- Auskultation des Herzens: ggf. gespaltener 2. Herzton 
+- Röntgen Thorax (ggf. Zeichen der Rechtsherzbelastung)
+- Blutgasanalyse (O2 und CO2 im Keller)
+- EKG (Anzeichen der Rechtsherzbelastung)
