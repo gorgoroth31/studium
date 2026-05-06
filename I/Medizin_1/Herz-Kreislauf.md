@@ -1248,7 +1248,9 @@ Venenklappen sorgen für eine zum Herzen gerichtete, zentripetale Strömungsrich
 - orale Verabreichung durch Spritzen
 - bei Überdosis muss man warten, bis Leber Ger.faktoren nachgebaut hat 
 
-## Thrombose-Akuttherapie
+<a id="thrombose-therapie"></a>
+
+## Thrombose-Akuttherapie 
 
 ### bei mittelschwerer, nicht lebensbedrohlicher Thrombose 
 
@@ -1261,7 +1263,7 @@ Venenklappen sorgen für eine zum Herzen gerichtete, zentripetale Strömungsrich
     -> Senkung des Lungenembolierisikos
 
 ### bei lebensbedrohendem Thrombus, akut erforderlich
-
+<a id="thrombolyse"></a>
 - Medikamentöse Thrombolyse durch aggresive Auflösung 
 - Indikation durch:
   - schwere Lungenembolie 
@@ -1272,6 +1274,12 @@ Venenklappen sorgen für eine zum Herzen gerichtete, zentripetale Strömungsrich
   - OP/Blutung aktuell oder in den letzten Wochen 
   - Schwangerschaft
   - schwere Hypertonie 
+
+## Risiken der Blutgerinnungshemmung/Thrombolyse 
+
+- erhöhtes Blutungsrsiko 
+- ASS und verwandte Schmerzmittel -> Magenbutungen! (schwer stillbar)
+- (versehentliche) Überdosierung von Cumarin 
 
 ## Labordiagnostik 
 
@@ -1310,7 +1318,7 @@ Venenklappen sorgen für eine zum Herzen gerichtete, zentripetale Strömungsrich
 
 ## Lungenembolie
 
-### Ursache 
+### Ursache
 
 - Verstopfung einer oder mehrerer Lungenarterien (=> sauerstoffarmes Blut, daher nicht direkt ein Infarkt!)
 
@@ -1341,3 +1349,154 @@ Venenklappen sorgen für eine zum Herzen gerichtete, zentripetale Strömungsrich
 - Röntgen Thorax (ggf. Zeichen der Rechtsherzbelastung)
 - Blutgasanalyse (O2 und CO2 im Keller)
 - EKG (Anzeichen der Rechtsherzbelastung)
+
+#### Wells-Score
+
+- verschiedene klinische Charakteristiken geben Punkte (s. u.); die Summe aller zutreffenden Punkte ergibt die Wahrscheinlichkeit einer LE 
+- Steigerung der Aussagekraft der Diagnostik 
+
+| klinische Charakteristik   | Punkte    |
+|--------------- | --------------- |
+| klinische Zeichen einer TVT   | 3,0   |
+| Herzfrequenz > 100/min   | 1,5|  |
+| Immobilisation oder OP in den vergangenen 4 Wochen   | 1,5  |
+| frühere TVT oder LE   | 1,5  |
+| Krebserkrankung | 1,0 |
+
+| Score | Wahrscheinlichkeit einer LE |
+| -------------- | --------------- |
+| <2 | Niedrig |
+| 2-6 | Mittel |
+| >6 | Hoch |
+
+#### Labordiagnosik 
+
+- Untersuchung auf Gerinnungsparameter 
+- D-Dimere (wenn neg. kann Thrombose ausgeschlossen werden)
+- wird immer direkt als erstes durchgeführt
+
+#### Technische Diagnostik
+
+Durchführung im Grunde von oben nach unten, für Pat. am angenehmsten
+
+**Dopplersonographie der Beinvenen:**
+- wenn pos. -> Behandlung beginnen 
+- wenn neg. war entweder nie was in den Beinvenen ODER es ist komplett weggeschwommen
+- wird in erster Stufe verwendet, da nicht-invasiv und keine Strahlenbelastung
+
+**Angio-CT:**
+- CT mit Kontrastmittel
+- sehr schnelle und sichere Diagnostik 
+- Sensitivität inzw. min. gleichwertig zur Szinti 
+
+**Szintigraphie:**
+- Injektion einer schwach radioaktive Substanz -> Darstellung der Durchblutung 
+- Einatmen einer schwach radioaktiven Substanz -> Darstellung der Belüftung
+- eher zur Ausschlussdiagnostik 
+
+### Akut-Therapie
+
+- Prinzipiell wie bei <a href="#thrombose-therapie">Thrombose (s. o.)</a>
+- strikte Immobilisierung (Vermeidung der Loslösung weiterer Thromben) für einige Tage 
+- Oberkörperhochlagerung 
+- Sauerstoffgabe (Schmerzmittel)
+- bei fulminanter Lungenembolie (Schock, Atemversagen).
+  - Thrombolyse 
+  - falls nicht möglich: Embolektomie (stark invasiv!)
+- Intensiv-Behandlung:
+  - Gefahr weiterer Embolien aus der gleichen Quelle 
+  - Möglichkeit zur Kreislaufstabilisierung, Intubation falls erforderlich 
+
+# Herzinsuffizienz
+
+## Ursachen 
+
+### akute Herzinsuffizienz
+
+Plötzliches (Stunden bis Tage) Pumpversagen bei z.B.:
+- Myokardinfarkt
+- Lungenembolie 
+- Herzrhytmusstörung 
+- Herzmuskelentzündung
+- Verletzungen, Blutung in den Herzbeutel
+
+### chronische Herzinsuffizienz
+
+Schleichend (Monate bis Jahre) auftretendes Pumpversagen bei z. B.:
+- KHK 
+- Arterieller Hypertonie
+- Herzklappenfehlern 
+- Überwässerung, z. B. bei Niereninsuffizienz
+
+## Pathophysiologie
+
+### Vorwärtsversagen 
+
+Das Herz kann nicht mehr genug Blut auswerfen, um den Bedarf der Organe zu decken 
+-> Minderdurchblutung, Funktionseinschränkung 
+
+### Rückwärtsversagen
+
+Das Herz kann das im Kreislauf anfallende Blut nicht schnell genug wegpumpen: **Rückstau**
+- Anstieg des venösen Drucks 
+  - Anstieg des Kapillardrucks
+    - Entstehung von Ödemen (Wasser im Gewebe)
+
+### Maximalausprägung: kardiogener Schock 
+
+"Herzversagen", Letalität 80%
+- durch Vorwärtsversagen sinkt das Herzzeitvolumen und der Blutdruck, woraufhin Koronardurchblutung sinkt (Schädigung des Herzmuskels)
+- durch Rückwärtsversagen steigt der Füllungsdruck in den Venen und Vorhöfen (niedrigerer Blutauswurf -> gesteigerter O2-Verbrauch -> Myokardischämie)
+- zunächst Anstieg der Pulsfrequenz um Blutdruckabfall entgegenzuwirken, später Abfallen, da nicht genug Blutvolumen vorhanden 
+
+## Schock 
+
+- lebensbedrohliches Krankheitsbild mit verminderter Organdurchblutung 
+- Ursache: absolute oder relative Verminderung der zirkulierenden Blutmenge 
+  - **Kardiale Ursachen**: 
+    - Pumpversagen des Herzens: "kardiogener Schock"
+  - **Extrakardiale Ursachen**:
+    - Blutungen, Flüssigkeitsverlust: "Volumenmangelschock"
+    - Sepsis: "septischer Schock"
+    - Allergische Reaktion: "anaphylaktischer Schock"
+
+### Zustandekommen der Schockspirale 
+
+1. Grundlegender Volumenmangel 
+2. Blutdruckabfall 
+3. verminderte Organdurchblutung 
+4. lebensbedrohlicher O2-Mangel 
+5. Kapillarschädigung
+6. Flüssigkeitsverlust ins Gewebe, woraufhin Volumen fehlt (wieder ab zu Stufe 2)
+
+## Linksherzinsuffizienz
+
+- Rückstau in die Lungenvenen
+
+### Symptome
+
+- Lungenstauung, daher Dyspnoe durch Wasser in Lunge 
+  - Belastungsdyspnoe oder Ruhedyspnoe 
+- oft schlechter nach Hinlegen
+  - nächtliche Anfälle von Atemnot und Husten
+- Einschränkung der Leistungsfähigkeit
+
+## Rechtsherzinsuffizienz
+
+- Rückstau in die Körpervenen
+- Isolierte Rechtsherzinsuffizienz ist selten, meist nur bei Globalinsuffizienz
+
+### Symptome 
+
+- Rückstau in die Körpervenen, daher Ödeme v. a. der Unterschenkel, Gewichtszunahme 
+- Leber- und Milzvergrößerung
+- vermehrtes nächtliches Wasserlassen 
+
+## Globalinsuffizienz 
+
+= schwere Linksherzinsuffizienz mit...
+- Rückstau über Lunge hinweg ins rechte Herz 
+- Rückstau in Körpervenen 
+
+
+
