@@ -1498,5 +1498,62 @@ Das Herz kann das im Kreislauf anfallende Blut nicht schnell genug wegpumpen: **
 - Rückstau über Lunge hinweg ins rechte Herz 
 - Rückstau in Körpervenen 
 
+## Anamnesefragen
+
+- Sind Ihnen die Schuhe manchmal zu eng? Wann? -> Abend, da Wasser sich wg. Schwerkraft sammelt 
+- Wie viele Treppenstufen können Sie m Stück steigen? -> Ermittlung der mögl. Herzbelastung 
+- Wie viele Kopfkissen benutzen Sie? Liegen Sie mit erhöhtem Oberkörper? 
+  - Volumenbelastung des Herzen ist geringer
+  - Orthopnoie ("aufrechtes Atmen"): Atemnot im Liegen 
+- Wie oft müssen Sie nachts Wasser lassen?
+  - Im Liegen können die Beinödeme besser abgebaut werden 
+  - Geringere Druckbelastung de Herzens (Pumpen gegen die Schwerkraft, vgl. Harndrang im Schwimmbad)
+
+## Diagnostik: Röntgen 
+
+### Prinzip 
+
+- hochenergetische Strahlung, erzeugt durch schnelle Abbremsung beschleunigter Elektronen (Röntgenstrahlung)
+- Durchdringung von Gewebe 
+- zunehmende Absorption mit steigender Dichte des Gewebes 
+- Detektion der übrig gebliebenen Strahlen auf Film oder digital 
+- Abgrenzung versch. Gewebearten erfordert großen Dichteunterschied, z. B.
+  - Luft vs. Weichteilgewebe/Flüssigkeit 
+  - Weichteilgewebe vs. Knochen 
+
+### Vorteile 
+
+| Allgemein   | Nachteile Ultraschall    |
+|--------------- | --------------- |
+| Preiswert, hohe Verfügbarkeit   | - |
+| Gute Dokumentation   | Schlechte Dokumentation |
+| Niedriger Zeitaufwand   | - |
+| Hohe Auflösung   | Kompromiss zw. Eindringtiefe und Auflösung   |
+| Gut geeignet für Untersuchung von: <br>- Knochen, Gelenken <br>- Lunge <br>- Herz (Größe, Form) <br>- Gefäße/Hohlorgane, meist mit Hilfe von Kontrastmitteln | schlechte Darstellung  von Knochen |
+
+### Nachteile 
+
+| Allgemein   | Vorteile Ultraschall    |
+|--------------- | --------------- |
+| Strahlenbelastung   | keine Strahlenbelastung   |
+| Nur Momentaufnahme   | auch Video-Befund möglich   |
+| nur 2D-Projektion   | auch 3D möglich   |
+| Schlecht geeignet für Untersuchung von Weichteilorganen   | Guter Weichteilkontrast   |
+
+### Einsatzmöglichkeiten des Röntgen Thorax 
+
+- pa-Aufnahme (posterior-anteriorer Strahlengang)
+  - von hinten nach vorne -> Herz soll so nah wie möglich am Film sein 
+
+#### ...bei Herzinsuffizienz
+
+- Herzverbreiterung durch gestautes Blut (sieht wie ein Klumpen um das Herz aus)
+- Stauungszeichen anhand Verbreiterung der Lungengefäße  
+
+#### ...bei Lungenödem 
+
+- Wasser lagert sich in inferiorer Lage in der Lunge ab 
+  - -> Einlagerungen verschmelzen mit Herzkontur 
+
 
 
