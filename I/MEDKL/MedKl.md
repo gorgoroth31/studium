@@ -459,4 +459,69 @@ Ich kann syn und hom definieren, Ursachen und beispiele aufzählen und die probl
 
 - Auflistung von Wörtern
 - Wenn ein Wort angeklickt wird, werden Synonyme, Antonyme und Homonyme aufgezeigt
+- Suche nach einem Wort, das keinen eigenen Eintrag hat, aber Synonym eines anderen ist, leitet auf diese Seite weiter 
 
+### Aufbau eine Eintrags 
+
+- **Deskriptor** als Titel 
+- Auflistung der Synonyme
+
+# ICD-10
+
+- weltweit verwendete Krankheitsklassifikation 
+- aus einer Liste von **Todesursachen** entwickelt
+- In Deutschland relevant für:
+  - **Leistungserfassung** im Krankenhaus (eine der Grundlagen des DRG-System)
+  - **Quartalsabrechnung** in der ambulanten Versorgung
+  - **Krankheitskommunikation** (u. a. Arbeitsunfähigkeitsbescheinigung)
+  - **Klinische Studien** (u. a. Medikamentenzulassung)
+  - **Metadaten-Vokabular** in der Mediendokumentation 
+
+## Struktur 
+
+- **Mono-hierarchische, mono-achsiale** Begriffsordnung 
+- 21 Kapitel mit **unterschiedlicher Systematik**:
+  - nach **Organsystem**: z.B. Krankheiten des Verdauungssystems
+  - nach **Morphologie**: z.B. Neubildungen (Tumoren)
+  - nach **Ätiologie** (Krankheitsursache): z.B. Infektionskrankheiten, Verletzungen 
+  - nach **Entstehungsbedingung**: z.B. Krankheiten der Schwangerschaft, Fehlbildungen, Missbildungen
+
+### Aufbau 
+
+- &nbsp;1. Stelle: Buchstabe (Einordnung nach Systematik)
+- &nbsp;2. und 3. Stelle: Ziffern (Einordnung innerhalb der Systematik)
+- &nbsp;4. Stelle: Ziffer (genauere Definierung der Ausprägung) 
+- &nbsp;5. Stelle: Ziffer (Lokalisation an Organ/ Differenzierung der Ursache)
+- &nbsp;6. Stelle: L R B (Angabe der Seite als Zusatz)
+
+- z.B.: S68.1 L: 
+  - S: Verletzungen [...]
+  - 68: Traumatische Amputation an Handgelenk und Hand
+  - .1: ... eines sonstigen einzelnen Fingers (komplett) (partiell)
+  - L: auf der linken Seite 
+
+### Mehrfachzuordnung von Krankheiten (+/*)
+
+- Manche Krankheiten können mehreren Kapiteln zugeordnet werden (bakterielle Pneumonie)
+  - **Grund: unterschiedliche Systematik**
+- Lösung in ICD:
+  - durch +/*-System:
+    - **+ Code: Ursachen-Code** (bakterielle Infektion)
+    - **\* Code: organspezifischer Code** (Lunge)
+- Beispiel: &emsp;**Konjunktivitis durch Herpes Zoster**
+              <br>&emsp;&emsp;&emsp;&emsp;&emsp;B02.3+  in Systematik Infektionskrankheiten 
+              <br>&emsp;&emsp;&emsp;&emsp;&emsp;BH13.1*  in Systematik Augenkrankheiten 
+- allgemeine Regel: + Code vor * Code
+
+
+- ich kann den +/* Ansatz erklären 
+
+- ich weiß dass die kapitel c & d für neubildungen (tumore) verwendet werden 
+
+- ich weiß dass icd-o-3 eine duale klassifikation für die lokalisation und die histologie ist und kenne die formale struktur dieser codes. die lokalisationsinfo ist im icd-o-3 genauer 
+
+- ich kann anhand der dignität der histologie entscheiden, ob im icd-10 ein c- oder d-code verwendet wird 
+
+- ich weiß, dass ops als klassifizierung von prozeduren, medikamenten und sonstigen therapien verwendet wird 
+
+- ich kann aufgrund der äußeren form einen diagnoseschlüssel von einem prozedurenschlüssel unterscheiden 
