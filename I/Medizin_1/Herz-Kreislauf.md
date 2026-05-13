@@ -1034,6 +1034,8 @@ Im Grunde genommen, Ausmerzen der Risikofaktoren, also:
   - Entspannng der Gefäße
   - Senkung der Belastung des Herzmuskels 
 
+<a id="khk-operativ-therapie"></a>
+
 #### Interventionell
 
 - Perkutane transluminare koronare Angioplastie (PTCA) -> über **Herzkatheter**
@@ -1555,5 +1557,75 @@ Das Herz kann das im Kreislauf anfallende Blut nicht schnell genug wegpumpen: **
 - Wasser lagert sich in inferiorer Lage in der Lunge ab 
   - -> Einlagerungen verschmelzen mit Herzkontur 
 
+<a id="herzinsuffizienz-kompensation"></a>
 
+## Kompensationsmechanismen des Körpers 
 
+- sind zwar kurzfristig hilfreich, schädigen das Herz aber auf lange Frist noch mehr 
+
+### ...bei Vorlast (Blut staut sich zurück)
+
+- Volumenbelastung des Herzen 
+- Herzinsuffizienz
+- niedriges Herzzeitvolumen 
+- Minderdurchblutung der Nieren 
+- Aktivierung von Angiotnesin II/Aldosteron (daraufhin Blutdruck anstieg -> Nachlast)
+- Vermehrte Natrium- und Wasserretention
+- überschüssige Flüssigkeit im Körper -> weitere Volumenbelastung
+
+### ...bei Nachlast (es kommt zu wenig Blut ins Herz)
+
+- Druckbelastung des Herzen 
+- Herzinsuffizienz
+- Niedriges Herzzeitvolumen
+- Aktivierung der Blutdrucksensoren 
+- Aktivierung des Sympathikus 
+- Blutdruckanstieg -> weitere Druckbelastung
+
+## Antihypertensiva zur Therapie der Herzinsuffizienz 
+
+- Medikamente, die den Blutdruck senken 
+- zielen darauf ab, die <a href="#herzinsuffizienz-kompensation">Kompensationsmechanismen</a> zu durchbrechen
+- -> oft gleiche Präparate wie bei Hypertonie, auch wenn gar keine Hypertonie vorliegt! 
+
+### ACE-Hemmer 
+
+- **A**ngiotensin-**C**onverting-**E**nzyme-Hemmer 
+- greift RAAS an (Aldosteron hält Natrium zurück -> Volumensteigerung)
+- Senkung des Gefäßwiderstands
+- Senkung der Natrium-/Wasserretention
+- deutliche Reduktion der Beschwerden und Überlebensverlängerung 
+- mögl. Nebenwirkungen: Hypotonie, Niereninsuffizienz, Reizhusten 
+- Wirkstoffe: ***pril**
+- setzt bei Vorlast bei der Aktivierung von Angiotensin an und bei Nachlast bei Blutdruckanstieg
+
+### Betablocker 
+
+- Senkung der Sympathikus-Kompensation 
+- Senkung der Herzfrequenz 
+- langfristig Kräftigung des Myokards, Abnahme der Herzgröße 
+- lebensverlängernde Wirkung, Evidenzgrad A 
+- Nebenwirkungen: Bradykardie, Hypotonie 
+- langsam einschleichend dosieren 
+- Wirkstoffe: ***lol**
+- setzt bei Nachlast bei der Aktivierung des Sympathikus an 
+
+## Operative Therapie 
+
+- Behandlung einer <a href="#khk-operativ-therapie">KHK (Bypass, Stent)</a>
+- Behandlung eines Herzklappenfehlers (v.a. Aortenklappeninsuffizienz, Mitralklappeninsuffizienz)
+- Implantation eines Schrittmachers/Deffibrillators (da Rhytmusstörungen häufig)
+- bei terminaler Herzinsuffizienz: Herztransplantation
+  - bei pat. unter 60 Jahren 
+  - keine sonstigen schweren (z.B. bösartigen Krankheiten; Immunsuppressiva begünstigen Krebserkrankung)
+  - 5-Jahres-Überlebensrate 70-80%
+
+### Herzunterstützungssysteme 
+
+- Ersatz, bzw. Unterstützung v. a. der linksventrikulären Pumpfunktion 
+- Blut wird aus Herz unten ausgeleitet, in Pumpe rein und in Aorta wieder reingepumpt 
+- Überbrückung bis zur Herztransplantation
+- ggf. auch anstelle einer Transplantation 
+- Lebensdauer > 5 Jahre 
+- kein Puls, da Pumpe durchgehend läuft (ist eh optimaler für den Körper oder so)
+- Medikamente zur Blutverdünnung wie bei mech. Klappe erforderlich
