@@ -556,4 +556,75 @@ TL;DR: Unterscheidung einer Krankheit in verschiedenen Systematiken (Ursache vs 
 
 ## Unterschied zu Diagnoseschlüssel 
 
-- OPS beginnt mit Ziffer, ICD mit Buchstabe 
+- OPS beginnt mit Ziffer, ICD mit Buchstabe
+
+# DRG 
+
+- Quelle: [https://flexikon.doccheck.com/de/DRG-System](https://flexikon.doccheck.com/de/DRG-System)
+
+- **D**iagnosis **R**elated **G**roups 
+- pauschalisierendes Abrechnungssystem, bei dem stationäre Krankenhausbehandlungen weitestgehend unabhängig von der Verweildauer des Pat. über Fallpauschalen abgerechnet werden 
+- stationäre Behandlungsfälle werden zu Gruppen (DRGs) zusammengefasst und einem Relativgewicht zugeordnet. Die Zuordnung eines Falles zu einer Fallpauschale erfolgt aufgrund verschiedener Kriterien (Hauptdiagnose, Nebendiagnose/n, Prozeduren, Patientenalter, Beatmungsdauer etc.). Das Relativgewicht mult. mit dem landeseinheitlichen Basisfallwert ergibt den Abrechnungsbetrag 
+- ein Fall sind immer einzelne stat. Aufenthalte; ambulante Behandlungen werden zu einem Fall zusammengefasst, insofern sie innerhalb eines Quartals stattfinden und die gleiche Prozedur vorgenommen wird 
+
+## Kennzahlen 
+
+- **Basisfallwert**: Grundeinheit, in BaWü in 202: 4399,18€
+  - Ermittlung anhand von **Kalkulationshäusern**
+  - **Gedeckeltes Budget**
+  - Anpassung an Kostenentwicklung bei Medikamenten, Geräten, etc. häufig erst 2 Jahre später 
+- **Relativgewicht**:
+  - jeder abrechenbaren DRG zugeordnet 
+  - spiegelt die durchschnittliche Aufwändigkeit einer Behandlung wider 
+- **Fallpreis**: Basisfallwert * Bewertungsrelation (das, was der Fall dann wert ist)
+- **Case-Mix**: Summe der Kostengewichte aller Behandlungsfälle einer Periode
+  - spiegelt die "ökonomische Fallschwere" wider 
+- **Case-Mix-Index**: Case-Mix / Anzahl der Behandlungsfälle 
+  - Maß für die Wirtschaftlichkeit
+  - ermöglicht den Krankenhausvergleich 
+
+## Hauptdiagnose 
+
+- Definition: "Die Diagnose, die nach Analyse als diejenige festgestellt wurde, die hauptsächlich für die Veranlassung des stat. Kh-Aufenthaltes des Pat. verantwortlich ist"
+- Beispiel: Pat. fällt wg. Koordinationsschwierigkeiten von Fahrrad, geht mit Platzwunde ins KH, bei CT fällt Hirntumor auf -> Hirntumor als Hauptdiagnose
+- -> nicht unbedingt Aufnahmediagnose!
+- -> muss bei Aufnahme existieren 
+
+- nur, wenn auch eine Behandlung der Diagnose stattfindet 
+- gibt es in einem Fall immer genau ein einziges Mal 
+
+## Nebendiagnose
+
+- Definition: "Eine Krankheit oder Beschwerde,die entweder gleichzeitig mit der Hauptdiagnose besteht oder sich während des Kh-Aufenthaltes entwickelt"
+
+- sofern sie min. zu einem der folgenden Punkte geführt hat:
+  - therapeutische Maßnahmen
+  - diagnostische Maßnahmen
+  - erhöhter Betreuungs-, Pflege, und/oder Überwachungsaufwand
+
+- gibt es beliebig oft (inkl. 0-mal) in einem Fall 
+
+## CCl 
+
+- Komorbiditäts- und Komplikationslevel:
+  - 0 = keine KK-Nebendiagnose
+  - 1 = leichte ..
+  - 2 = mittelschwere ..
+  - 3 = schwere ..
+  - 4 = katastrophale ..
+
+## PCCl 
+
+- Patientenspezifisches Komorbiditäts- und Komplikationslevel
+- wird beeinflusst durch:
+  - Nebendiagnosen
+
+- nebendiagnosen können zur erhöhung des pccl führen 
+ 
+ - der pccl wird aus den ccl-werten der nebendiagnosen berechnet und kann die werte 0-4 annehmen. der ccl-wert einer nebendiagnose ist abhängig vom drg 
+
+ - ich kenne die einflussgrößen auf den drg-grouper (ND, Beatmungszeit, Alter, (Geburts)gewicht)
+
+ - ich verstehe die fehlbelegungen und die grenzverweildauern und kann diese erklären 
+
+ - ich kann zu einem vorgegebnen drg einen entsprechenden abrechungfall konstruieren (-> Übung)
