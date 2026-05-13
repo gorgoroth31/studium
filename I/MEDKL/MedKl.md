@@ -502,6 +502,8 @@ Ich kann syn und hom definieren, Ursachen und beispiele aufzählen und die probl
 
 ### Mehrfachzuordnung von Krankheiten (+/*)
 
+TL;DR: Unterscheidung einer Krankheit in verschiedenen Systematiken (Ursache vs Organspezifizität)
+
 - Manche Krankheiten können mehreren Kapiteln zugeordnet werden (bakterielle Pneumonie)
   - **Grund: unterschiedliche Systematik**
 - Lösung in ICD:
@@ -511,17 +513,47 @@ Ich kann syn und hom definieren, Ursachen und beispiele aufzählen und die probl
 - Beispiel: &emsp;**Konjunktivitis durch Herpes Zoster**
               <br>&emsp;&emsp;&emsp;&emsp;&emsp;B02.3+  in Systematik Infektionskrankheiten 
               <br>&emsp;&emsp;&emsp;&emsp;&emsp;BH13.1*  in Systematik Augenkrankheiten 
-- allgemeine Regel: + Code vor * Code
+- allgemeine Regel: + Code vor * Code (Ursache vor Organ)
 
+### Neubildungen & Tumore 
 
-- ich kann den +/* Ansatz erklären 
+- Kapitel C (maligne) und Kapitel D (benigne) werden für Neubildungen verwendet 
 
-- ich weiß dass die kapitel c & d für neubildungen (tumore) verwendet werden 
+# ICD-O-3 
 
-- ich weiß dass icd-o-3 eine duale klassifikation für die lokalisation und die histologie ist und kenne die formale struktur dieser codes. die lokalisationsinfo ist im icd-o-3 genauer 
+- International Classification of Diseases for Oncology
+- e.g. C8120/3 
+- genauere Lokalisation ggü. ICD-10 
+- dient rein der Dokumentation -> keine Abechnungen!
 
-- ich kann anhand der dignität der histologie entscheiden, ob im icd-10 ein c- oder d-code verwendet wird 
+## Duale Klassifikation 
 
-- ich weiß, dass ops als klassifizierung von prozeduren, medikamenten und sonstigen therapien verwendet wird 
+- Schlüssel für Lokalisation (alles bis /)
+- Schlüssel für die Histologie (wie sich die Zelle entwickelt, auch ob benigne oder maligne)
 
-- ich kann aufgrund der äußeren form einen diagnoseschlüssel von einem prozedurenschlüssel unterscheiden 
+### Dignität - Biologisches Verhalten 
+
+- /0, /1, /2: **benigne** -> **D-Code** bei der Diagnose anhand ICD-10 
+- /3, /6, /9: **maligne** -> **C-Code** bei der Diagnose anhand ICD-10 
+
+# OPS 
+
+- **O**perationen und **P**rozeduren**s**chlüssel 
+- amtliche Klassifikation zum Verschlüsseln von Operationen, Prozeduren und allgemein med. Maßnahmen
+
+## Struktur
+
+- **Mono-hierarchisch**
+
+| Kap.-Nr. | Code-Bereich | Klassentitel |
+| --------------- | --------------- | --------------- |
+| 1 | 1-00...1-99 | Diagnostische Maßnahmen |
+| 3 | 3-03...3-99 | Bildgebende Diagnostik |
+| 5 | 5-01...5-99 | Operationen |
+| 6 | 6-00...6-00 | Medikamente |
+| 8 | 8-01...8-99 | Nichtoperative therapeutische Maßnahmen |
+| 9 | 9-20...9-99 | Ergänzende Maßnahmen |
+
+## Unterschied zu Diagnoseschlüssel 
+
+- OPS beginnt mit Ziffer, ICD mit Buchstabe 
