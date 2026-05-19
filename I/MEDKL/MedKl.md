@@ -519,6 +519,10 @@ TL;DR: Unterscheidung einer Krankheit in verschiedenen Systematiken (Ursache vs 
 
 - Kapitel C (maligne) und Kapitel D (benigne) werden für Neubildungen verwendet 
 
+### Sonstiges 
+
+- ! hinter Code (z.B. S51.84!) => Sekundärcode, darf niemals alleine stehen; keine Diagnose, also auch nicht für Abrechnung relevant
+
 # ICD-O-3 
 
 - International Classification of Diseases for Oncology
