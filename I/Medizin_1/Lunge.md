@@ -199,4 +199,238 @@
   - Kanüle flsch weiterschieben, bis Luft entweicht 
   - -> schlagartige Druckentlastung
 
+# Pneumonie
+
+## Dyspnoe
+
+- Körper bekommt nicht so viel Sauerstoff, wie er gerne hätte
+
+### Atemreiz
+
+- Missverständnis aus Sauerstoffbedarf und -angebot 
+- Chemosensoren im Hirnstamm messen O2, CO2 und pH 
+- -> so wird der Atemreiz unbewusst gestueert 
+- Steigerung des Atemzeitvolumens (aka man atmet mehr) durch:
+  - 1. CO2-Anstieg: Haupttreiber, damit CO2 ausgeatmet wird; dieser Atemreiz kann durch ausatmen kurzfristig beseitigt werden 
+  - 2. pH-Abfall 
+  - 3. O2-Abfall
+
+### Gasaustausch in der Lunge 
+
+- passive Diffusion (von hoher zu niedriger Konzentration)
+- Blutgase müssen mehrere Schichten überwinden 
+- CO2 löst sich von Ery und O2 bindet
+
+### Ursachen 
+
+#### ...außerhalb der Lunge 
+
+- Mangelnder O2-Transport: z.B. Herzinsuffizienz
+- Mangel an O2 in der Atemluft: z.B. Höhenluft
+- Überschuss an CO2 in der Atemluft: z.B. Apollo 13
+
+#### ...innerhlb der Lunge 
+
+- Verengung der Atemwege: z.B. Bronchitis
+- Verringerung der nutzbaren Gasaustauschfläche: z.B. typische Pneumonie 
+- Erhöhung der alveolaren Diffusionstrecke: z.B. atypische Pneumonie 
+- Mangelnde Expansionsfähigkeit von Lunge oder Thorax: z.B. Pneumothorax
+
+## Klinische Untersuchungsbefunde 
+
+### Atemgeräusche 
+
+#### Bronchiales Atemgeräusch 
+
+- entsteht in den Bronchien (große Gänge)
+- **verschärftes Atemgeräusch**
+- normalerweise nur in den größeren Atemwegen hörbar
+- pathologisch, wenn im Bereich der Lungen hörbar
+
+#### Vesikuläres Atemgeräusch
+
+- bronchiales Atemgeräusch wird durch Luft in den Alveolen abgedämpft 
+- hohe Frequenzen sind nicht mehr hörbar, tiefe Frequenzen nur abgedämpft
+
+### Typische Pneumonie 
+
+- zu ermitteln: ob und wo ist die Lunge entzündet?
+- Inspektion/Palpation:
+  - Tachypnoe 
+  - Stimmfremitus verstärkt (verminderter dämpfender Effekt der luftgefüllten Alveolen)
+- Perkussion:
+  - Klopfschalldämpfung über verdichtetem Lungenareal 
+- Auskultation:
+  - verschärftes Atemgeräsuch (**Bronchialatmen**)
+  - positive Bronchophonie ("sechsundsechzig" wird verständlich -> hohe Frequenzen werden besser übertragen)
+  - feinblasige Rasselgeräusche in der Frühphase (wenn Alveolen noch teilweise belüftet sind)
+
+### Atypische Pneumonie
+
+- Manche Erreger verursachen keine eitrige Infektion der Alveolen sondren befallen eher das Bindegewebe der Lunge 
+  - Erhöhung der Diffusionsstrecke 
+  - -> O2-Mangel, da nicht genug O2 diffundieren kann 
+  - kaum Änderung der Atemgeräusche, Gasaustausch läuft halt nicht korrekt ab
+  - trockener Husten, daher kaum Auswurf, da keine eitrige Infektion vorliegt 
+- klinische Diagnostik daher schwierig 
+- mit Röntgen Thorax diagnostizierbar 
+ 
+### warum unterschiedlich?
+
+- bei typischer Pneumonie liegt eine eitrige Infektion vor, die den Luftfluß stören und den Innenraum der Alveolen verändern -> Luft wird durch Eiter gehindert
+- bei atypischer Pneumonie bleibt der Innenraum der Alveolen unbetroffen, es verändert sich lediglich das Interstitium -> Luftfluß bleibt unangetastet
+
+### Technische Diagnostik 
+
+- Labor
+  - Blutgasanalyse (pO2, pCO2, pH)
+  - Erregerdiagnostik, z.B. aus Atemwegssekret und Blutkulturen 
+  - Blutbild (Leukozytose?)
+  - Entzündungswerte
+  - Leber- und Nierenwerte 
+- Bildgebung
+  - Röntgen Thorax in zwei Ebenen (ABER: höhere Sensitivität der Auskultation im Frühstadium einer Pneumonie)
+
+#### Blutgasanalyse
+
+- arterielle Punktion 
+- Sauerstoffmangel (Hypoxie) ist auch bei normalen Blutgaswerten möglich -> Blutverlust, zu wenig Erys im Blut, Herzinsuffizienz etc. 
+
+#### Erregerdiagnostik 
+
+- **Sputum abhusten:**
+  - nicht invasiv, aber oft Kontamination mit Bakterien aus der Mundhöhle (vorher ausspülen!)
+  - nict einfach, Sputum statt Spucke zu gewinnen 
+    - evtl. vorher NaCl inhalieren (Sputum wird flüssiger, weil Salz zieht Wasser in den Schleim)
+    - im Labor Plattenepithelzellen (bei zu vielen kommt die Probe aus Mundhöhle und ist unrelevant, da Spucke) und Leukozyten (viele Leukozyten -> Infektion wahrscheinlicher) zählen
+- **Bronchoskopie** mit bronchoalveolärer Lavage:
+  - Einführen eines Schlauchs in Lunge, so weit wie es geht 
+  - Sterile Spülung und Absaugen mit Kochsalzlösung
+  - Invasiv, aber hohe Qualität
+  - Einsatz nur, wenn dringend nötig (z.B. Erregernachweis unverzichtbar, bei fehlendem Ansprechen auf Therapie oder immunsupprimierten Pat.)
+
+## Folgen der erschwerten Sauerstoffversorgung - Ateminsuffizienz
+
+### Respiratorische Partialinsuffizienz (hypoxische Insuffizienz)
+
+- O2-Aufnahme ungenügend -> O2-Spiegel sinkt 
+- CO2-Ausscheidung noch ausreichend -> CO2-Spiegel normal oder sinkend (Hyperventilation)
+
+### Respiratorische Globalinsuffizienz (Ventilationsinsuffizienz)
+
+- O2-Aufnahme ungenügend -> O2-Spiegel sinkt 
+- CO2-Ausscheidung sinkt -> CO2-Spiegel steigt 
+- Zeichen für Erschöpfung der Atemmuskulatur 
+- prognostisch ungünstig (-> respiratorische Azidose, erhöhtes CO2 sorgt für Übersäuerung des Blutes)
+- -> oft Intubation und mechanische Beatmung nötig, da Atemapparat des Pat. nicht mehr alleine funktioniert 
+
+### Kontraindikation O2-Gabe
+
+- bei schwerer Globalinsuffizienz kann O2-Gabe zu Atemstillstand führen, da Atemreiz durch CO2 ab hoher Konzentration wieder abnimmt
+- durch Sauerstoffgabe wird der Atemreiz durch O2 ebenfalls beseitigt 
+
+## Pleuraerguss 
+
+- Zunahme an Flüssigkeit in Pleuraspalt 
+- -> Verdrängung des Lungengewebes 
+- -> Verkleinerung der Gasaustauschfläche
+- -> Atemnot 
+
+### Diagnostik 
+
+- Abgeschwächtes Atemgeräusch
+- Reduzierter Stimmfremitus 
+- -> weil Lunge nicht direkt an Thoraxinnenwand anliegt 
+- abgedämpfter Klopfschall 
+
+#### Bildgebung 
+
+- Nachweis in Röntgen Thorax erst ab 300 ml 
+
+### Unterschied zu Pneumothorax 
+
+- Geräusch bei Pleuraerguss abgedämpft, dunkel 
+- Geräusch bei Pneumothorax hell, hypersonor (lauter und hohler als gewöhnlich)
+
+# Asthma/COPD 
+
+## Aufgaben der Atemwege 
+
+### Nase 
+
+- Luftleitung 
+- Anwärmung und Befeuchtung der Atemluft 
+- Reinigung von Staubteilchen, Bakterien u. a. Schadstoffen 
+- Abwehr von inhalierten Erregern (Rachenmandeln)
+- Prüfung auf chemische Beschaffenhit (Geruch!)
+
+### Kehlkopf
+
+- Kehldeckel: Abdecken der Luftwege als Schutz vor Fremdkörpern beim Schluckvorgang
+- Stimmlippen:
+  - a) Weitstellung der Luftwege beim Einatmen 
+  - b) Stimmerzeugung durch gezielte Einstellung/Spannung 
+  - c) Luftdichter Verschluss 
+    - Mitwirkung bei Bauchpresse 
+    - Reinigung der Luftwege durch Husten 
+    - Schutz vor Aspiration bei Erbrechen 
+
+### Untere Atemwege
+
+#### Bronchialbaum 
+
+- Verästelung der Atemwege 
+- ca 23 Teilungsschritte von der Trachea bis in die Endäste des Bronchialbaums 
+- keine Kollateralen/ Querverbindungen
+
+
+#### Trachea, große Bronchien 
+
+- Luftfortleitung 
+- Hufeisenförmige Knorpelspannung
+- Ziel: Offenhalten, Stabilisierung der Atemwege (da Unterdruck beim Einatmen, Bernouilli-Effekt)
+
+#### Kleine Bronchien, Bronchiolen 
+
+- Knorpelgerüst nimmt ab 
+- Elastische Fasern/ Muskeln nehmen zu 
+
+#### Lungenbläschen (Alveolen)
+
+- traubenförmige Aussackungen, je ca. 0,1 - 0,2 mm 
+- dünne Membran, kapillarumschlungen 
+- Elastische Fasern, Oberflächenspannung 
+
+## Ventilationsstörungen
+
+- Störungen der Belüftung der Lunge 
+
+### Restriktiv
+
+- **Definition:** verminderte Ausdehnungsfähigkeit der Lunge oder des Thorax 
+- Vitalkapazität reduziert 
+- Beispiele: Rippenfraktur, Pneumonie
+
+### Obstruktiv
+
+- **Definition:** Erhöhung des Atemwegswiderstands 
+- Sekundenkapazität reduziert 
+- Beispiele: Asthma, Chronische Bronchitis 
+
+### Wo geschieht die Erhöhung des Atemwegswiderstands?
+
+#### 1. Engstelle: Kehlkopf 
+
+- Entzündungen 
+- Stimmbandlähmung 
+- Fremdkörper 
+
+#### 2. Engstelle: Bronchiolen 
+
+- kaum noch Knorpelgerüst -> mehr elastisches Bindegewebe 
+- glatte Muskulatur (Beta-Rezeptoren -> Entspannung)
+- größter (regulierbarer) Anteil am Atemwegswiderstand
+- erhöhter Atemwegswiderstand durch Breta-Blocker
+- Beta-Mimetika entspannen und weiten die Atemwege -> Bessere Belüftung 
+
 
