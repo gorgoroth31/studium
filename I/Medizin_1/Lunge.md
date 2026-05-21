@@ -408,8 +408,8 @@
 ### Restriktiv
 
 - **Definition:** verminderte Ausdehnungsfähigkeit der Lunge oder des Thorax 
-- Vitalkapazität reduziert 
-- Beispiele: Rippenfraktur, Pneumonie
+- Vitalkapazität reduziert, verminderte Belastbarkeit 
+- Beispiele: Rippenfraktur, Pneumonie 
 
 ### Obstruktiv
 
@@ -417,20 +417,149 @@
 - Sekundenkapazität reduziert 
 - Beispiele: Asthma, Chronische Bronchitis 
 
-### Wo geschieht die Erhöhung des Atemwegswiderstands?
+### Wo geschieht die Erhöhung des Atemwegswiderstands durch eine obstruktive VS?
+
+#### Stridor 
+
+- krankhafte Atemgeräusche aufgrund einer Verengung der Atemwege 
 
 #### 1. Engstelle: Kehlkopf 
 
 - Entzündungen 
 - Stimmbandlähmung 
 - Fremdkörper 
+- **Inspiratorischer Stridor:**
+  - z.B. Entzündung im Bereich des Kehlkopfes 
+  - Schnarchen
+  - Fremdkörperaspiration: Eintreten von Fremdkörpern in die Atemwege 
 
 #### 2. Engstelle: Bronchiolen 
 
 - kaum noch Knorpelgerüst -> mehr elastisches Bindegewebe 
-- glatte Muskulatur (Beta-Rezeptoren -> Entspannung)
+- glatte Muskulatur (β-Rezeptoren -> Entspannung)
 - größter (regulierbarer) Anteil am Atemwegswiderstand
-- erhöhter Atemwegswiderstand durch Breta-Blocker
-- Beta-Mimetika entspannen und weiten die Atemwege -> Bessere Belüftung 
+- erhöhter Atemwegswiderstand durch β-Blocker
+- β-Mimetika entspannen und weiten die Atemwege -> Bessere Belüftung 
+- **Exspiratorischer Stridor:**
+  - Quietschen bei Auskultation
+  - z.B. Asthma bronchiale 
+  - viele kleine Engstellen 
 
+## Asthma bronchiale
 
+- **Chronische** Entzündung der Atemwege 
+- Probleme meist eher bei Ausatmen, da passiver Prozess und keine muskuläre Unterstützung
+- **Anfallsweise** Atemnot durch **(teil-)reversible** Atemwegsobstruktion
+- Überempfindlichkeit der Bronchialschleimhaut gegen Reize 
+  - vermehrte Schleimproduktion
+  - Schleimhautschwellung
+  - Krampf (Spasmus) der glatten Muskulatur 
+
+### Typische Auslöser 
+
+- Allergien: meist Inhalation (z.B. Pollen), aber auch Begleitreaktion bei systemisch allergischer Reaktion (z.B. Nahrungsmittel, Medikamente)
+- Infektionskrankheiten
+- Physikalische, chemische Reize (Rauch, Kälte, Ozon...)
+- Körperliche Anstrengung 
+
+### Klinik 
+
+- Begleitumstände 
+  - **Extrinsisches** allergisches Asthma: Auftreten nach Allergenexposition
+  - **Intrinsisches** nichtallergisches Asthma: Auftreten v.a. nachts/früh morgens (geringere Sympathikusaktivität)
+- Husten 
+- Atemnot bein Ein- und besonders beim **Ausatmen**: verlängerte Ausatmungsphase 
+- Pfeifendes Geräusch beim Atmen 
+- Retrosternales Beklemmungsgefühl, Angst 
+- Schweißneigung, Tachykardie
+
+### Klinischer Untersuchungsbefund
+
+#### Einsatz der Atemhilfsmuskulatur
+
+- Aufrechter Sitz 
+- Abstützen mit den Armen 
+- -> Schultern sind fest und Muskeln, die an Schultern anliegen, unterstützen die Atmung
+- Blutgasanalyse: pO2, pCO2 erniedriegt
+
+#### Zunehmende Blähung des Thorax 
+
+- da inspiratorische Muskulatur stärker, da Ausatmung nur passiv 
+- Perkussion: Zwerchfelltiefstand (wird von Lunge nach unten gedrückt), Hypersonorer Klopfschall 
+- Auskultation: Brummen 
+- Bei fortdauerndem Anfall: Erschöpfen der Atemmuskulatur 
+  - Lunge maximal aufgebläht 
+  - Brummen wird leiser 
+  - kaum noch Atemgeräusche ("silent chest")
+  - lebensbedrohliche Situation!
+  - Beatmung bringt nichts, da Lunge bereits mit Luft gefüllt
+- Blutgasanalayse: pO2 erniedrigt, pCO2 erhöht
+
+## COPD ("Chronic obstructive pulmonary disease")
+
+- Verengte Atemwege durch über die Zeit angelagerte Schadstoffe
+- Probleme beim Ausatmen, da Luft nicht schnell genug ist um rechtzeitig vorbeizukommen
+- chronische Entzündung der Atemwege durch Schadstoffe 
+- Symptome u. a. täglicher Husten 
+
+### Unterschied zu Asthma 
+
+- nicht reversibel 
+- kein Ansprechen auf Therapie (z.B. β-Stimulatoren)
+- Dauerhaft, Asthma ist nur anfallsweise
+
+### Ätiologie
+
+- chronische Entzündung der kleinen Atemwege durch inhalative Noxen 
+- Rauchen (90% der Fälle)
+- Luftverschmutzung (insbes. Feinstaub, v.a. bei beruflicher Exposition, z.B. bei Landwirtschaft, Bauschdell, Minenarbeiten)
+- wiederkehrende bronchopulmonale Infekte 
+  - beschleunigen die Entstehung der COPD 
+  - führen zu akuter Exazerbation (Verschärfung) der Symptome 
+- Genetische Komponenten
+
+### Fortschreiten der Erkrankung 
+
+- Einfache chronische Bronchitis ("Raucherhusten")
+- Chronisch-obstruktive Bronchitis: Husten & Atemnot v.a. bei Belastung 
+- (Obstruktives) Lungenemphysem 
+  - zusätzlich irreversibel vergrößertes Residualvolumen durch Dilatation der peripheren Luftwege 
+  - -> dauerhafte Überblähung der Lunge; Bläschen platzen, Vergrößerung des Totraums
+  - Zunehmende Zerstörung des Lungengewebes 
+
+## Lungenfunktion
+
+### Messung
+
+- in Ruhe 
+- maximale Aus- und Einatmung
+- Messung der Flussgeschwindigkeiten
+
+#### Spirometrie ("kleine LuFu")
+
+- einfach, schnell 
+- stark von korrekter Mitarbeit des Pat. abhängig 
+
+#### Bodyplethysmographie ("große LuFu")
+
+- Untersuchung in luftdichter Kammer 
+- ermöglicht Messung des Atemwegswiderstands 
+- exakter als kleine LuFu 
+
+### physiologisch
+
+- bei Exspiration steil ansteigend mit linearem Abfall 
+- bei Inspiration Bauch 
+ 
+### pathologisch bei Asthma bronchiale 
+
+- bei Exspiration reduzierte maximale Atemstromstärke (Peak Expiratory Flow, PEF) mit durchhängendem Abfall 
+- bei Inspiration leicht vermindert als der Normalbefund 
+
+### Bronchospasmolysetest 
+
+- Lungenfunktion vor und nach Gabe eines inhalativen β-Sympathikomimetikums (stimuliert β-Rezeptoren des symp. Nervensystems)
+- -> Entspannung der Bronchialmuskulatur 
+- -> Verbesserung oder Normalisierung der Messwerte 
+- nur bei Asthma bronchiale wirksam, da dort die β-Rezeptoren den Krampf der Muskulatur beseitigen können 
+- bei COPD nicht wirksam, da β-Rezeptoren nichts ausrichten können, da die Atemwege durch Schadstoffe belegt sind und die Muskulatur bereits entspannt ist 
