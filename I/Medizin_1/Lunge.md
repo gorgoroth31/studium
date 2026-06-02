@@ -562,4 +562,64 @@
 - -> Entspannung der Bronchialmuskulatur 
 - -> Verbesserung oder Normalisierung der Messwerte 
 - nur bei Asthma bronchiale wirksam, da dort die β-Rezeptoren den Krampf der Muskulatur beseitigen können 
-- bei COPD nicht wirksam, da β-Rezeptoren nichts ausrichten können, da die Atemwege durch Schadstoffe belegt sind und die Muskulatur bereits entspannt ist 
+- bei COPD nicht wirksam, da β-Rezeptoren nichts ausrichten können, da die Atemwege durch Schadstoffe belegt sind und die Muskulatur bereits entspannt ist
+
+# Bronchial-Karzinom 
+
+## Ursachen 
+
+- Ansteigen der Lungenkrebsfälle: 
+  - Umweltverschmutzung durch Industrialisierung
+  - Rauchen/Tabakprodukte (insbesondere um den 2. WK rum)
+- Absinken der Lungenkrebsfälle:
+  - Erforschung von Rauchen als Ursache 
+
+### private Pollution 
+
+- Eigenverschulden durch Tabakrauch 
+- rel. Risiko: ca. 20%
+- nur ca. 155 aller Erkrankten haben nie geraucht 
+- rel. Risiko durch Passivrauch: 1,5%
+
+### common Pollution 
+
+- ca 5% aller Fälle 
+- Radon (radioaktives Edelgas)
+- Asbest, Arsen 
+- Feinstaub 
+
+### genetische Faktoren 
+
+- rel. Risiko ca. 2% bei Erkrankung eines Elternteils
+
+## Klinik 
+
+- Keine Frühsymptome
+  - Lungengewebe ist nicht schmerzempfindlich (nur parietale Pleura)
+  - Beschwerden meist erst im inoperablen Zustand (Einwachsen in andere Organe)
+- Husten evtl. mit blutigem Auswurf 
+  - meist über 4 Wochen anhaltend 
+  - ggf. Änderung des Hustencharakters 
+- Dyspnoe, atemabhängige Schmerzen 
+
+### Warum oft Diagnostik so spät?
+
+- Symptome zeigen sich erst im fortgeschrittenen Zustand 
+- typische Symptome kennt man als Raucher eh schon (z.B. Raucherhusten), sehen daher keinen Grund zur Sorge 
+
+## Diagnostik 
+
+### Röntgen & CT 
+
+- Lokalisierung: oft als Zufallsbefund "Rundherd" bei Rö TX aus anderem Anlass
+
+### Bronchioskopie 
+
+- Kontraindikationen: Erkrankungen, bei der der Körper auf Sauerstoff angewiesen ist, bzw. eh schon wenig Sauerstoff bekommt; Verlegung der Atemwege nicht sinnvoll
+
+## Warum v.a. Plattenepithelkarzinome bei Rauchern?
+
+- Plattenepithel beschreibt die oberste Zellschicht, welche die Haut und Schleimhäute des Menschein abschließt
+- in Atemwege ist hauptsächlich Flimmerepithel vorhanden
+- dauernde Belastung schädigt Flimmerepithel -> Umwandlung in Plattenepithel, Reinigungsprozesse gehen verloren 
+- benötigt jahrzehntelange Entwicklung
