@@ -106,4 +106,112 @@
 - **Signalrezeptoren**
 - **Funktionsbausteine**, z.B. Geißeln
 
+# Mitose (IPMAT)
 
+- Zellkern teilt sich und DNA wird aufgeteilt
+- findet ausschließlich bei eukaryotischen Zellen statt 
+- man kann einer zelle ansehen, ob sie sich teilt und in welcher Phase sie ist; wichtig für Tumor- und Krebsdiagnostik
+
+## Interphase 
+
+- Abschnitt zw. zwei Mitosenzyklen
+
+## Prophase 
+
+- Zellorganellen bilden sich zurück und verfallen
+- Spindelapparat entsteht 
+
+## Metaphase
+
+- Chromosomen ordnen sich in der Metaphasenplatte an 
+- Metaphasenplatte geht mitten in den Chromosomen durch 
+
+## Anaphase 
+
+- Chromosomen werden in einzelne Chromatiden geteilt
+- Tochterchromosomen werden zu den Zellpolen gezogen 
+
+## Telophase
+
+- die beiden "halben" Zellen entfernen sich voneinander und eine Teilungsfurche entsteht in der Mitte 
+- an der Teilungsfurche werden die zwei Tochterzellen voneinander getrennt 
+
+# Grundgewebearten
+
+## Epithelgewebe
+
+- mechanischer Schutz innerer und äußerer Oberflächen
+- Produktion von Sekretion von Substanzen
+
+|  | einschichtig | mehrschichtig |
+| --------------- | --------------- | --------------- |
+| Funktion | Resorption, Sekretion, passive Diffusion | mechanische/chemische Beanspruchung |
+| Beispiele | Pleura, Gefäßendothel, Magenschleimhaut, Bronchialschleimhaut | Haut, Mundschleimhaut, Speiseröhre, Vagina, Analkanal, Harnblase |
+
+|  | Platten | Würfel (kubisch) | Prismen/Zylinder |
+| --------------- | --------------- | --------------- | --------------- |
+| Funktion | passive Diffusion, Stoffaustausch | Transportfunktion, Stoffwechselaufgaben | Sekretion, Stoffwechselaufgaben |
+| Beispiele | Gefäßendothel, Lungenbläschen, Pleura | Speicheldrüsen, Gallenwege | Bronchialschleimhaut, Magenschleimhaut, Darmschleimhaut |
+
+## Bindegewebe
+
+- Stabilisierung des Organismus
+- Grundgerüst der Organe 
+- Stuktureller Zusammenhalt
+- (Blut und weitere spez. Gewebe)
+
+### Aufgabe von Bindegewebe
+
+- Versorgung der Organe mit Blutgefäßen, Nerven, Lymphgefäßen
+- Abwehrzellen
+- Nahrungsspeicher (Fettgewebe)
+- Stabilisierung des Körpers (Knochen, Knorpel, Sehnen)
+  - hohe Zugfestigkeit durch kollagene Fasern 
+  - unterschiedliche Elastizität 
+
+### Fettgewebe 
+
+- zellreiches Bindegewebe 
+- Aufgaben:
+  - Kaloriendepot: Fett hat höchste Energiedichte pro Gramm 
+  - Kälteschutz 
+  - Polsterung, Einbettung von Organen 
+  - wird bei Hungerzuständen erst spät mobilisiert
+- Sonderform: braunes Fettgewebe beim Neugeborenen zur Temperaturregulation
+
+## Muskelgewebe
+
+- aktive Bewegung
+- können sich aktiv verkürzen, aber NICHT entspannen! -> Gegenspieler nötig
+
+### glatte Muskulatur 
+
+- nicht willentlich gesteuert
+- eher langsame, tonische Kontraktion 
+- z.B. Gefäße, Darm, Gebärmutter
+
+### Quergestreifte Muskulatur 
+
+- Skelettmuskel:
+  - willentlich steuerbar
+  - benötigt Nervenreiz
+  - bildet zylindrische, mehrkernige Muskelfasern 
+- Herzmuskel:
+  - spontane Schrittmacherfunktion
+  - nicht willentlich steuerbar 
+  - bildet Muskelfasernetze
+
+## Nervengewebe
+
+- Signalübermittlung und -speicherung
+- Vernetzte Zellen (Neurone):
+  - elektrische und chemische Signalübermittlung
+- Verbindung durch Gliazellen
+  - elektrische Isolierung
+  - Kontakt/Schranke zu Blutgefäßen
+  - Abwehrfunktion
+
+# Aufbau von Organen
+
+- Bindegewebe als Grundgerüst 
+- Funktionsgewebe als das, was die Arbeit macht 
