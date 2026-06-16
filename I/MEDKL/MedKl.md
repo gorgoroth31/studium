@@ -604,9 +604,10 @@ TL;DR: Unterscheidung einer Krankheit in verschiedenen Systematiken (Ursache vs 
 - sofern sie min. zu einem der folgenden Punkte geführt hat:
   - therapeutische Maßnahmen
   - diagnostische Maßnahmen
-  - erhöhter Betreuungs-, Pflege, und/oder Überwachungsaufwand
+  - erhöhter Betreuungs-, Pflege, und/oder 
+  - Überwachungsaufwand
 
-- gibt es beliebig oft (inkl. 0-mal) in einem Fall 
+- kann es beliebig oft (inkl. 0-mal) in einem Fall geben 
 
 ## CCl 
 
@@ -622,13 +623,73 @@ TL;DR: Unterscheidung einer Krankheit in verschiedenen Systematiken (Ursache vs 
 - Patientenspezifisches Komorbiditäts- und Komplikationslevel
 - wird beeinflusst durch:
   - Nebendiagnosen
+- kann die Werte 0-4 annehmen, ausgehend von den kumulativen CCL-Werten der Nebendiagnosen
 
-- nebendiagnosen können zur erhöhung des pccl führen 
- 
- - der pccl wird aus den ccl-werten der nebendiagnosen berechnet und kann die werte 0-4 annehmen. der ccl-wert einer nebendiagnose ist abhängig vom drg 
+## Einflussgrößen Web-Grouper
 
- - ich kenne die einflussgrößen auf den drg-grouper (ND, Beatmungszeit, Alter, (Geburts)gewicht)
+- Nebendiagnosen
+- Beatmungszeit 
+- Alter 
+- (Geburts)gewicht 
 
- - ich verstehe die fehlbelegungen und die grenzverweildauern und kann diese erklären 
+## Fehlbelegungen
 
- - ich kann zu einem vorgegebnen drg einen entsprechenden abrechungfall konstruieren (-> Übung)
+- Pat. werden teilweise noch einen Tag da behalten, um in den höheren Satz zu kommen 
+- diese benötigen nur wenig Aufwand, da sie an sich gesund sind
+
+## Grenzverweildauern 
+
+- Krankenhaus erhält für einen Fall in der Zeit zwischen der oberen und unteren GVD die gleiche Fallpauschale, muss also versuchen, den Pat. so schnell wie möglich gesund zu bekommen, wenn der Pat. in der mittleren Verweildauer ist 
+- **Obere Grenzverweildauer:** legt fest, ab welcher Aufenthaltsdauer im Krankenhaus ein tagesbezogener Zuschlag vergütet wird 
+- **Untere Grenzerweildauer:** Ist die Verweildauer des Pat. nicht länger als die untere Grenzverweildauer, wird von der Fallpauschale ein Abschlag berechnet 
+- Pat. werden nicht nach nur einem Tag entlassen, sondern zur Sicherheit noch einen Tag da behalten, wenn die untere GVD noch nicht erreicht ist => Vermeidung von "blutigen Entlassungen"
+
+# Pharmakovigilanz
+
+- Arzneimittelsicherheit
+- therapeutischer Effekt (**Nutzen**) soll nicht von den Nebenwirkungen (**Risiken**) überwogen werden 
+- Entdeckung, Bewertung, Verständnis und Prävention von unerwünschten Ereignissen 
+- Beispiel "Contergan": Wirkstoff wurde vor Zulassung nicht genügend untersucht und verursachte starke Nebenwirkungen bei Neugeburten, wenn die schwangere Mutter das Medikament einnahm 
+- -> Enwicklung der sog. Spontanmeldesysteme für eine bessere Überwachung der Sicherheit bereits zugelassener Medikamente 
+
+## Adverse Event (AE)
+
+- jede unerwünschte Nebenwirkung, die einer Person widerfährt, der ein med. Produkt verabreicht wurde, die nicht kausal mit der Behandlung in Verbindung steht 
+- jedes negative Ereignis, das während einer Behandlung auftritt, ungeachtet der Kausalität
+
+## Adverse Drug Reaction (ADR)
+
+- Subset von AEs; Unterscheidung liegt in der Kausalität 
+- jedes negative Ereignis, das während einer Behandlung auftritt und eine Verbindung zw. Medikament und negativer Auswirkung besteht, ungeachtet der Dosierung
+- können vorhergesagt werden und sogar charakteristisch für das Medikament sein
+- mehr Info: [https://medxdrg.com/difference-ae-adr](https://medxdrg.com/what-is-the-difference-between-an-adverse-event-and-an-adverse-drug-reaction)
+
+## MedDRA 
+
+- med. Wörterbuch für standardisierte, vorwiegend medizinischer Begriffe für verschiedenste Prozesse im Rahmen der Arzneimittelzulassung
+- Verwendung von Regulierungsbehörden und biopharmazeutischen Industrie 
+- Kodierung von Symptomen, Diagnosen, Therapien und therapeutischen Indikationen 
+- ist für die einheitliche Erfassung, Klassifizierung und Verarbeitung von Nebenwirkungen von Bedeutung
+
+### Code-Aufbau 
+
+- einmalig 
+- achtstellig
+- nummerisch 
+- nicht-expressiv (man sieht ihm nicht an, was er bedeutet)
+
+## WHODrug 
+
+- standardisiertes und validiertes Wörterbuch für globale Arzneimittelinformationen
+- Verwendung zur Identifizierung von Medikamenten in Berichten von ADRs und klinischen Studien 
+- Ziel, die Entwicklung und den Einsatz wirksamer und sicherer Medikamente zu unterstützen 
+- Pflege durch das Uppsala Monitoring Centre (UMC)
+- Aktualisierung 2-mal im Jahr 
+
+### Inhalt
+
+- Arzneimittel und Wirkstoffe für den menschlichen Gebrauch, z.B.:
+  - Aktive, chem. Substanzen 
+  - Impfstoffe 
+  - Nahrungsergänzungsmittel 
+  - Radiopharmazeutika 
