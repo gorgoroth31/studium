@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Patient xmlns="http://hl7.org/fhir">
+  <name>
+    <use value="official" />
+    <text value="Tina Petra Musterfrau" />
+    <family value="Musterfrau" />
+    <given value="Tina" />
+    <given value="Petra" />
+    <prefix value="Frau" />
+  </name>
+  <name>
+    <use value="maiden" />
+    <family value="Mustermann" />
+  </name>
+  <name>
+    <use value="nickname" />
+    <given value="Musti" />
+  </name>
+    <telecom>
+    <system value="phone"/>
+    <value value="0731-96537-123" />
+    <use value="work" />
+  </telecom>
+  <telecom>
+    <system value="email"/>
+    <value value="tipe.musterfrau@hotmail.com" />
+    <use value="home" />
+  </telecom>
+  <gender value="female" />
+  <birthDate value="2000-10-09" />
+  <address>
+    <use value="home"/>
+    <text value="Einsteinstraße 58 89275 Elchingen" />
+    <line value="Einsteinstraße 58" />
+    <city value="Elchingen" />
+    <postalCode value="89275" />
+  </address>
+  <address>
+    <use value="work" />
+    <text value="Albert-Einstein-Allee 55 89081 Ulm" />
+    <line value="Albert-Einstein-Allee 55" />
+    <city value="Ulm" />
+    <postalCode value="89081" />
+  </address>
+  <maritalStatus>
+    <coding>
+      <system value="http://terminology.hl7.org/CodeSystem/v3-MaritalStatus" />
+      <code value="M" />
+    </coding>
+    <text value="Married" />
+  </maritalStatus>
+</Patient>
