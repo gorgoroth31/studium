@@ -1,5 +1,9 @@
 # studium
 
+> Durch unser Wissen unterscheiden wir uns nur wenig, in unserer grenzenlosen Unwissenheit aber sind wir alle gleich.
+>
+> ~ Karl Popper
+
 Alle Erfahrungen, die ich im Verlauf des Studiums "Medizinische Informatik" an der Technischen Hochschule Ulm mache, werde ich hier teilen. Dazu zählen z. B. fachliche Inhalte oder andersweitige Erfahrungen, um das Studium interessanter zu machen.
 
 ## general
