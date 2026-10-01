@@ -385,6 +385,8 @@ Generell können Hierarchien immer in einer Baumstruktur angegeben werden
 - Min. ein Kindelement hat mehr als einen Elter 
 - Beispiel: Einordnungen von Krankheiten (bakterielle Pneumonie ist Lungenkrankheit und gleichzeitig Infektionskrankheit)
 
+<span id="facettenklassifikation"></span>
+
 ## Facettenklassifikation
 
 mir ist das konzept einer Facettenklassifikation klar und ich kann einfache beispiele konstruieren 
@@ -692,4 +694,75 @@ TL;DR: Unterscheidung einer Krankheit in verschiedenen Systematiken (Ursache vs 
   - Aktive, chem. Substanzen 
   - Impfstoffe 
   - Nahrungsergänzungsmittel 
-  - Radiopharmazeutika 
+  - Radiopharmazeutika
+
+# SNOMED 
+
+- Systematized Nomenclature of Human and Veterinary Medicine 
+- wichtigste **allgemeine** Nomenklatur in der Medizin
+- Ihr Ziel ist es, medizinische Aussagen so zu kennzeichnen bzw. zu indexieren, dass ihre inhaltlichen Elemente möglichst vollständig erfasst sind. Damit können auch sehr **spezielle Suchanfragen** bearbeitet und mit **hohem Recall** und **hoher Präzision** beantwortet werden 
+- SNOMED 3: 11 Achsen (z.B. Lokalisation, Histologie, Ätiologie, Beruf, Soziales Umfeld)
+- SNOMED CT: 19 Achsen -> äußerst mächtig!
+- Codierung der Anamnese
+- Achsen sind voneinander unabhängig -> <a href="#facettenklassifikation">Facettenklassifikation</a>
+
+- ich habe einen eindruck für die mächtigkeit von SNOMED CT bekommen 
+- -> 11 Achsen vs. 19 Achsen; Codierung der Anamnese 
+
+## Schwächen
+
+- keine semantische Relationen in SNOMED-Ausdrücken: Wie stehen die Ausdrücke zueinander? -> **Mehrdeutigkeit!**
+- Begriffe können beliebig zusammengesetzt werden, die keinen Sinn ergeben: **Fehlende kompositionelle Beschränkungen**
+- Beispiel: T56000 (Speiseröhre) M12000 (Fraktur) = Speiseröhrenfraktur (Gibt es nicht!)
+
+## Fazit 
+
+- sehr komplex 
+- im Klinikalltag sind 11 Achsen schwer zu handeln (19 bei SNOMED CT)
+- Mehrdeutigkeit der Kodierung ist problematisch 
+- in Deutschland ist Dokumentation häufig abrechnungsgetrieben, daher kaum Verwendung, da für Abrechnung zu komplex 
+- SNOMED ist eine **Terminologie**
+- ICD-10 ist eine **Klassifikation**
+
+- ich weiß, dass SNOMED CT für die Abrechnung zu komplex ist, für das Retrieval aber eine sehr gute Basis darstellt 
+
+# Medizinische Scores 
+
+- Quantifizierung des Verhaltens: "Wie sich etwas verhält, wird als Zahl dargestellt" -> Abstraktion 
+- Beispiel: **Apgar-Test** bei Neugeborenen
+  - Berücksichtigung von Herzfrequenz, Atmung, Muskelspannung, Reflexen und Hautdurchblutung 
+  - damit kann die Lebensfrische eines Neugeborenen festgestellt werden 
+- Beispiel: **Glasgow Coma Score**
+  - Bewertungsschema für Bewusstseins- und Hirnfunktionsstörungen nach Schädel-Hirn-Trauma 
+  - Verwendung in der Notfallmedizin 
+
+- ich kann die Grundidee eines medizinischen scores erklären und kenne ein beispiel 
+
+# Neutral-Null Methode 
+
+- Feststellung und Dokumentation der Beweglichkeit von Gelenken (Funktionsprüfung ohne Schmerzerfassung)
+- Ausgangslage: Neutral-Null Stellung
+- -> Gelenkposition, die ein gesunder Mensch beim aufrechten Stand mit hängenden Armen, mit parallel gestellten Füßen einnimmt 
+- Erfassung der erreichten Gradwerte der Bewegung und Gegenbewegung (nach vorne und hinten)
+- -> 10/0/30 (10 Grad nach hinten, 30 Grad nach vorne)
+- -> 0/5/30 (Neutral-Null Stellung wurde nicht erreicht, nur von 5 bis 30 Grad nach vorne)
+
+# AO-Klassifikation
+
+- Arbeitsgemeinschaft für Osteosynthesefragen
+- System zur Beschreibung der **Lokalisation und Beschaffenheit von Knochenbrüchen** 
+- Körperregion, Knochensegment, Bewertung der Fraktur nach Kompliziertheit
+
+- ich weiß, dass es die neutral-null methode und die AO-Klassifikation gibt und kenne deren einsatzgebiet
+
+# XML
+
+- ich weiß, dass XML zur hierarchischen, strukturierten ablage von daten verwendet wird un hierbeit die daten vom layout getrennt werden 
+
+- ich kann die bestandteie von XML Dateien erklären 
+
+- zu einem gegebenen Sachverhalt kann ich eine well-formed XML-Struktur entwerfen und hierbei auch Attribute verwenden. Sich wiederholende Sachverhalte kann ich sinnvoll abbilden 
+
+- ich kenne den Ansatz der Formatierung mit Stylesheets und der Validierung mit Schemadateien. Ich weiß, dass Textkonstanten für die Ausgabe nicht in den Primärdaten enthalten sein müssen 
+
+- ich kann 2-3 Einsatzgebiete von XML aufzählen 

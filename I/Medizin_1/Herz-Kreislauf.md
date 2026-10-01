@@ -53,11 +53,6 @@ E.g Der Bauchnabel ist medial gelegen, der Ellbogen auf ähnlicher Höhe aber la
 
 ## Vitalzeichen
 
-Können durch Kontrollmonitore überwacht und aufgezeichnet werden und bestehen aus:
-- Artieller Blutdruck
-- Pulsfrequenz
-- Atemfrequenz
-- Körpertemperatur
 
 ## Diagnostisches Vorgehen
 
@@ -77,14 +72,21 @@ Unterscheidung von sinvollen und nicht sinnvollen Maßnahmen für die Diagnostik
 
 ### Körperliche Untersuchung
 
-Um Krankheiten zu erkennen, schildert der Patient seine selbst wahrgenommenen **Symptome** in der **Anamnese**. Der Arzt untersucht den Patienten körperlich und notiert die festgestellten  Merkmale im **Befund** und kann aus diesem Befund eine (Verdachts-)**Diagnose** erstellen.
-Diese körperliche Untersuchung kann in Form von 4 verschiedenen Maßnahmen stattfinden:
-
 - **Inspektion**: Anschauen
 - **Palpation**: Abtasten
 - **Perkussion**: Abklopfen
 - **Auskultation**: Horchen (mit Stethoskop)
 - **Vitalzeichen** messen
+
+### Vitalzeichen 
+
+Können durch Kontrollmonitore überwacht und aufgezeichnet werden und bestehen aus:
+- Artieller Blutdruck
+- Pulsfrequenz
+- Atemfrequenz
+- Körpertemperatur
+- Sauerstoffsättigung
+- Bewusstsein
 
 ### Technische Untersuchungen
 
@@ -211,7 +213,7 @@ Einsatzmöglichkeiten:
 
 
 #### Echokardiographie (Ultraschall)
-- Aussendung von Ultraschallwellen (im niedrigen MHz-Bereich):
+- Aussendung von Ultraschallwellen:
   - niedrige Frequenz: Hohe Eindringtiefe, aber niedrige Auflösung
   - hohe Frequenz: Niedrige Eindringtiefe, aber hohe Auflösung
 - Sobald USW auf Gewebe treffen, wird wird ein Teil reflektiert; aus diesem Echo kann ein Bild in Graustufen erstellt werden
@@ -241,6 +243,7 @@ Einsatzmöglichkeiten:
 ## Aortenstenose
 
 Aortenklappe ist verklebt und geht nicht richtig auf
+Aortenklappenfläche ist kleiner als typisch 
 
 ### Diagnostik
 

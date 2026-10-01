@@ -3,6 +3,8 @@
 
 ```java
 
+--- LaufVerwaltung ---
+
 public class Laeufer {
   public String name;
   public int startNummer;
@@ -29,8 +31,7 @@ public class LaufVerwaltung {
     gibLaeuferAus();
   }
 
-  public LaufVerwaltung() {
-  }
+  public LaufVerwaltung() { }
 
   public void laeuferHinzu(Laeufer l) {
     Laeufer[] tmp = laeufer;
@@ -71,6 +72,9 @@ public class LaufVerwaltung {
     return number;
   }
 }
+
+--- Eieruhr ---
+
 public class Eieruhr {
   // 3
   private int laufzeit;
@@ -80,8 +84,7 @@ public class Eieruhr {
     eu.start();
   }
 
-  public Eieruhr() {
-  }
+  public Eieruhr() { }
 
   public Eieruhr(int laufzeit) {
     this.laufzeit = laufzeit;
@@ -101,6 +104,9 @@ public class Eieruhr {
     }
   }
 }
+
+--- Borderlayout ---
+
 import java.awt.AWTEvent;
 import java.awt.BorderLayout;
 import java.awt.Frame;
@@ -162,6 +168,9 @@ class Main {
     new SimpleApplication();
   }
 }
+
+--- Gridlaout ---
+
 import java.awt.Button;
 import java.awt.GridLayout;
 import java.awt.Panel;
@@ -408,6 +417,9 @@ public class SwingApplication {
 
   }
 }
+
+--- Graphics ---
+
 public class GraphicApplication {
   public GraphicApplication() {
     GraphicFrame frame = new GraphicFrame();
@@ -445,15 +457,10 @@ public class GraphicFrame extends JFrame {
     DrawPanel newDp = new DrawPanel();
     this.addMouseListener(new MouseListener() {
       public void mouseExited(MouseEvent e) {
-
       }
-
       public void mouseEntered(MouseEvent e) {
-
       }
-
       public void mouseReleased(MouseEvent e) {
-
       }
 
       public void mouseClicked(MouseEvent e) {
@@ -461,9 +468,7 @@ public class GraphicFrame extends JFrame {
         newDp.colorLeftEllipsis = isLeftClick ? Color.RED : Color.CYAN;
         newDp.repaint();
       }
-
       public void mousePressed(MouseEvent e) {
-
       }
     });
     add(newDp);
@@ -574,6 +579,9 @@ public class Main {
     new App();
   }
 }
+
+--- Checkboxes ---
+
 import java.awt.Label;
 import java.awt.Panel;
 import java.awt.TextField;
@@ -637,6 +645,9 @@ public class West extends Panel {
     this.add(b6);
   }
 }
+
+--- Filewriter ---
+
 import java.io.FileOutputStream;
 import java.io.PrintWriter;
 
@@ -682,6 +693,9 @@ public class Laeufer {
     fileWriter.println(gewicht);
   }
 }
+
+--- Framemover ---
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.util.Random;
@@ -698,12 +712,10 @@ public class FrameMover {
 
     frame.validate();
     frame.setVisible(true);
-
   }
 }
 
 public class Frame extends JFrame {
-
   public Frame() {
     this.setDefaultCloseOperation(EXIT_ON_CLOSE);
     init();
@@ -758,6 +770,9 @@ public class MoverThread extends Thread {
     }
   }
 }
+
+--- Rekursion ---
+
 public class Rekursion {
   public void main() {
     Rekursion r = new Rekursion();
