@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dc77a33bafc0b174",
+        "id": "3ca6477a0ca41d36",
         "type": "tabs",
         "children": [
           {
-            "id": "651fbd9b44c07252",
+            "id": "dd86139e2dcc8645",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Dateiexplorer"
@@ -78,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2d10b7e6eb56d7fd",
@@ -108,61 +111,18 @@
             }
           },
           {
-            "id": "1973e752adcb404e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "II/Grundlagen der Medizintechnik/Generell.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Ausgehende Links von Generell öffnen"
-            }
-          },
-          {
-            "id": "55a4f54f9b6eed4c",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "8f15700ba7f501e4",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "Alle Eigenschaften"
-            }
-          },
-          {
             "id": "74c8660d06779835",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "II/Grundlagen der Medizintechnik/Generell.md",
+                "file": "II/Medizin_2/Gastroenterologie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung von Generell"
+              "title": "Gliederung"
             }
           },
           {
@@ -176,7 +136,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -191,16 +151,15 @@
       "templates:Vorlage einfügen": false,
       "command-palette:Befehlspalette öffnen": false,
       "bases:Neue Base erstellen": false,
-      "terminal:Open terminal": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-markdown-formatting-assistant-plugin:Markdown Formatting Assistant öffnen": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "651fbd9b44c07252",
+  "active": "dd86139e2dcc8645",
   "lastOpenFiles": [
-    "II/Grundlagen der Medizintechnik/Generell.md",
     "II/Medizin_2/Gastroenterologie.md",
+    "II/Grundlagen der Medizintechnik/Generell.md",
     "II/Medizin_2",
     "jobs/Einsatz von KI in der Qualitätssicherung von Medizinprodukten (520098).pdf",
     "I/Medizin_1/Bewegungsapparat.md",
