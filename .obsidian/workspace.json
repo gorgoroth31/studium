@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "II/Medizin_2/Gastroenterologie.md",
+                "file": "II/Stochastik/Stochastik-Notizen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gastroenterologie"
+              "title": "Stochastik-Notizen"
             }
           }
         ]
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "II/Medizin_2/Gastroenterologie.md",
+                "file": "II/Stochastik/Stochastik-Notizen.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -133,6 +133,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "7d9964a7bb327e03",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -156,9 +166,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dd86139e2dcc8645",
+  "active": "efe468a413376e92",
   "lastOpenFiles": [
+    "I/Medizin_1/Herz-Kreislauf.md",
+    "II/Stochastik/Stochastik-Notizen.md",
+    "Unbenannt.base",
     "II/Medizin_2/Gastroenterologie.md",
+    "II/Stochastik",
+    "II/Unbenannt.md",
     "II/Grundlagen der Medizintechnik/Generell.md",
     "II/Medizin_2",
     "jobs/Einsatz von KI in der Qualitätssicherung von Medizinprodukten (520098).pdf",
