@@ -1,4 +1,4 @@
-#med2
+#med2 #II
 
 # Ulcus ventriculi - Magengeschwür
 
@@ -144,3 +144,107 @@ b) H. pylori positiv:
 - PPH wird erst am Wirkungsort durch Magensäure aktiviert und blockiert die H+-Ionenpumpe, wodurch weniger oder sogar keine Magensäure (HCl) produziert wird
 	-> Säureschutz für den Magen 
 - Nebenwirkungen/Risiken durch PPH: Magen-Darm-Beschwerden, da weniger gut verdaut werden kann; Pneumonie (bettlägerige Pat. erleiden ggf. einen Rückstau wodurch es zu Infektionen kommen kann)
+
+# Choledocholithiasis
+
+## Anatomie der Leber
+
+- Lage: unterhalb des Zwerchfells auf der rechten Seite
+- besteht aus li. u. re. Leberlappen (re. ist wesentlich größer)
+- erhält Blut zum Einen aus dem großen Blutkreislauf und zum Anderen aus der Pfortader (Blut, das aus dem Darm kommt; ist bereits sauerstoffarm)
+- Produktion von Galle aus Abfallprodukten, die in Gallengang/Gallenblase geleitet wird
+
+## Galle
+
+### Funktion
+
+- Unterstützung der Fettverdauung
+- Neutralisierung der Magensäure (pH-Wert der Galle: 8,0 - 8,5)
+- Ausscheidung von Abbauprodukten (z.B. Bilirubin, Medikamente...)
+
+### Speicherung
+
+- Galle wird zwischen den Mahlzeiten in der Gallenblase gespeichert
+- Eindickung der Gallenflüssigkeit (-> höhere Konzentration, aber Verdickung zu Feststoff führt zu Gallensteinen!)
+- Zu den Mahlzeiten wird sie in den Duodenum abgegeben
+
+### Gallestoffwechsel
+
+- Abbau alter (120 Tage) Erys bis zum Umbau von Hämoglobin zu *wasserunlöslichem* Bilirubin in der Leber oder der Milz
+- In der Leber Umwandlung (**Konjugation**) des indirekten in direktes (wasserlösliches) Bilirubin
+- Ausscheidung des dir. B. mit der Galle in den Zwölffingerdarm
+- z.T. Umwandlung in Stuhl- und Urinfarbstoffe, teilweise Rückresorption
+
+## Ikterus
+
+- Erhöhung der Bilirubinkonzentration im Blut 
+- -> Gelbfärbung der Haut und der Schleimhäute
+- zuerst an den Skleren (Augenweiß) sichtbar
+
+### prähepatischer Ikterus
+
+- Problem ist **vor** der Leber (Rückstau des indir. Bilirubin vor der Leber)
+- es fällt zu viel indir. Bilirubin an, übersteigt die Umwandlungskapazität der Leber (welche ansonsten aber korrekt arbeitet)
+- Ursachen z.B. Sichelzellenanämie, Transfusionszwischenfall, Malaria
+
+### intrahepatischer Ikterus
+
+- Problem ist **innerhalb** der Leber
+- Leber wandelt nicht mehr genug Bilirubin um, so dass indir. B. im Blut ansteigt. Aufgrund Schädigung der Leberzellen tritt auch indir. B. ins Blut über und wird über die Nieren ausgeschieden
+- Urin dunkler, Stuhl ggf. heller
+- Ursachen z.B. Hepatits, Pilzvergiftung, Alkohol
+
+### posthepatischer Ikterus
+
+- Problem ist **nach** der Leber
+- Direktes Bilirubin gelangt nicht mehr in den Darm und staut sich zurück in den Blutkreislauf. Ausscheidung über die Niere
+- Urin dunkel, Stuhl heller
+- Ursachen durch (mechanischen) Verschluss der Gallenwege, z.B. Gallensteine, Gallengangs-Karzinom, Pankreas-Karzinom
+
+#### Differentialdiagnose zu anderen Krankheiten
+
+| Krankheit                                             | Unterscheidungsmerkmale                           |
+| ----------------------------------------------------- | ------------------------------------------------- |
+| Tumoren (Gallengang, Pankreas)                        | Ikterus meist stärker ausgeprägt und schmerzärmer |
+| Verwachsungen der Gallenwege (nach chron. Entzündung) | Schmerzcharakter weniger kolikartig               |
+| Cholangitis                                           | Fieber, Schüttelfrost wg. Entzündung              |
+
+### Unterscheidung
+
+Labordiagnostik:
+- Blutabnahme (ven. Blutplasma)
+- Cholestaseparameter (ist erhöht, wenn Gallenwege geschädigt sind (post))
+- dir. und indir. Bilirubin
+- Entzündungswerte
+
+| Parameter          | prähepatisch | intrahepatisch | posthepatisch |
+| ------------------ | ------------ | -------------- | ------------- |
+| Bilirubin indirekt | erhöht       | erhöht         | normal        |
+| Bilirubin direkt   | normal       | erhöht         | erhöht        |
+| Urinfarbe          | normal       | dunkel         | dunkel        |
+| Stuhlfarbe         | normal       | ggf. heller    | hell          |
+
+## Diagnostik - ERCP
+
+- **Endoskopisch-retrograde Cholangiopankreatikographie
+- Durchführung wie Magenspiegelung - Optik jedoch an der Seite des Endoskops (ggf. mit ausfahrbarer Minisonde dran, die im 90°-Winkel in Gallenweg abbiegen kann
+- Komplikation v.a. Pankreatitis
+
+### Einsatzmöglichkeiten
+
+- **Papillotomie** (Einschnitt der Papille -> Schließmuskel geht nicht mehr zu und Gallenstein fällt raus; ABER: nach Verheilung nicht 100% Funktion, Gallensaft kann ständig austreten)
+- **Steinextraktion** mit kleinem Greifer
+- Bougierung (Aufdehnung mit Ballon)
+- Stenteinlage (Plastikröhrchen)
+
+
+| Vorteile                                          | Nachteile                        |
+| ------------------------------------------------- | -------------------------------- |
+| man kommt direkt in die Gallenwege                | invasiv                          |
+| direkte Folgetherapie möglich                     | Komplikationsrisiko Pankreatitis |
+| genauere Diagnostik im Gallengang als Ultraschall | kommt nicht bis in Gallenblase   |
+### Unterschied zu Ultraschall
+
+- Ultraschall ist nicht-invasiv
+- Gallenstein *kann* erkannt werden (wirft Schatten)
+- Jedoch: unauffälliger Befund schließt das Vorhandensein von Gallensteinen nicht aus!
