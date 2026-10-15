@@ -248,3 +248,107 @@ Labordiagnostik:
 - Ultraschall ist nicht-invasiv
 - Gallenstein *kann* erkannt werden (wirft Schatten)
 - Jedoch: unauffälliger Befund schließt das Vorhandensein von Gallensteinen nicht aus!
+
+# Varizenblutung
+
+## Aufgaben der Leber
+
+| Stoffwechsel                                                                                                        | Synthese                                                                                         | Abbau und Entgiftung                |
+| ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------- |
+| Aufnahme von Nährstoffen aus dem Darm                                                                               | Blutzucker                                                                                       | Erythrozyten- mauserung             |
+| Regulierung des Glukose-, Fett und Eiweißstoffwechsels                                                              | Cholesterin, Fette                                                                               | Bilirubin -> konjugiertes Bilirubin |
+| Speicherung von:<br>    - Glukose (in Form von Glykogen)<br>	- Fett<br>	- Vitamine<br>	- Spurenelemente, u.a. Eisen | Galle, Gallensäuren                                                                              | Ammoniak -> Harnstoff               |
+|                                                                                                                     | Aminosäuren                                                                                      | Hormone                             |
+|                                                                                                                     | Bluteiweiße:<br>    - Albumin<br>	- Globuline<br>	-Gerinnungs-faktoren<br>	- Entzündungsproteine | Medikamente                         |
+|                                                                                                                     | Erythrozyten                                                                                     | Giftstoffe (z.B. Ethanol)           |
+
+## Pfortaderkreislauf
+
+Gefäßssystem im Abdomen, das **sauerstoffarmes**, **nährstoffreiches** Blut in die Leber transportiert
+
+### Einzugsgebiet
+
+- Dünndarm
+- Dickdarm
+- Magen
+- Pankreas
+- Gallenblase
+
+### Doppelte Blutversorgung d. Leber
+
+Blut erhält einerseits arterielles Blut, andererseits venöses Blut aus der Pfortader, das etwas weniger Sauerstoff mit sich führt, dafür aber nährstoffreich ist. Das arterielle Blut dient primär der Sauerstoffversorgung und das Blut aus der Pfortader gelangt zur Leber, damit Nährstoffe und Giftstoffe aus dem Darm verstoffwechselt werden bzw. Hormone aus der Pankreas in den Stoffkreislauf gebracht werden. 
+
+### Druckverhältnisse
+
+Niederdrucksystem, da venös; liegt normal ca. bei 3-6 mmHg
+
+### Pfortaderhochdruck
+
+Def.: Druck in der Pfortader >12 mmHg
+
+| Lokalisation                      | Zugrundeliegende Erkrankung |
+| --------------------------------- | --------------------------- |
+| **posthepatische** Ursachen: <br> | Thrombose, Herzinsuffizienz |
+| **intrahepatische** Ursachen:     | Leberzirrhose, Leberfibrose |
+| **prähepatische** Ursachen:       | Thrombose, Kompression      |
+#### Therapie d. Pfortaderhochdrucks
+
+- Behandlung der auslösenden Erkrankung
+- medikamentöse Drucksenkung u. Infektionsprophylaxe
+- Behandlung der Symptome
+	- **Varizenligatur**: Abbinden der Varizen mit Gummi -> fällt dann ab
+	- Aszitespunktion, -ausschwemmung
+- operative Drucksenkung
+	- Shunt zw. Pfortader und V. cava
+	 -> Risiko Enzephalophatie (Schädigung d. Gehirns) durch red. Entgiftung
+- Lebertransplantation
+
+### Portokavale Anastomosen
+
+"Kurzschlussverbindungen" zw. Pfortader und Körpervenen (-> V. cava)
+-> Es werden Kollateralkreisläufe gebildet, die an verschiedenen Stellen im Abdomen unterschiedliche Auswirkungen haben:
+
+- Speiseröhre: **Ösophagusvarizen**
+- Rektum: **Hämorrhoiden**
+- Bauchnabel: **Medusenhaupt**
+- Dickdarm: **Aszites**
+
+## Leberläppchen
+
+- Kleine, sechseckige Struktureinheiten der Leber und bestehen aus vielen kleinen Leberzellen
+- Im Zentrum liegt eine Zentralvene
+- Blut aus der Pfortader fließt zw von außen zur Zentralvene und wird "aufbereitet"
+- Zw. zwei Blutgefäßen (**Sinusoiden**) gibt es zwei Zellschichten mit einem Gallenkanälchen dazwischen
+- Aus den Sinusoiden gelangen Nähr- und Giftstoffe in die Leberzellen, wo sie gespeichert, umgewandelt oder abgebaut werden
+- Über Gallenkanälchen werden Abfallprodukte in Richtung des Gallengangs transportiert
+
+## Leberzirrhose
+
+- durch chronischen Entzündungsreiz (z.B. Medikamente oder Alkohol) sterben Leberzellen ab
+- Leberzellen werden in narbiges Bindegewebe umgewandelt, dadurch Formveränderung und Verkleinerung der Leber
+
+### Auswirkungen
+
+- Anstieg des Strömungswiderstand durch Rückstau in Pfortader
+  -> **Pfortaderhochdruck
+- Entstehung von Umgehungskreisläufen
+  -> Varizen(-blutung) 
+
+Außerdem:
+- **intrahepatischer Ikterus** durch Gallestau
+- bösartige Umwandlung in Leberzellkarzinom
+- verminderte Galleproduktion 
+- Blut aus Pfortader gelangt teilweise direkt in V. cava durch Kollaterallen
+
+#### ... auf Synthesie- und Engiftungsleistung der Leber
+
+- Synthesieleistung von Albumin sinkt, dadurch sinkt die osmotische Bindung von Wasser und Wasser tritt in Bauchraum/Gewebe aus
+- verminderter Effekt von Pharmaka durch hepatischen "First-Pass-Effekt":
+	- im Darm resorbierte Pharmaka passieren zunächst 
+	- Abbau beginnt sofort -> Medikament nur noch vermindert effektiv
+	- dieser Effekt wird bei Berechnung der Dosis mit einkalkuliert
+- daher: oft Dosisanpassung bei eingeschränkter Leberfunktion nötig
+	- angenommen, statt wie sonst 90% werden nur 80% d. Pharmakons beim Leberdurchgang abgebaut, wirken nun 20% d. Medikaments, anstatt der berechnete 10%
+
+
+

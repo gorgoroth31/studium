@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2d10b7e6eb56d7fd",
@@ -218,22 +219,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "741d6a19c880b5be",
+  "active": "efe468a413376e92",
   "lastOpenFiles": [
+    "I/Medizin_1/Herz-Kreislauf.md",
+    "II/Medizin_2/Gastroenterologie.md",
     "II/Grundlagen der Medizintechnik/Grundlagen Medizintechnik.md",
+    "II/Grundlagen der Medizintechnik/ekg-code/rohdaten2.diagramm.ods",
+    "II/Grundlagen der Medizintechnik/ekg-code/pantompkins.py~",
+    "II/Grundlagen der Medizintechnik/ekg-code/pantompkins.py",
+    "II/Grundlagen der Medizintechnik/ekg-code/rohdaten.zip",
     "II/Grundlagen der Medizintechnik/ekg-code/ergebnis3.csv",
     "II/Grundlagen der Medizintechnik/ekg-code/aufnahme3.csv",
     "II/Grundlagen der Medizintechnik/ekg-code/rohdaten3.csv",
     "II/Grundlagen der Medizintechnik/ekg-code/script.fish~",
     "II/Grundlagen der Medizintechnik/ekg-code/ergebnis2.csv",
     "II/Grundlagen der Medizintechnik/ekg-code/aufnahme2.csv",
-    "II/Grundlagen der Medizintechnik/ekg-code/rohdaten2.csv",
-    "II/Grundlagen der Medizintechnik/ekg-code/ergebnis.csv",
-    "II/Grundlagen der Medizintechnik/ekg-code/auswertung2.py",
-    "II/Grundlagen der Medizintechnik/ekg-code/aufnahme.csv",
     "II/Stochastik/Stochastik-Notizen.md",
-    "II/Medizin_2/Gastroenterologie.md",
-    "I/Medizin_1/Herz-Kreislauf.md",
     "II/Unbenannt.md",
     "I/Medizin_1/Bewegungsapparat.md",
     "I/Medizin_1/Blutdruck_Diagramm.jpg",

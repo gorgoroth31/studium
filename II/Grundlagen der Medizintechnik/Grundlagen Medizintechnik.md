@@ -66,11 +66,14 @@ Tiefpassfilter (für Schwankungen)
 ## Auswertung Herzfrequenz
 
 Pan-Tompkins-Algorithmus:
+- fs=160 (frequenz der abtastrate)
 
-Wir haben Sprünge in der Linie (gibt's da n Problem?)
+Wir haben Sprünge in der Linie (gibt's da n Problem?
 
 - Ableitung wird gebildet
 - Dann quadriert man noch alles
 
 [https://physionet.org/](Physionet Arrythmie Datenbank)
 
+Ich brauch liste von intervall zu intervall und wie viel zeit 
+-> beat zu beat herzfrequenz berechnen mit standardabweichung
