@@ -136,3 +136,74 @@ Sinnvolle Kombinationen sind:
 > - Mittelwert +/- Standardabweichung
 > - Median und 1. und 3. Quartil
 
+### Grafische Darstellungen
+
+#### Empirische Verteilungsfunktion
+
+Es werden für jede Merkmalseigenschaften die kumulierten Werte eingezeichnet. Hierbei handelt es sich um eine monoton wachsende Treppenfunktion, die an den Ausprägungen $a_1 < ... < a_k$ nach oben springt
+
+![[Pasted image 20261021150316.png]]
+
+#### Box-Plot
+
+![[boxplot.jpg]]
+
+Die Whiskers gehen maximal zum 1.5-fachen des *Interquartilsabstandes (IQA)*. Alles was darüber, bzw. darunter liegt wird als "Ausreißer" deklariert und extra eingetragen.
+
+#### Histogramm
+
+Darstellung der relativen oder absoluten Häufigkeitsverteilung von Messwerten. Der Datenbereich wird in Klassen/Intervalle aufgeteilt. Die Höhe des Rechtecks über jeder Klasse ist proportional zur klassenspez. Häufigkeit.
+
+Beispiel: Körpergröße
+
+| 4 Klassen             | [160, 170) | [170, 180) | [180, 190) | [190, 210) | $\sum$ |
+| --------------------- | ---------- | ---------- | ---------- | ---------- | ------ |
+| Klassenbreite ($d_j$) | 10         | 10         | 10         | 20         |        |
+| Merkmal $h_j$         | 3          | 5          | 2          | 1          | 11     |
+| Rel. Häufigkeit       | 3/11       | 5/11       | 2/11       | 1/11       | 1      |
+![[histogramm 1.jpg]]
+
+## Bivariate deskriptive Statistik
+
+Bivariate Maßzahlen geben den Zusammenhang zwischen zwei Merkmalen wieder. Im folgenden lernen wir statistische Methoden kennen, die derartige Wechselbeziehung verdeutlichen.
+
+### Korrelation
+
+Eine Korrelation beschreibt die Abhängigkeit zw. zwei quantitativen Merkmalen
+- positive Korrelation: je mehr X, desto mehr Y
+- negative Korrelation: je mehr X, desto weniger Y
+
+Eine Korrelation erlaubt **keine** Rückschlüsse auf eine Kausalität, d.h. es kann weder gesagt werden, ob ein Merkmal Ursache des anderen ist, noch ob überhaupt ein Ursache-Wirkungsprinzip besteht.
+
+### Scatterplot/Streudiagramm
+
+Bei stetigen Daten können die Datenpunkte ($x_i$, $y_i$) sehr anschaulich in einem **Scatterplot, bzw. Streudiagramm** dargestellt werden.
+
+### Kovarianz
+
+Die Kovarianz wird verwendet, um das Vorliegen eines linearen, monotonen Zusammenhangs zw. zwei Zufallsvariablen zu überprüfen
+
+TODO
+
+### Korrelationskoeffizient nach Pearson
+
+Maß für den Grad d. **linearen Zusammenhanfs** zw. zwei min. intervallskalierten Merkmalen und gegeben durch:
+
+$$
+r_{xy} = \frac{\text{Kovarianz}}{\text{Produkt der Standardabweichungen}}
+$$
+$$
+= \frac{\sum_{i=1}^n(x_i - \bar{x})*(y_i - \bar{y})}{\sqrt{\sum_{i=1}^n(x_i - \bar{x})^2 * \sqrt{\sum_{i=1}^n(y_i - \bar{y})^2}}}
+$$
+
+
+
+> [!tip] Tipp
+> Bei der Berechnung des Korrealtionskoeffizienten nach Pearson, und auch später bei der Linearen Regression, hilft es, folgende Tabelle aufzustellen, und für jeden Wert $x_i$ und $y_i$ die Werte in der Tabelle einzutragen
+
+| $x_i$           | $y_i$         | $x_i - \bar{x}$ | $y_i - \bar{y}$ | $(x_i - \bar{x})^2$ | $(y_i - \bar{y})^2$ | $(x_i - \bar{x})*(y_i - \bar{y})$ |
+| --------------- | ------------- | --------------- | --------------- | ------------------- | ------------------- | --------------------------------- |
+| 0               | 6             | -2              | 5               | 4                   | 25                  | -10                               |
+| 1               | 4             | -1              | 3               | 1                   | 9                   | -3                                |
+| ...             |               |                 |                 |                     |                     |                                   |
+| $\bar{x} = 0.5$ | $\bar{y} = 5$ |                 |                 | $\sum = 5$          | $\sum = 34$         | $\sum = -13$                      |

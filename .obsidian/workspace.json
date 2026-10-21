@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "II/Medizin_2/Gastroenterologie.md",
+                "file": "II/Stochastik/Stochastik-Notizen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gastroenterologie"
+              "title": "Stochastik-Notizen"
             }
           }
         ]
@@ -189,7 +189,7 @@
             }
           },
           {
-            "id": "0bba37030c47fe32",
+            "id": "a885f218ee986f37",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -203,7 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267.0625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -219,10 +219,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efe468a413376e92",
+  "active": "61935cedff0ed2ae",
   "lastOpenFiles": [
-    "I/Medizin_1/Herz-Kreislauf.md",
+    "img/histogramm 1.jpg",
+    "img/histogramm.jpg",
+    "img/boxplot.jpg",
+    "img/Pasted image 20261021151156.png",
+    "img/Pasted image 20261021150316.png",
+    "img",
+    "II/Stochastik/Stochastik-Notizen.md",
+    "Pasted image 20261021150233.png",
     "II/Medizin_2/Gastroenterologie.md",
+    "I/Medizin_1/Herz-Kreislauf.md",
     "II/Grundlagen der Medizintechnik/Grundlagen Medizintechnik.md",
     "II/Grundlagen der Medizintechnik/ekg-code/rohdaten2.diagramm.ods",
     "II/Grundlagen der Medizintechnik/ekg-code/pantompkins.py~",
@@ -233,8 +241,6 @@
     "II/Grundlagen der Medizintechnik/ekg-code/rohdaten3.csv",
     "II/Grundlagen der Medizintechnik/ekg-code/script.fish~",
     "II/Grundlagen der Medizintechnik/ekg-code/ergebnis2.csv",
-    "II/Grundlagen der Medizintechnik/ekg-code/aufnahme2.csv",
-    "II/Stochastik/Stochastik-Notizen.md",
     "II/Unbenannt.md",
     "I/Medizin_1/Bewegungsapparat.md",
     "I/Medizin_1/Blutdruck_Diagramm.jpg",
