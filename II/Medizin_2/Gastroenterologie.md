@@ -223,10 +223,11 @@ Labordiagnostik:
 | Bilirubin direkt   | normal       | erhöht         | erhöht        |
 | Urinfarbe          | normal       | dunkel         | dunkel        |
 | Stuhlfarbe         | normal       | ggf. heller    | hell          |
+<a id="diagnostik-ercp"></a>
+## ERCP
 
-## Diagnostik - ERCP
-
-- **Endoskopisch-retrograde Cholangiopankreatikographie
+- **Endoskopisch-retrograde Cholangiopankreatikographie**
+- diagnostisches Mittel mit Möglichkeit zur Therapie
 - Durchführung wie Magenspiegelung - Optik jedoch an der Seite des Endoskops (ggf. mit ausfahrbarer Minisonde dran, die im 90°-Winkel in Gallenweg abbiegen kann
 - Komplikation v.a. Pankreatitis
 
@@ -330,7 +331,7 @@ Def.: Druck in der Pfortader >12 mmHg
 ### Auswirkungen
 
 - Anstieg des Strömungswiderstand durch Rückstau in Pfortader
-  -> **Pfortaderhochdruck
+  -> **Pfortaderhochdruck**
 - Entstehung von Umgehungskreisläufen
   -> Varizen(-blutung) 
 
@@ -343,12 +344,570 @@ Außerdem:
 #### ... auf Synthesie- und Engiftungsleistung der Leber
 
 - Synthesieleistung von Albumin sinkt, dadurch sinkt die osmotische Bindung von Wasser und Wasser tritt in Bauchraum/Gewebe aus
-- verminderter Effekt von Pharmaka durch hepatischen "First-Pass-Effekt":
-	- im Darm resorbierte Pharmaka passieren zunächst 
+- verminderter Effekt von Pharmaka durch hepatischen **First-Pass-Effekt**:
+	- im Darm resorbierte Pharmaka passieren zunächst Leber bevor sie den großen Kreislauf erreichen
 	- Abbau beginnt sofort -> Medikament nur noch vermindert effektiv
 	- dieser Effekt wird bei Berechnung der Dosis mit einkalkuliert
 - daher: oft Dosisanpassung bei eingeschränkter Leberfunktion nötig
 	- angenommen, statt wie sonst 90% werden nur 80% d. Pharmakons beim Leberdurchgang abgebaut, wirken nun 20% d. Medikaments, anstatt der berechnete 10%
 
+# Chronische Panreatitis
+
+## Anatomie
+
+- **Lage**: unterhalb der Leber, hinter dem Magen
+- **3-teilig**: Caput, Corpus, Cauda
+- **Ausführungsgang**: mündet zusammen mit Gallengang in Duodenum
+- **Problem Gallengangsteine**: ggf. Rückstau in **Ductus pancreaticus** (Gang von Pankreas in Gallengang)
+
+## Verdauung der Makros
+
+Damit der Darm die Nährstoffe aufnehmen kann, müssen die Kohlenhydrate, Eiweiße und Fette in kleinere Bausteine zerlegt werden. Das Zerlegen erledigen Enzyme, die im **exokrinen** Teil des Pankreas produziert werden und über den Gallengang ins Duodenum zur Nahrung zugeführt werden
+
+### Kohlenhydrate
+
+| Stärke                                    | Saccharose                                                            | Laktose             |
+| ----------------------------------------- | --------------------------------------------------------------------- | ------------------- |
+| **$\alpha - Amylase$**                    | (einfacher gebaut als Stärke, brauchen also $\alpha - Amylase$ nicht) | wie Saccharose      |
+| Maltose<br>Maltotriose<br>Oligosaccharide |                                                                       |                     |
+| **Maltase<br>Isomaltase**                 | **Saccharase**                                                        | **Laktase**         |
+| Glukose                                   | Glukose & Fruktose                                                    | Glukose & Galaktose |
+### Eiweiß
+
+- **Magen**: Spaltung der Eiweiße im Magen durch **Pepsin** in **Peptide**
+- **Duodenum, Dünndarm**: Spaltung der Peptide durch **Trypsin** in Aminosäuren
+- Aufnahme über Dünndarm & Dickdarm in die Pfortader -> Leber filtert raus und verwendet weiter
+
+### Fett
+
+- Spaltung der Fette durch **Lipasen** in Fettsäuren und Cholesterin
+- **Pankreaslipase** ist am meisten für Verdauung von Fetten zuständig
+	-> muss erst durch Gallensäure aktiviert werden 
+
+## Aufgaben
+
+### Exokriner Teil
+
+- Produktion von Verdauungsenzymen:
+	- Kohlenhydrate: **$\alpha - Amylase$ , Saccharase, Laktase, Maltase**
+	- Eiweiß: **Trypsin**
+	- Fett: **Lipasen**
+
+### Endokriner Teil
+
+- Produktion von Hormonen:
+	- **Insulin**: zur Verstoffwechselung von Glukose
+	- **Glukagon**: zur Mobilisierung von Glukosereserven
+	- **Hormone** zur Hemmung der Magensäureproduktion
+
+## Symptome
+
+Was, wenn Produktion von Verdauungsenzymen ausfällt?
+- Nährstoffe werden nicht mehr verstoffwechselt -> bleiben im Darm und ziehen Wasser durch Osmose -> Durchfall :/
+
+- Gewichtsverlust, da Nährstoffe nicht mehr aufgenommen werden können
+- starke Schmerzen im Bauch
+- Schmerz
+	- ist schlimmer *nach* dem Essen
+	- ist konstant
+	- -linderung durch Bettruhe
 
 
+## Prinzip der osmotischen Diarrhoe
+
+- unverdaute Nährstoffe bleiben im Darm und ziehen Wasser in Darm
+- osmotischer Druck verhindert Rückresorption von Wasser
+
+### Rolle der Darmbakterien
+
+Da ja noch Nährstoffe im Darm bleiben, bauen die Darmbakterien diese ab und bilden verschiedene Gase, darunter CO2 und H2
+
+### Laktose
+
+- Laktasemangel liegt vor -> Laktose kann nicht abgebaut werden und Darmbakterien bauen diese ab
+- Diagnose durch H2-Atemtest: 
+	- Verabreichung von Laktose an Pat.
+	- Ausatemluft wird alle 30 min auf H2 getestet
+	- wenn H2 ansteigt, haben Darmbakterien die Laktose abgebaut
+		-> Laktasemangel
+
+## Diagnostik
+
+- Nachweis von Pankreasenzymen im Blut
+	- Amylase, Lipase
+	- v. a. im akuten Schub -> Zellen sind geschädigt und deren Inhalt gelangt ins Blut
+- Nachweiß von Elastase im Stuhl
+- Ultraschall, Röntgen
+	- Verkalkung beweisend für chron. Pankreatitis
+
+### Computertomografie (CT)
+
+- kombiniert Vorteile von Röntgen (durch den ganzen Körper) und Ultraschall (Schnittbilder)
+- rotierender Ring aus Röntgenröhre und Detektoren
+- Anfertigung von Schnittbildern
+- Bewegung des Pat. drch die rotierende Einheit
+	-> Gewinnung räumlicher Daten durch ganz viele Schnittbilder ("Spiral-CT")
+- Berechnung und Zusammensetzung der Bilder zu 3D-Rekonstruktion durch Computer
+
+#### Vorteile
+
+- Hohe Auflösung (aber weniger als konventionelles Röntgenbild)
+- sehr gute 3D-Darstellung
+- kurze Untersuchungsdauer
+- Kontrast frei wählbar: Organfenster je nach Hounsfild-Einheiten -> hebt Knochengewebe oder Weichteilgewebe vor
+- Gut geeignet für die Untersuchung von:
+	- Knochen, Gelenken
+	- Lunge
+	- Herz, Gefäße (Kontrastmittel)
+	- Bauchorgane, Darm
+	- Gehirn
+
+#### Nachteile
+
+- vergleichsweise hohe Strahlenbelastung
+- Speicherung großer Datenmengen
+- aufwändige Befundung
+- Noch relativ teuer
+- Artefakte durch Metallimplantate
+- ggf. jodhaltige Kontrastmittel nötig (Vorsicht Niere, Schilddrüse, Allergie)
+
+#### Grenzen
+
+- Organe können nur voneinander unterschieden werden, wenn sie verschiedene Kontraste haben
+- Veränderungen, die nicht mit einer Änderung der Strahlenabsorption einhergehen, werden nicht gesehen -> Metastasen IN der Leber
+
+### ERCP
+
+- [siehe oben](#ercp)
+
+## Therapieoptionen
+
+- kausal: Alkohol- und Nikotinabstinenz
+- Schmerzbehandlung
+	- kausal: Beseitigung von Abflusshindernissen
+	- hohe Neigung zur Schmerzmittelabhängigkeit! -> Erkrankte haben eh schon Neigung zu Sucht!
+- kohlenhydratreiche Ernährung, kleine Mahlzeiten
+- lange kauen und Amylase aus Speichel benutzen, dann hat Pankreas weniger zu tun
+- Zufuhr von Pankreasenzymen (in Kapsel oder so, Amylase wird in Magen zersetzt)
+- OP ist sehr aufwendig, da Pankreas tief drin liegt
+
+
+# Zöliakie
+
+## Ursachen von Ödemen
+
+### 1. sinkender Eiweißgehalt des Blutes
+
+- Eiweiß, v.a. Albumin, hält Wasser im Blutplasma
+- durch Eiweißmangel sinkt der osmotische Druck und Wasser lagert sich in Gewebe ab
+- Ursachen:
+	- Mangelnde Bildung durch **Mangelernährung**
+	- Mangelnde Bildung durch **Leberschaden** (z.B. Leberzirrhose)
+	- Verlust durch **Nierenschaden** oder Diarrhoe
+
+### 2. "Überwässerung" d. Körpers
+
+- steigendes Plasmavolumen -> steigender hydrostatischer Druck
+- Wasser wird sozusagen ins Gewebe "gedrückt"
+- Ursachen:
+	- Mangelnde Ausscheidung bei **Niereninsuffizienz**
+	- Rückstau ins Gewebe bei **Herzinsuffizienz**
+
+## Darmschleimhaut
+
+- ganz grob gesehen liegt der Darm als Zylinder vor und hat anatomische Strukturen, die die Oberfläche deutlich vergrößern. Dazu gehören:
+	- **Kerckring-Falten**
+	- **Zotten**
+	- **Microvilli**
+- Oberfläche: **einschichtiges Zylinderepithel** -> Stoffaustausch
+
+## Resorption von Medikamenten
+
+- Medikamente müssen i. d. R. ins Blut gelangen -> Transport zum Wirkort
+- Allgemeine Verabreichungsmöglichkeiten
+	- Direkt ins Blut (i. v., i. a.)
+	- über Diffusion ins Blut (s. c., i. m.)
+	- Über Schleimhäute ins Blut -> z.B. Verdauungstrakt
+
+### parenterale Applikation
+
+- i. d. R. durch Injektion
+- Vorteile:
+	- Medikament sofort im Blut
+	 -> schneller Wirkeintritt
+	- Vermeidung des **First-Pass-Effekts** in der Leber
+- Nachteile:
+	- was drin ist, ist drin (kein Weg zurück)
+	- Injektionen sind schmerzhaft (außerdem Angst vor Nadeln bei Pat. möglich)
+	- Risiko der Falschanwendung ("Danebenspritzen")
+
+### intravenöse und intraarterielle Gabe
+
+- am häufigsten intravenös:
+	- meist als (Kurz-)Infusion, um potenzielle Reizung des Gefäßendothels zu reduzieren
+	- Verdünnung durch zuströmendes Blut
+	- stark reizende Substanzen (z.B. Chemotherapie) über große Gefäße, z.B. Zentralvenenkatheter
+- Selten intraarterielle Gabe:
+	- höheres Blutungsrisiko (da höherer Blutdruck)
+	- Gefahr der Anreicherung im Kapillarbett 
+	- sinnvoll bei Angiographie (Kontrastmittel)
+	- ggf. bei lokaler Chemotherapie z.B. bei Metastasen
+
+### intramuskuläre und subkutane Gabe
+
+- Wirkstoff muss erst zu den Kapillaren diffundieren
+	- langsamer Wirkeintritt
+	- länger anhaltende Wirkung
+- Resorptionsgeschwindigkeit abhängig von:
+	- lokaler Durchblutung (Muskel > Fett)
+	- Wasserlöslichkeit (z.B. Hormonspritzen (ölige Lösung) -> Depoteffekt)
+- Lösungen zur i. v.-Injektion dürfen meist nicht i. m./s. c. geegeben werden um umgekehrt
+	- Gefahr lokaler Reizung bei falscher i. m.-Gabe
+	- Gefahr z. B. von Embolien bei falscher i. v.-Gabe
+	- Daher vor Injektion immer Ansaugen von Blut
+
+### Resorption im Verdauungstrakt
+
+#### Mundhöhle
+
+- kleine Resorptionsfläche (da Mundhöhle glatt und mehrschichtiges Epithel)
+- nur kleine, v. a. fettlösliche Moleküle können resorbiert werden
+- Pharmaka gelangen direkt in den großen Kreislauf
+- typische Medikamente: Nitroglycerinspray, Nitrokapseln, Kalziumkanalblocker (Angina pectoris)
+	- Gabe sublingual (s. l.) bzw. Zerbeißkapseln
+	- muss im Mund gehalten werden (nicht schlucken!)
+	- schneller Wirkeintritt
+
+#### Magen
+
+- direkte Resorption: eher geringe Bedeutung
+	-> saures Milieu -> Ionisierung von Molekülen -> geringere Fettlöslichkeit -> schlechtere Resorption
+- ggf. Zerstörung des Pharmakons durch Magensäure
+- orale Präparate müssen also Magenpassage überstehen
+	- säurefeste Dragees, Kapseln
+	- chem. Modifizierung des Pharmakons (z.B. Penicillin V)
+- Wichtig: Zeit der Magenpassage
+	- (fettreiche) Nahrung?
+	- Bindung d. Medikaments an Nahrungsmittel
+	 -> Gabe vor/zu/nach den Mahlzeiten?
+- Beeinflussung der Magenpassage durch andere Medikamente wirkt sich auf die Resorptionsgeschwindigkeit aus
+
+#### Darm
+
+- Dünndarm: größte Resorptionsfläche
+	- Hauptresorptionsort bei peroraler (p. o.) Gabe 
+	- lange Einwirkzeit (ca. 7 h)
+	- ABER: First-Pass-Effekt!
+	 -> meist höhere Dosierung als bei i. v.-Gabe nötig
+- Dickdarm: meist nichts mehr übrig
+	- Ausnahme: "Retardformen" mit verzögerter Wirkstofffreisetzung
+	- ggf. relevant bei schneller Dünndarmpassage (Diarrhoe)
+
+#### Rektum
+
+- Zäpfchen (Suppositorien) -> "supp."
+- Gabe "per rectum" (p. r.)
+- geringe Resorptionsfläche
+- Resorption schwer kontrollierbar
+- daher nicht für Arzneimittel mit geringer therapeutischer Breite geeignet
+- Aber: nur geringer First-Pass-Effekt, daher schneller Wirkeintritt, z.B. für
+	- Schmerzmittel
+	- Kortikoide bei Pseudokrupp
+- Geeignet bei Übelkeit/Erbrechen
+- Problematisch bei Diarrhoe
+
+# Leistenhernie
+
+## Transport des Darminhalts
+
+- propulsiv: die von oral nach aboral gerichtete Form der Peristaltik, die dem Weitertransport d. Speisebreis (ab Magen Chymus) dient
+- nicht propulsiv: Durchmischen d. Speisebreis
+
+| Mobilitätsmuster             | Beschreibung                                                                         | Vorkommen                      | Funktion                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------------------ | ------------------------------ | ------------------------------------------------------------------------- |
+| **Peristaltik**              | koordinierte Bewegung d. Längs- und Ringmuskulatur (zsm. drücken und weiterschieben) | Ösophagus<br>Magen<br>Dünndarm | propulsiv führt zum Transport,<br>nicht propulsiv führt zur Durchmischung |
+| **Rhythmische Segmentation** | lokale Kontraktionen der Ringmuskulatur                                              | Dünndarm<br>Dickdarm           | Durchmischung                                                             |
+| **Pendelbewegung**           | segmentale Kontraktionen d. Längsmuskulatur                                          | Dünndarm<br>Dickdarm           | Längsverschiebung der Darmwand über die Chymussäule                       |
+| **tonische Kontraktion**     | lokale Schließmuskel (Ringmuskulatur)                                                | gastrointestinale Sphinkteren  | Verschluß<br>Abtrennung                                                   |
+
+### Peristaltik
+
+- durch Kontraktion d. Ringmuskulatur wird ein Dehnungsreiz in Vorwärtsrichung aufgebaut
+- durch diesen Reiz wird die entsprechende Ringmuskulatur entspannt und die Längsmuskulatur kontrahiert
+- daraufhin Entspannung der Längsmuskulatur vor kontrahierter Ringmuskulatur
+  -> Chymus wird weitergeschoben
+- Steigerung d. Darmtätigkeit durch Parasympathikus
+- Hemmung durch Sympathikus
+
+### Rhytmische Segmentation
+
+- autonome Steuerung
+- primär nicht propulsiv
+- oralwärts schneller als aboral
+  -> Vorwärtsbewegung (da Übergleiten über den Speisebrei nach oral)  
+- Im Dickdarm lange "Liegedauer"
+- dort 3-4 mal/Tag größere Kontraktionswellen mit "Massenbewegung" Richtung After
+
+### Gastrointestinale Sphinkteren
+
+- **Kardia**: Verhinderung d. Rückflusses von Magensäure in die Speiseröhre
+- **Pylorus**: Regelung d. Geschwindigkeit bzw. Häufigkeit der Magenentleerung
+- **Ileozäkaler Übergang**: Verhinderung d. Übertritts von Bakterien aus dem Kolon in den Dünndarm
+- **Anus**: Regelung d. Entleerung d. Darminhalts in sozial verträglichen Situationen
+
+## Ileus
+
+- kompletter Darmverschluss
+- Subileus: teilweiser Darmverschluss
+### mechanischer Ileus
+
+- mechanische Behinderung d. Darmpassage von innen o. von außen
+#### Ursachen
+
+- Inkarzeration (Einklemmung einer Hernie)
+- Invagination (Einstülpung) d. Darms
+- "Strangulation" durch Verwachsungen
+- Volvulus (Verschlingung) d. Darms
+- Stenose d. Tumorwachstum
+
+#### klinisches Bild
+
+- eher akuter Beginn
+- starke, meist kolikartige Schmerzen
+- laute, klingende Darmgeräusche
+- Aussetzen von Stuhl/Flatulenzen
+- Erbrechen je nach Höhe d. Ileus früher oder später, ggf. Stuhlerbrechen ("Miserere")
+- Übergang in paralytischen Ileus, wenn nicht behandelt
+### paralytischer Ileus
+
+- Lähmung d. glatten Muskulatur d. Darms
+
+#### klinisches Bild
+
+- eher schleichender Beginn
+- mäßige, dauerhafte Schmerzen (durch immer mehr werdende Stauung)
+- schwache, später fehlende Darmgeräusche
+- Erbrechen eher später ("Überlaufmagen")
+
+### Diagnostik
+
+- klinische Untersuchung
+	- Darmgeräusche
+	- Abwehrspannung
+	- Ursachen eines Ileus
+- ggf. Ultraschall
+- Röntgen Abdomen
+- CT Abdomen
+
+## direkte vs. indirekte Leistenhernie
+
+### direkte Hernien (ca. 40%)
+
+- direkter Durchbruch durch Schwachstellen d. Bauchwand
+- Leistenhernie, Nabelhernie, Schenkelhernie u. a.
+
+### indirekte Leistenhernien (ca. 60%)
+
+- Durchbruch entlang d. Leistenkanals
+- Weg d. Hoden (Anlage auf Höhe d. Nieren, Abstieg während Embryonalzeit)
+- Verschluss d. Leistenkanals gelegentlich unvollständig o. fehlend
+  -> angeborener Leistenbruch
+
+## Erbrechen
+
+### Funktion
+
+- Entleerung von Speiseröhren-, Magen- und ggf. Darminhalt entgegen d. üblichen Richtung
+- kompliziertes, reflektorisches Geschehen
+- Steuerung durch das "Brechzentrum" (Area postrema) im Hirnstamm
+	- Lage außerhalb der Blut-Hirn-Schranke, damit für im Blut zirkulierende Substanzen erreichbar
+	- sensible Versorgung aus dem Rachenbereich, Gleichgewichtsorgan, Darmnerven (N. vagus)
+	- Kontrolle durch verschiedene höhere Hirngebiete
+
+### Auslöser
+
+#### Vermittlung über N. vagus
+
+- mechanische Reizung d. hinteren Rachens
+	- IX. und X. Hirnnerv -> Reflexzentrum zum Brechzentrum
+	- Sinn: Rücktransport von steckengebliebenen Speisen
+	- Wichtig u. a. in der Komadiagnostik
+- mechanische o. chem. Reizung von Magen/Dünndarm
+- Entzündungem im Bauchraum
+- starke Schmerzzustände (z.B. Koliken, Herzinfarkt)
+
+#### direkte Reizung der Area postrema
+
+- Hormonelle Umstellung in der Schwangerschaft
+- Stoffwechselkrankheiten (z.B. entgleister Diabetes mellitus, Nierenversagen)
+- Medikamente, Vergiftungen
+
+#### über Gleichgewichtssinn
+
+- Reisekrankheit
+- Störungen d. Gleichgewichtssinns
+
+#### über höhere Hirnzentren
+
+- Hirnerkrankungen
+- psychische Einflüsse
+- Gerüche
+
+### Risiko von Emetika
+
+- Risiko d. Aspiration, v. a. bei Bewusstseinsstörungen
+- Risiko einer erneuten Schädigung d. Speiseröhre, z. B. bei Vergiftungen mit Laugen/Säuren
+- oft unwirksam, da Giftstoffe schon tiefer in den Darm "vorgedrungen" sind
+- Überdosierung möglich -> tödliche Komplikationen
+- Studien zeigten keine bessere Prognose durch Gabe von Emetika
+
+#### bessere Alternativen
+
+- Gabe von **Aktivkohle** (Bindung d. Giftstoffe)
+- **Magenspülung** (kontrollierte Entleerung)
+
+### Antiemetika
+
+- Medikamente zur Verhinderung/Linderung von Erbrechen
+- zur Prophylaxe und symptomatischen Behandlung
+	- Reisekrankheit
+	- Erbrechen unter Chemotherapie
+	- Erbrechen nach Narkose
+- **kontraindiziert bei Vergiftungen** (nur wenn Erbrechen eine Nebenwirkung ist)
+- meist nur sinnvoll bei ausgeprägtem, lang anhaltendem Erbrechen
+- Blockade von Rezeptoren von Nerven, die an der Vermittlung d. Brechreizes mitwirken, z.B. 
+	- Dopaminrezeptoren in der Area postrema
+	- Acetylcholin-Rezeptoren im N. vagus
+	- Serotonin-Rezeptoren (hochwirksam, recht selektiv, aber teuer)
+
+# Kolon-Ca
+
+## Anatomie
+
+- liegt um Dünndarm herum
+- Blinddarm (**Caecum**) mit Wurmfortsatz (**Appendix vermiformis**) (fix.)
+- **Colon ascendens** (an Bauchwand fixiert; retroperitoneal)
+- **Colon transversum** (beweglich; intraperitoneal)
+- **Colon descendens** (fix.)
+- **Colon sigmoideum** (fix.)
+- **Rectum** (fix.)
+
+### Wandaufbau d. Dickdarmschleimhaut
+
+- einschichtiges Zylinderepithel (Wasserresorption)
+- Drüsen (für Schleimabgabe)
+- Ringmuskelschicht
+- Längsmuskelschicht
+  <-> Magen hat zusätzlich noch Quermuskelschicht zum Kneten -> hier nicht erforderlich, da nur Transport
+
+## Aufgaben
+
+### Caecum (Blinddarm)
+
+- Evolutionäres Überbleibsel
+- Wurmfortsatz: Reservoir für Abwehrzellen
+
+### Kolon
+
+- Eindickung d. Stuhls (Resorption von Wasser)
+- Bakterielle Fermentation 
+  -> Resorption von ca. 10% d. bisher unverdauten Kohlenhydrate (ca. 100 kcal/Tag)
+- Resorption einzelner Vitamine (Vit. K)
+- Ansonsten keine Verdauumsenzym (-> keine Enzyme vorhanden)
+- Kolonschleimhaut: Produktion von Schleim, der den Durchgang von Chymus und Wasser erleichtert
+
+## Kolonpolypen
+
+- chronische chemische Reize durch Stuhlbestandteile führen zu **Hyperplasie** (übermäßiges Wachstum)
+	- Ursachen: v.a. Abbauprodukte tierischer Eiweiße und Fette
+	- Abbauprodukte von Gallensäuren
+- In der Regel keine Beschwerden
+	- ggf. Blut im Stuhl, positiver Haemoccult-Test
+	- Nie mit der Diagnose Hämorrhoiden zufriedengeben!
+- Ballaststoffe (Pflanzenfasern) schützen
+	- bessere Gleitfähigkeit d. Stuhls -> kürzere Einwirkzeit
+	- Stuhlgang 1x täglich anstreben!
+- Leichter medikamentöser Schutz durch Aspirin
+
+### Progression zu Kolon-Ca
+
+> [!info] Info
+> - **Adenom**: gutartige Wucherung/Tumor aus Drüsengewebe
+> - **Adenokarzinom**: Bösartiger Tumor aus Drüsengewebe
+
+- Unbehandelt Risiko der Entartung zu Darmkrebs
+	- 5-10 mm Größe zu 1% maligne
+	- 10-20 mm 10%
+	- > 20 mm 50%
+- Sonderform "**Familiäre adenomatöse Polyposis**"
+	- erblich
+	- hunderte von Polypen
+	- Entartung zu 100%
+	- frühzeitige Kolektomie nötig
+	 -> zwar mehr und flüssigerer Stuhlgang, dafür aber kein Krebsrisiko mehr
+
+## Unterschied benigne/maligne
+
+### Benigne Tumoren
+
+- *gut differenziertes* Gewebe (dem Ursprungsgewebe ähnlich)
+- *lokal begrenztes* Wachstum
+- meist *langsames* Wachstum
+- *Verdrängendes* Wachstum
+	- ggf. Kompression umgebender Strukturen, z.B. intrakraniell
+- klare Abgrenzbarkeit zu umgebenden Strukturen
+- oft umgebende Kapsel
+-> an und für sich sich kein Problem, nur bei Hirntumor lebensbedrohlich
+
+### Übergangsformen
+
+- Dysplasie ("schlechtes Wachstum")
+	- Wachstum von Zellen, die typische Merkmale "normaler" Zellen (Ausreifung, Differenzierung) verloren haben
+	- "Reifungsverlust" -> mehr Teilung, weniger Funktion
+- Präkanzerosen ("Krebsvorstufen")
+	- Ursprünglich benigner Tumor
+	- durch z.B. chronische Reizung
+	 -> schleichende "Transformation" in einen malignen Tumor
+	- z.B. Kolonpolypen, Genitalwarzen
+
+### Maligne Tumoren
+
+- *schlecht differenziertes* Gewebe (Ursprungsgewebeart schwer oder nicht mehr erkennbar)
+- *schnelles Wachstum* (mikroskopisch sichtbar: hohe Zahl von Mitosen)
+- *Infiltrierendes Wachstum*:
+	- Durchdringung d. Basalmembran
+	- Einwachsen in umliegendes Gewebe
+	- Tumorränder oft schwer abgrenzbar
+- Bildung von Metastasen
+	- Loslösung von Zellen
+	- Transport per Blut/Lymphe
+	- Absiedlung in Lymphknoten und anderen Organen (**Metastasen**)
+- Neigung zu Rezidiven (Wiederauftreten nach Therapie)
+  -> da durch schlechte Differenzierung genaues Rausschneiden nicht möglich ist
+
+
+## Risikofaktoren
+
+- Alter, familiäre Belastung
+- chronische Darmerkrankungen
+- Fleisch-/fettreiche, ballaststoffarme Kost
+- Übergewicht
+- Rauchen, hoher Alkoholkonsum
+
+## Schutzfakoren
+
+- körperliche Aktivität
+- Ballaststoffe, Gemüse
+- Vitamin C, Folsäure
+- schnelle Stuhlpassage
+- Aspirin (niedrige Dosis)
+
+
+
+Diagnostik/Früherkennung des Kolon-Ca, Vor-/Nachteile d. einzelnen Methoden (Hämoccult, Koloskopie, Kapselendoskopie, Virtuelle Koloskopie)
+
+Prinzip der Metastasierung (wohin?)
+
+Bedeutung d. Früherkennung
+
+Tumormarker (Definition, Nutzung zur Diagnostik)

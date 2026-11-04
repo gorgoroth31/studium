@@ -77,3 +77,29 @@ Wir haben Sprünge in der Linie (gibt's da n Problem?
 
 Ich brauch liste von intervall zu intervall und wie viel zeit 
 -> beat zu beat herzfrequenz berechnen mit standardabweichung
+
+## Learnings
+
+- alles dokumentieren (verw. Geräte, Aufzeichnung d. Messversuchs (wann startet die Ruhephase, wann das Spiel/Schmerz etc...), Prompts)
+- gescheite Prompts erstellen, damit Script möglichst gut ist
+- Daten backup!!!
+
+# Blutzucker
+
+- verw. Gerät: Libre3Sensor
+- Pat.: Prof
+
+### Unterschiedliche Versuche
+
+- morgen/abend kohlenhydrate konsum
+- kartoffeln
+- traubenzucker
+- an einem morgen zum frühstück eine Banane und am nächsten Morgen die gleiche Äquivalente an Kohlenhydrate in Form von Traubenzucker
+
+### Protokoll
+
+- 8 Stunden vor Messung nichts essen
+- Letzte Mahlzeit mit Uhrzeit festhalten
+- Banane 20g Kohlenhydrate
+- Traubenzucker 26g
+- wie lange die Messung?
